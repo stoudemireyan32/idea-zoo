@@ -20,8 +20,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-001",
     "slug": "adaptive-reasoning-budget-1-1",
     "title": {
-      "en": "Adaptive Reasoning Budget Framework 1",
-      "zh": "推理与可靠性 · 1号方向"
+      "en": "Adaptive Reasoning Budget",
+      "zh": "推理与可靠性"
     },
     "tagline": {
       "en": "A practical research direction for reasoning & reliability with measurable outcomes.",
@@ -84,8 +84,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-002",
     "slug": "counterfactual-chain-auditing-1-2",
     "title": {
-      "en": "Counterfactual Chain Auditing Framework 2",
-      "zh": "推理与可靠性 · 2号方向"
+      "en": "Counterfactual Chain Auditing",
+      "zh": "推理与可靠性"
     },
     "tagline": {
       "en": "A practical research direction for reasoning & reliability with measurable outcomes.",
@@ -148,8 +148,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-003",
     "slug": "verifier-first-decoding-1-3",
     "title": {
-      "en": "Verifier-first Decoding Framework 3",
-      "zh": "推理与可靠性 · 3号方向"
+      "en": "Verifier-first Decoding",
+      "zh": "推理与可靠性"
     },
     "tagline": {
       "en": "A practical research direction for reasoning & reliability with measurable outcomes.",
@@ -212,8 +212,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-004",
     "slug": "uncertainty-aware-refusal-1-4",
     "title": {
-      "en": "Uncertainty-aware Refusal Framework 4",
-      "zh": "推理与可靠性 · 4号方向"
+      "en": "Uncertainty-aware Refusal",
+      "zh": "推理与可靠性"
     },
     "tagline": {
       "en": "A practical research direction for reasoning & reliability with measurable outcomes.",
@@ -276,8 +276,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-005",
     "slug": "long-context-logic-stability-1-5",
     "title": {
-      "en": "Long-context Logic Stability Framework 5",
-      "zh": "推理与可靠性 · 5号方向"
+      "en": "Long-context Logic Stability",
+      "zh": "推理与可靠性"
     },
     "tagline": {
       "en": "A practical research direction for reasoning & reliability with measurable outcomes.",
@@ -340,8 +340,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-006",
     "slug": "reasoning-trace-compression-1-6",
     "title": {
-      "en": "Reasoning Trace Compression Framework 6",
-      "zh": "推理与可靠性 · 6号方向"
+      "en": "Reasoning Trace Compression",
+      "zh": "推理与可靠性"
     },
     "tagline": {
       "en": "A practical research direction for reasoning & reliability with measurable outcomes.",
@@ -404,8 +404,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-007",
     "slug": "self-critique-consistency-1-7",
     "title": {
-      "en": "Self-critique Consistency Framework 7",
-      "zh": "推理与可靠性 · 7号方向"
+      "en": "Self-critique Consistency",
+      "zh": "推理与可靠性"
     },
     "tagline": {
       "en": "A practical research direction for reasoning & reliability with measurable outcomes.",
@@ -468,8 +468,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-008",
     "slug": "proof-grounded-generation-1-8",
     "title": {
-      "en": "Proof-grounded Generation Framework 8",
-      "zh": "推理与可靠性 · 8号方向"
+      "en": "Proof-grounded Generation",
+      "zh": "推理与可靠性"
     },
     "tagline": {
       "en": "A practical research direction for reasoning & reliability with measurable outcomes.",
@@ -532,8 +532,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-009",
     "slug": "symbolic-neural-hybrid-reasoning-1-9",
     "title": {
-      "en": "Symbolic-neural Hybrid Reasoning Framework 9",
-      "zh": "推理与可靠性 · 9号方向"
+      "en": "Symbolic-neural Hybrid Reasoning",
+      "zh": "推理与可靠性"
     },
     "tagline": {
       "en": "A practical research direction for reasoning & reliability with measurable outcomes.",
@@ -596,8 +596,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-010",
     "slug": "reasoning-hallucination-detection-1-10",
     "title": {
-      "en": "Reasoning Hallucination Detection Framework 10",
-      "zh": "推理与可靠性 · 10号方向"
+      "en": "Reasoning Hallucination Detection",
+      "zh": "推理与可靠性"
     },
     "tagline": {
       "en": "A practical research direction for reasoning & reliability with measurable outcomes.",
@@ -660,8 +660,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-011",
     "slug": "causal-trace-alignment-1-11",
     "title": {
-      "en": "Causal Trace Alignment Framework 11",
-      "zh": "推理与可靠性 · 11号方向"
+      "en": "Causal Trace Alignment",
+      "zh": "推理与可靠性"
     },
     "tagline": {
       "en": "A practical research direction for reasoning & reliability with measurable outcomes.",
@@ -724,8 +724,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-012",
     "slug": "robust-multi-hop-decomposition-1-12",
     "title": {
-      "en": "Robust Multi-hop Decomposition Framework 12",
-      "zh": "推理与可靠性 · 12号方向"
+      "en": "Robust Multi-hop Decomposition",
+      "zh": "推理与可靠性"
     },
     "tagline": {
       "en": "A practical research direction for reasoning & reliability with measurable outcomes.",
@@ -788,8 +788,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-013",
     "slug": "error-aware-self-correction-1-13",
     "title": {
-      "en": "Error-aware Self-correction Framework 13",
-      "zh": "推理与可靠性 · 13号方向"
+      "en": "Error-aware Self-correction",
+      "zh": "推理与可靠性"
     },
     "tagline": {
       "en": "A practical research direction for reasoning & reliability with measurable outcomes.",
@@ -852,8 +852,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-014",
     "slug": "process-reward-calibration-1-14",
     "title": {
-      "en": "Process Reward Calibration Framework 14",
-      "zh": "推理与可靠性 · 14号方向"
+      "en": "Process Reward Calibration",
+      "zh": "推理与可靠性"
     },
     "tagline": {
       "en": "A practical research direction for reasoning & reliability with measurable outcomes.",
@@ -916,8 +916,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-015",
     "slug": "reasoning-safety-guardrails-1-15",
     "title": {
-      "en": "Reasoning Safety Guardrails Framework 15",
-      "zh": "推理与可靠性 · 15号方向"
+      "en": "Reasoning Safety Guardrails",
+      "zh": "推理与可靠性"
     },
     "tagline": {
       "en": "A practical research direction for reasoning & reliability with measurable outcomes.",
@@ -980,8 +980,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-016",
     "slug": "uncertain-step-abstention-1-16",
     "title": {
-      "en": "Uncertain Step Abstention Framework 16",
-      "zh": "推理与可靠性 · 16号方向"
+      "en": "Uncertain Step Abstention",
+      "zh": "推理与可靠性"
     },
     "tagline": {
       "en": "A practical research direction for reasoning & reliability with measurable outcomes.",
@@ -1044,8 +1044,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-017",
     "slug": "deliberation-depth-routing-1-17",
     "title": {
-      "en": "Deliberation Depth Routing Framework 17",
-      "zh": "推理与可靠性 · 17号方向"
+      "en": "Deliberation Depth Routing",
+      "zh": "推理与可靠性"
     },
     "tagline": {
       "en": "A practical research direction for reasoning & reliability with measurable outcomes.",
@@ -1108,8 +1108,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-018",
     "slug": "retrieval-budget-optimization-2-1",
     "title": {
-      "en": "Retrieval Budget Optimization Framework 1",
-      "zh": "检索、记忆与知识 · 1号方向"
+      "en": "Retrieval Budget Optimization",
+      "zh": "检索、记忆与知识"
     },
     "tagline": {
       "en": "A practical research direction for rag, memory & knowledge with measurable outcomes.",
@@ -1172,8 +1172,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-019",
     "slug": "temporal-freshness-benchmark-2-2",
     "title": {
-      "en": "Temporal Freshness Benchmark Framework 2",
-      "zh": "检索、记忆与知识 · 2号方向"
+      "en": "Temporal Freshness Benchmark",
+      "zh": "检索、记忆与知识"
     },
     "tagline": {
       "en": "A practical research direction for rag, memory & knowledge with measurable outcomes.",
@@ -1236,8 +1236,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-020",
     "slug": "citation-faithfulness-scoring-2-3",
     "title": {
-      "en": "Citation Faithfulness Scoring Framework 3",
-      "zh": "检索、记忆与知识 · 3号方向"
+      "en": "Citation Faithfulness Scoring",
+      "zh": "检索、记忆与知识"
     },
     "tagline": {
       "en": "A practical research direction for rag, memory & knowledge with measurable outcomes.",
@@ -1300,8 +1300,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-021",
     "slug": "memory-decay-policy-learning-2-4",
     "title": {
-      "en": "Memory Decay Policy Learning Framework 4",
-      "zh": "检索、记忆与知识 · 4号方向"
+      "en": "Memory Decay Policy Learning",
+      "zh": "检索、记忆与知识"
     },
     "tagline": {
       "en": "A practical research direction for rag, memory & knowledge with measurable outcomes.",
@@ -1364,8 +1364,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-022",
     "slug": "hybrid-symbolic-vector-retrieval-2-5",
     "title": {
-      "en": "Hybrid Symbolic-vector Retrieval Framework 5",
-      "zh": "检索、记忆与知识 · 5号方向"
+      "en": "Hybrid Symbolic-vector Retrieval",
+      "zh": "检索、记忆与知识"
     },
     "tagline": {
       "en": "A practical research direction for rag, memory & knowledge with measurable outcomes.",
@@ -1428,8 +1428,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-023",
     "slug": "knowledge-conflict-arbitration-2-6",
     "title": {
-      "en": "Knowledge Conflict Arbitration Framework 6",
-      "zh": "检索、记忆与知识 · 6号方向"
+      "en": "Knowledge Conflict Arbitration",
+      "zh": "检索、记忆与知识"
     },
     "tagline": {
       "en": "A practical research direction for rag, memory & knowledge with measurable outcomes.",
@@ -1492,8 +1492,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-024",
     "slug": "query-aware-reranking-policy-2-7",
     "title": {
-      "en": "Query-aware Reranking Policy Framework 7",
-      "zh": "检索、记忆与知识 · 7号方向"
+      "en": "Query-aware Reranking Policy",
+      "zh": "检索、记忆与知识"
     },
     "tagline": {
       "en": "A practical research direction for rag, memory & knowledge with measurable outcomes.",
@@ -1556,8 +1556,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-025",
     "slug": "context-packing-optimization-2-8",
     "title": {
-      "en": "Context Packing Optimization Framework 8",
-      "zh": "检索、记忆与知识 · 8号方向"
+      "en": "Context Packing Optimization",
+      "zh": "检索、记忆与知识"
     },
     "tagline": {
       "en": "A practical research direction for rag, memory & knowledge with measurable outcomes.",
@@ -1620,8 +1620,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-026",
     "slug": "evidence-chain-reconstruction-2-9",
     "title": {
-      "en": "Evidence Chain Reconstruction Framework 9",
-      "zh": "检索、记忆与知识 · 9号方向"
+      "en": "Evidence Chain Reconstruction",
+      "zh": "检索、记忆与知识"
     },
     "tagline": {
       "en": "A practical research direction for rag, memory & knowledge with measurable outcomes.",
@@ -1684,8 +1684,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-027",
     "slug": "source-trust-weighting-2-10",
     "title": {
-      "en": "Source Trust Weighting Framework 10",
-      "zh": "检索、记忆与知识 · 10号方向"
+      "en": "Source Trust Weighting",
+      "zh": "检索、记忆与知识"
     },
     "tagline": {
       "en": "A practical research direction for rag, memory & knowledge with measurable outcomes.",
@@ -1748,8 +1748,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-028",
     "slug": "domain-adaptation-for-enterprise-rag-2-11",
     "title": {
-      "en": "Domain Adaptation For Enterprise RAG Framework 11",
-      "zh": "检索、记忆与知识 · 11号方向"
+      "en": "Domain Adaptation For Enterprise RAG",
+      "zh": "检索、记忆与知识"
     },
     "tagline": {
       "en": "A practical research direction for rag, memory & knowledge with measurable outcomes.",
@@ -1812,8 +1812,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-029",
     "slug": "cross-lingual-retrieval-consistency-2-12",
     "title": {
-      "en": "Cross-lingual Retrieval Consistency Framework 12",
-      "zh": "检索、记忆与知识 · 12号方向"
+      "en": "Cross-lingual Retrieval Consistency",
+      "zh": "检索、记忆与知识"
     },
     "tagline": {
       "en": "A practical research direction for rag, memory & knowledge with measurable outcomes.",
@@ -1876,8 +1876,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-030",
     "slug": "grounded-answer-calibration-2-13",
     "title": {
-      "en": "Grounded Answer Calibration Framework 13",
-      "zh": "检索、记忆与知识 · 13号方向"
+      "en": "Grounded Answer Calibration",
+      "zh": "检索、记忆与知识"
     },
     "tagline": {
       "en": "A practical research direction for rag, memory & knowledge with measurable outcomes.",
@@ -1940,8 +1940,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-031",
     "slug": "knowledge-graph-assisted-retrieval-2-14",
     "title": {
-      "en": "Knowledge Graph Assisted Retrieval Framework 14",
-      "zh": "检索、记忆与知识 · 14号方向"
+      "en": "Knowledge Graph Assisted Retrieval",
+      "zh": "检索、记忆与知识"
     },
     "tagline": {
       "en": "A practical research direction for rag, memory & knowledge with measurable outcomes.",
@@ -2004,8 +2004,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-032",
     "slug": "session-memory-compression-2-15",
     "title": {
-      "en": "Session Memory Compression Framework 15",
-      "zh": "检索、记忆与知识 · 15号方向"
+      "en": "Session Memory Compression",
+      "zh": "检索、记忆与知识"
     },
     "tagline": {
       "en": "A practical research direction for rag, memory & knowledge with measurable outcomes.",
@@ -2068,8 +2068,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-033",
     "slug": "retrieval-drift-diagnosis-2-16",
     "title": {
-      "en": "Retrieval Drift Diagnosis Framework 16",
-      "zh": "检索、记忆与知识 · 16号方向"
+      "en": "Retrieval Drift Diagnosis",
+      "zh": "检索、记忆与知识"
     },
     "tagline": {
       "en": "A practical research direction for rag, memory & knowledge with measurable outcomes.",
@@ -2132,8 +2132,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-034",
     "slug": "evidence-contradiction-repair-2-17",
     "title": {
-      "en": "Evidence Contradiction Repair Framework 17",
-      "zh": "检索、记忆与知识 · 17号方向"
+      "en": "Evidence Contradiction Repair",
+      "zh": "检索、记忆与知识"
     },
     "tagline": {
       "en": "A practical research direction for rag, memory & knowledge with measurable outcomes.",
@@ -2196,8 +2196,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-035",
     "slug": "tool-planning-stability-3-1",
     "title": {
-      "en": "Tool Planning Stability Framework 1",
-      "zh": "智能体系统 · 1号方向"
+      "en": "Tool Planning Stability",
+      "zh": "智能体系统"
     },
     "tagline": {
       "en": "A practical research direction for agentic systems with measurable outcomes.",
@@ -2260,8 +2260,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-036",
     "slug": "failure-aware-rollback-protocol-3-2",
     "title": {
-      "en": "Failure-aware Rollback Protocol Framework 2",
-      "zh": "智能体系统 · 2号方向"
+      "en": "Failure-aware Rollback Protocol",
+      "zh": "智能体系统"
     },
     "tagline": {
       "en": "A practical research direction for agentic systems with measurable outcomes.",
@@ -2324,8 +2324,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-037",
     "slug": "latency-aware-tool-routing-3-3",
     "title": {
-      "en": "Latency-aware Tool Routing Framework 3",
-      "zh": "智能体系统 · 3号方向"
+      "en": "Latency-aware Tool Routing",
+      "zh": "智能体系统"
     },
     "tagline": {
       "en": "A practical research direction for agentic systems with measurable outcomes.",
@@ -2388,8 +2388,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-038",
     "slug": "multi-agent-delegation-control-3-4",
     "title": {
-      "en": "Multi-agent Delegation Control Framework 4",
-      "zh": "智能体系统 · 4号方向"
+      "en": "Multi-agent Delegation Control",
+      "zh": "智能体系统"
     },
     "tagline": {
       "en": "A practical research direction for agentic systems with measurable outcomes.",
@@ -2452,8 +2452,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-039",
     "slug": "agent-memory-governance-3-5",
     "title": {
-      "en": "Agent Memory Governance Framework 5",
-      "zh": "智能体系统 · 5号方向"
+      "en": "Agent Memory Governance",
+      "zh": "智能体系统"
     },
     "tagline": {
       "en": "A practical research direction for agentic systems with measurable outcomes.",
@@ -2516,8 +2516,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-040",
     "slug": "task-decomposition-quality-metric-3-6",
     "title": {
-      "en": "Task Decomposition Quality Metric Framework 6",
-      "zh": "智能体系统 · 6号方向"
+      "en": "Task Decomposition Quality Metric",
+      "zh": "智能体系统"
     },
     "tagline": {
       "en": "A practical research direction for agentic systems with measurable outcomes.",
@@ -2580,8 +2580,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-041",
     "slug": "execution-trace-replay-debugging-3-7",
     "title": {
-      "en": "Execution Trace Replay Debugging Framework 7",
-      "zh": "智能体系统 · 7号方向"
+      "en": "Execution Trace Replay Debugging",
+      "zh": "智能体系统"
     },
     "tagline": {
       "en": "A practical research direction for agentic systems with measurable outcomes.",
@@ -2644,8 +2644,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-042",
     "slug": "human-interrupt-alignment-3-8",
     "title": {
-      "en": "Human Interrupt Alignment Framework 8",
-      "zh": "智能体系统 · 8号方向"
+      "en": "Human Interrupt Alignment",
+      "zh": "智能体系统"
     },
     "tagline": {
       "en": "A practical research direction for agentic systems with measurable outcomes.",
@@ -2708,8 +2708,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-043",
     "slug": "action-safety-sandbox-policy-3-9",
     "title": {
-      "en": "Action Safety Sandbox Policy Framework 9",
-      "zh": "智能体系统 · 9号方向"
+      "en": "Action Safety Sandbox Policy",
+      "zh": "智能体系统"
     },
     "tagline": {
       "en": "A practical research direction for agentic systems with measurable outcomes.",
@@ -2772,8 +2772,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-044",
     "slug": "goal-priority-scheduling-3-10",
     "title": {
-      "en": "Goal-priority Scheduling Framework 10",
-      "zh": "智能体系统 · 10号方向"
+      "en": "Goal-priority Scheduling",
+      "zh": "智能体系统"
     },
     "tagline": {
       "en": "A practical research direction for agentic systems with measurable outcomes.",
@@ -2836,8 +2836,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-045",
     "slug": "tool-schema-drift-recovery-3-11",
     "title": {
-      "en": "Tool Schema Drift Recovery Framework 11",
-      "zh": "智能体系统 · 11号方向"
+      "en": "Tool Schema Drift Recovery",
+      "zh": "智能体系统"
     },
     "tagline": {
       "en": "A practical research direction for agentic systems with measurable outcomes.",
@@ -2900,8 +2900,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-046",
     "slug": "autonomous-retry-budget-3-12",
     "title": {
-      "en": "Autonomous Retry Budget Framework 12",
-      "zh": "智能体系统 · 12号方向"
+      "en": "Autonomous Retry Budget",
+      "zh": "智能体系统"
     },
     "tagline": {
       "en": "A practical research direction for agentic systems with measurable outcomes.",
@@ -2964,8 +2964,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-047",
     "slug": "agent-reliability-benchmark-3-13",
     "title": {
-      "en": "Agent Reliability Benchmark Framework 13",
-      "zh": "智能体系统 · 13号方向"
+      "en": "Agent Reliability Benchmark",
+      "zh": "智能体系统"
     },
     "tagline": {
       "en": "A practical research direction for agentic systems with measurable outcomes.",
@@ -3028,8 +3028,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-048",
     "slug": "state-checkpoint-consistency-3-14",
     "title": {
-      "en": "State Checkpoint Consistency Framework 14",
-      "zh": "智能体系统 · 14号方向"
+      "en": "State Checkpoint Consistency",
+      "zh": "智能体系统"
     },
     "tagline": {
       "en": "A practical research direction for agentic systems with measurable outcomes.",
@@ -3092,8 +3092,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-049",
     "slug": "agent-plan-explainability-3-15",
     "title": {
-      "en": "Agent Plan Explainability Framework 15",
-      "zh": "智能体系统 · 15号方向"
+      "en": "Agent Plan Explainability",
+      "zh": "智能体系统"
     },
     "tagline": {
       "en": "A practical research direction for agentic systems with measurable outcomes.",
@@ -3156,8 +3156,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-050",
     "slug": "role-specialized-team-agents-3-16",
     "title": {
-      "en": "Role-specialized Team Agents Framework 16",
-      "zh": "智能体系统 · 16号方向"
+      "en": "Role-specialized Team Agents",
+      "zh": "智能体系统"
     },
     "tagline": {
       "en": "A practical research direction for agentic systems with measurable outcomes.",
@@ -3220,8 +3220,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-051",
     "slug": "agent-cost-governance-3-17",
     "title": {
-      "en": "Agent Cost Governance Framework 17",
-      "zh": "智能体系统 · 17号方向"
+      "en": "Agent Cost Governance",
+      "zh": "智能体系统"
     },
     "tagline": {
       "en": "A practical research direction for agentic systems with measurable outcomes.",
@@ -3284,8 +3284,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-052",
     "slug": "vision-rationale-localization-4-1",
     "title": {
-      "en": "Vision Rationale Localization Framework 1",
-      "zh": "多模态与视觉语言 · 1号方向"
+      "en": "Vision Rationale Localization",
+      "zh": "多模态与视觉语言"
     },
     "tagline": {
       "en": "A practical research direction for multimodal & vision-language with measurable outcomes.",
@@ -3348,8 +3348,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-053",
     "slug": "multimodal-hallucination-tracing-4-2",
     "title": {
-      "en": "Multimodal Hallucination Tracing Framework 2",
-      "zh": "多模态与视觉语言 · 2号方向"
+      "en": "Multimodal Hallucination Tracing",
+      "zh": "多模态与视觉语言"
     },
     "tagline": {
       "en": "A practical research direction for multimodal & vision-language with measurable outcomes.",
@@ -3412,8 +3412,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-054",
     "slug": "video-temporal-grounding-4-3",
     "title": {
-      "en": "Video Temporal Grounding Framework 3",
-      "zh": "多模态与视觉语言 · 3号方向"
+      "en": "Video Temporal Grounding",
+      "zh": "多模态与视觉语言"
     },
     "tagline": {
       "en": "A practical research direction for multimodal & vision-language with measurable outcomes.",
@@ -3476,8 +3476,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-055",
     "slug": "chart-understanding-reliability-4-4",
     "title": {
-      "en": "Chart Understanding Reliability Framework 4",
-      "zh": "多模态与视觉语言 · 4号方向"
+      "en": "Chart Understanding Reliability",
+      "zh": "多模态与视觉语言"
     },
     "tagline": {
       "en": "A practical research direction for multimodal & vision-language with measurable outcomes.",
@@ -3540,8 +3540,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-056",
     "slug": "document-image-reasoning-4-5",
     "title": {
-      "en": "Document-image Reasoning Framework 5",
-      "zh": "多模态与视觉语言 · 5号方向"
+      "en": "Document-image Reasoning",
+      "zh": "多模态与视觉语言"
     },
     "tagline": {
       "en": "A practical research direction for multimodal & vision-language with measurable outcomes.",
@@ -3604,8 +3604,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-057",
     "slug": "cross-modal-contradiction-detection-4-6",
     "title": {
-      "en": "Cross-modal Contradiction Detection Framework 6",
-      "zh": "多模态与视觉语言 · 6号方向"
+      "en": "Cross-modal Contradiction Detection",
+      "zh": "多模态与视觉语言"
     },
     "tagline": {
       "en": "A practical research direction for multimodal & vision-language with measurable outcomes.",
@@ -3668,8 +3668,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-058",
     "slug": "speech-text-alignment-robustness-4-7",
     "title": {
-      "en": "Speech-text Alignment Robustness Framework 7",
-      "zh": "多模态与视觉语言 · 7号方向"
+      "en": "Speech-text Alignment Robustness",
+      "zh": "多模态与视觉语言"
     },
     "tagline": {
       "en": "A practical research direction for multimodal & vision-language with measurable outcomes.",
@@ -3732,8 +3732,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-059",
     "slug": "video-tool-use-planning-4-8",
     "title": {
-      "en": "Video Tool-use Planning Framework 8",
-      "zh": "多模态与视觉语言 · 8号方向"
+      "en": "Video Tool-use Planning",
+      "zh": "多模态与视觉语言"
     },
     "tagline": {
       "en": "A practical research direction for multimodal & vision-language with measurable outcomes.",
@@ -3796,8 +3796,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-060",
     "slug": "long-video-context-compression-4-9",
     "title": {
-      "en": "Long Video Context Compression Framework 9",
-      "zh": "多模态与视觉语言 · 9号方向"
+      "en": "Long Video Context Compression",
+      "zh": "多模态与视觉语言"
     },
     "tagline": {
       "en": "A practical research direction for multimodal & vision-language with measurable outcomes.",
@@ -3860,8 +3860,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-061",
     "slug": "fine-grained-visual-retrieval-4-10",
     "title": {
-      "en": "Fine-grained Visual Retrieval Framework 10",
-      "zh": "多模态与视觉语言 · 10号方向"
+      "en": "Fine-grained Visual Retrieval",
+      "zh": "多模态与视觉语言"
     },
     "tagline": {
       "en": "A practical research direction for multimodal & vision-language with measurable outcomes.",
@@ -3924,8 +3924,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-062",
     "slug": "medical-image-report-grounding-4-11",
     "title": {
-      "en": "Medical Image Report Grounding Framework 11",
-      "zh": "多模态与视觉语言 · 11号方向"
+      "en": "Medical Image Report Grounding",
+      "zh": "多模态与视觉语言"
     },
     "tagline": {
       "en": "A practical research direction for multimodal & vision-language with measurable outcomes.",
@@ -3988,8 +3988,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-063",
     "slug": "visual-chain-of-thought-validation-4-12",
     "title": {
-      "en": "Visual Chain-of-thought Validation Framework 12",
-      "zh": "多模态与视觉语言 · 12号方向"
+      "en": "Visual Chain-of-thought Validation",
+      "zh": "多模态与视觉语言"
     },
     "tagline": {
       "en": "A practical research direction for multimodal & vision-language with measurable outcomes.",
@@ -4052,8 +4052,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-064",
     "slug": "ocr-noise-resilient-reasoning-4-13",
     "title": {
-      "en": "OCR-noise Resilient Reasoning Framework 13",
-      "zh": "多模态与视觉语言 · 13号方向"
+      "en": "OCR-noise Resilient Reasoning",
+      "zh": "多模态与视觉语言"
     },
     "tagline": {
       "en": "A practical research direction for multimodal & vision-language with measurable outcomes.",
@@ -4116,8 +4116,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-065",
     "slug": "multimodal-citation-generation-4-14",
     "title": {
-      "en": "Multimodal Citation Generation Framework 14",
-      "zh": "多模态与视觉语言 · 14号方向"
+      "en": "Multimodal Citation Generation",
+      "zh": "多模态与视觉语言"
     },
     "tagline": {
       "en": "A practical research direction for multimodal & vision-language with measurable outcomes.",
@@ -4180,8 +4180,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-066",
     "slug": "multi-image-consistency-checking-4-15",
     "title": {
-      "en": "Multi-image Consistency Checking Framework 15",
-      "zh": "多模态与视觉语言 · 15号方向"
+      "en": "Multi-image Consistency Checking",
+      "zh": "多模态与视觉语言"
     },
     "tagline": {
       "en": "A practical research direction for multimodal & vision-language with measurable outcomes.",
@@ -4244,8 +4244,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-067",
     "slug": "embodied-visual-planning-4-16",
     "title": {
-      "en": "Embodied Visual Planning Framework 16",
-      "zh": "多模态与视觉语言 · 16号方向"
+      "en": "Embodied Visual Planning",
+      "zh": "多模态与视觉语言"
     },
     "tagline": {
       "en": "A practical research direction for multimodal & vision-language with measurable outcomes.",
@@ -4308,8 +4308,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-068",
     "slug": "multimodal-uncertainty-calibration-4-17",
     "title": {
-      "en": "Multimodal Uncertainty Calibration Framework 17",
-      "zh": "多模态与视觉语言 · 17号方向"
+      "en": "Multimodal Uncertainty Calibration",
+      "zh": "多模态与视觉语言"
     },
     "tagline": {
       "en": "A practical research direction for multimodal & vision-language with measurable outcomes.",
@@ -4372,8 +4372,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-069",
     "slug": "curriculum-rl-for-tool-use-5-1",
     "title": {
-      "en": "Curriculum RL For Tool Use Framework 1",
-      "zh": "训练与对齐 · 1号方向"
+      "en": "Curriculum RL For Tool Use",
+      "zh": "训练与对齐"
     },
     "tagline": {
       "en": "A practical research direction for training & alignment with measurable outcomes.",
@@ -4436,8 +4436,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-070",
     "slug": "process-supervision-scaling-5-2",
     "title": {
-      "en": "Process Supervision Scaling Framework 2",
-      "zh": "训练与对齐 · 2号方向"
+      "en": "Process Supervision Scaling",
+      "zh": "训练与对齐"
     },
     "tagline": {
       "en": "A practical research direction for training & alignment with measurable outcomes.",
@@ -4500,8 +4500,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-071",
     "slug": "reward-hacking-detection-5-3",
     "title": {
-      "en": "Reward Hacking Detection Framework 3",
-      "zh": "训练与对齐 · 3号方向"
+      "en": "Reward Hacking Detection",
+      "zh": "训练与对齐"
     },
     "tagline": {
       "en": "A practical research direction for training & alignment with measurable outcomes.",
@@ -4564,8 +4564,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-072",
     "slug": "alignment-tax-measurement-5-4",
     "title": {
-      "en": "Alignment Tax Measurement Framework 4",
-      "zh": "训练与对齐 · 4号方向"
+      "en": "Alignment Tax Measurement",
+      "zh": "训练与对齐"
     },
     "tagline": {
       "en": "A practical research direction for training & alignment with measurable outcomes.",
@@ -4628,8 +4628,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-073",
     "slug": "preference-drift-monitoring-5-5",
     "title": {
-      "en": "Preference Drift Monitoring Framework 5",
-      "zh": "训练与对齐 · 5号方向"
+      "en": "Preference Drift Monitoring",
+      "zh": "训练与对齐"
     },
     "tagline": {
       "en": "A practical research direction for training & alignment with measurable outcomes.",
@@ -4692,8 +4692,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-074",
     "slug": "constitutional-policy-optimization-5-6",
     "title": {
-      "en": "Constitutional Policy Optimization Framework 6",
-      "zh": "训练与对齐 · 6号方向"
+      "en": "Constitutional Policy Optimization",
+      "zh": "训练与对齐"
     },
     "tagline": {
       "en": "A practical research direction for training & alignment with measurable outcomes.",
@@ -4756,8 +4756,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-075",
     "slug": "safety-tuned-distillation-5-7",
     "title": {
-      "en": "Safety-tuned Distillation Framework 7",
-      "zh": "训练与对齐 · 7号方向"
+      "en": "Safety-tuned Distillation",
+      "zh": "训练与对齐"
     },
     "tagline": {
       "en": "A practical research direction for training & alignment with measurable outcomes.",
@@ -4820,8 +4820,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-076",
     "slug": "small-model-alignment-transfer-5-8",
     "title": {
-      "en": "Small-model Alignment Transfer Framework 8",
-      "zh": "训练与对齐 · 8号方向"
+      "en": "Small-model Alignment Transfer",
+      "zh": "训练与对齐"
     },
     "tagline": {
       "en": "A practical research direction for training & alignment with measurable outcomes.",
@@ -4884,8 +4884,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-077",
     "slug": "human-feedback-consistency-5-9",
     "title": {
-      "en": "Human Feedback Consistency Framework 9",
-      "zh": "训练与对齐 · 9号方向"
+      "en": "Human Feedback Consistency",
+      "zh": "训练与对齐"
     },
     "tagline": {
       "en": "A practical research direction for training & alignment with measurable outcomes.",
@@ -4948,8 +4948,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-078",
     "slug": "red-team-augmented-training-5-10",
     "title": {
-      "en": "Red-team Augmented Training Framework 10",
-      "zh": "训练与对齐 · 10号方向"
+      "en": "Red-team Augmented Training",
+      "zh": "训练与对齐"
     },
     "tagline": {
       "en": "A practical research direction for training & alignment with measurable outcomes.",
@@ -5012,8 +5012,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-079",
     "slug": "robust-reward-modeling-5-11",
     "title": {
-      "en": "Robust Reward Modeling Framework 11",
-      "zh": "训练与对齐 · 11号方向"
+      "en": "Robust Reward Modeling",
+      "zh": "训练与对齐"
     },
     "tagline": {
       "en": "A practical research direction for training & alignment with measurable outcomes.",
@@ -5076,8 +5076,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-080",
     "slug": "alignment-under-domain-shift-5-12",
     "title": {
-      "en": "Alignment Under Domain Shift Framework 12",
-      "zh": "训练与对齐 · 12号方向"
+      "en": "Alignment Under Domain Shift",
+      "zh": "训练与对齐"
     },
     "tagline": {
       "en": "A practical research direction for training & alignment with measurable outcomes.",
@@ -5140,8 +5140,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-081",
     "slug": "debate-style-supervision-5-13",
     "title": {
-      "en": "Debate-style Supervision Framework 13",
-      "zh": "训练与对齐 · 13号方向"
+      "en": "Debate-style Supervision",
+      "zh": "训练与对齐"
     },
     "tagline": {
       "en": "A practical research direction for training & alignment with measurable outcomes.",
@@ -5204,8 +5204,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-082",
     "slug": "multi-objective-policy-balancing-5-14",
     "title": {
-      "en": "Multi-objective Policy Balancing Framework 14",
-      "zh": "训练与对齐 · 14号方向"
+      "en": "Multi-objective Policy Balancing",
+      "zh": "训练与对齐"
     },
     "tagline": {
       "en": "A practical research direction for training & alignment with measurable outcomes.",
@@ -5268,8 +5268,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-083",
     "slug": "risk-sensitive-finetuning-5-15",
     "title": {
-      "en": "Risk-sensitive Finetuning Framework 15",
-      "zh": "训练与对齐 · 15号方向"
+      "en": "Risk-sensitive Finetuning",
+      "zh": "训练与对齐"
     },
     "tagline": {
       "en": "A practical research direction for training & alignment with measurable outcomes.",
@@ -5332,8 +5332,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-084",
     "slug": "alignment-eval-curriculum-5-16",
     "title": {
-      "en": "Alignment Eval Curriculum Framework 16",
-      "zh": "训练与对齐 · 16号方向"
+      "en": "Alignment Eval Curriculum",
+      "zh": "训练与对齐"
     },
     "tagline": {
       "en": "A practical research direction for training & alignment with measurable outcomes.",
@@ -5396,8 +5396,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-085",
     "slug": "adversarial-preference-robustness-5-17",
     "title": {
-      "en": "Adversarial Preference Robustness Framework 17",
-      "zh": "训练与对齐 · 17号方向"
+      "en": "Adversarial Preference Robustness",
+      "zh": "训练与对齐"
     },
     "tagline": {
       "en": "A practical research direction for training & alignment with measurable outcomes.",
@@ -5460,8 +5460,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-086",
     "slug": "dynamic-model-routing-6-1",
     "title": {
-      "en": "Dynamic Model Routing Framework 1",
-      "zh": "推理与系统优化 · 1号方向"
+      "en": "Dynamic Model Routing",
+      "zh": "推理与系统优化"
     },
     "tagline": {
       "en": "A practical research direction for inference & systems optimization with measurable outcomes.",
@@ -5524,8 +5524,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-087",
     "slug": "token-level-caching-policies-6-2",
     "title": {
-      "en": "Token-level Caching Policies Framework 2",
-      "zh": "推理与系统优化 · 2号方向"
+      "en": "Token-level Caching Policies",
+      "zh": "推理与系统优化"
     },
     "tagline": {
       "en": "A practical research direction for inference & systems optimization with measurable outcomes.",
@@ -5588,8 +5588,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-088",
     "slug": "kv-cache-compression-6-3",
     "title": {
-      "en": "KV-cache Compression Framework 3",
-      "zh": "推理与系统优化 · 3号方向"
+      "en": "KV-cache Compression",
+      "zh": "推理与系统优化"
     },
     "tagline": {
       "en": "A practical research direction for inference & systems optimization with measurable outcomes.",
@@ -5652,8 +5652,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-089",
     "slug": "speculative-decoding-control-6-4",
     "title": {
-      "en": "Speculative Decoding Control Framework 4",
-      "zh": "推理与系统优化 · 4号方向"
+      "en": "Speculative Decoding Control",
+      "zh": "推理与系统优化"
     },
     "tagline": {
       "en": "A practical research direction for inference & systems optimization with measurable outcomes.",
@@ -5716,8 +5716,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-090",
     "slug": "batching-fairness-optimization-6-5",
     "title": {
-      "en": "Batching Fairness Optimization Framework 5",
-      "zh": "推理与系统优化 · 5号方向"
+      "en": "Batching Fairness Optimization",
+      "zh": "推理与系统优化"
     },
     "tagline": {
       "en": "A practical research direction for inference & systems optimization with measurable outcomes.",
@@ -5780,8 +5780,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-091",
     "slug": "multi-tenant-latency-isolation-6-6",
     "title": {
-      "en": "Multi-tenant Latency Isolation Framework 6",
-      "zh": "推理与系统优化 · 6号方向"
+      "en": "Multi-tenant Latency Isolation",
+      "zh": "推理与系统优化"
     },
     "tagline": {
       "en": "A practical research direction for inference & systems optimization with measurable outcomes.",
@@ -5844,8 +5844,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-092",
     "slug": "cost-aware-decoding-6-7",
     "title": {
-      "en": "Cost-aware Decoding Framework 7",
-      "zh": "推理与系统优化 · 7号方向"
+      "en": "Cost-aware Decoding",
+      "zh": "推理与系统优化"
     },
     "tagline": {
       "en": "A practical research direction for inference & systems optimization with measurable outcomes.",
@@ -5908,8 +5908,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-093",
     "slug": "serving-observability-metrics-6-8",
     "title": {
-      "en": "Serving Observability Metrics Framework 8",
-      "zh": "推理与系统优化 · 8号方向"
+      "en": "Serving Observability Metrics",
+      "zh": "推理与系统优化"
     },
     "tagline": {
       "en": "A practical research direction for inference & systems optimization with measurable outcomes.",
@@ -5972,8 +5972,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-094",
     "slug": "green-inference-scheduling-6-9",
     "title": {
-      "en": "Green Inference Scheduling Framework 9",
-      "zh": "推理与系统优化 · 9号方向"
+      "en": "Green Inference Scheduling",
+      "zh": "推理与系统优化"
     },
     "tagline": {
       "en": "A practical research direction for inference & systems optimization with measurable outcomes.",
@@ -6036,8 +6036,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-095",
     "slug": "heterogeneous-hardware-routing-6-10",
     "title": {
-      "en": "Heterogeneous Hardware Routing Framework 10",
-      "zh": "推理与系统优化 · 10号方向"
+      "en": "Heterogeneous Hardware Routing",
+      "zh": "推理与系统优化"
     },
     "tagline": {
       "en": "A practical research direction for inference & systems optimization with measurable outcomes.",
@@ -6100,8 +6100,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-096",
     "slug": "edge-cloud-inference-split-6-11",
     "title": {
-      "en": "Edge-cloud Inference Split Framework 11",
-      "zh": "推理与系统优化 · 11号方向"
+      "en": "Edge-cloud Inference Split",
+      "zh": "推理与系统优化"
     },
     "tagline": {
       "en": "A practical research direction for inference & systems optimization with measurable outcomes.",
@@ -6164,8 +6164,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-097",
     "slug": "p95-latency-reduction-strategy-6-12",
     "title": {
-      "en": "P95 Latency Reduction Strategy Framework 12",
-      "zh": "推理与系统优化 · 12号方向"
+      "en": "P95 Latency Reduction Strategy",
+      "zh": "推理与系统优化"
     },
     "tagline": {
       "en": "A practical research direction for inference & systems optimization with measurable outcomes.",
@@ -6228,8 +6228,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-098",
     "slug": "high-throughput-reranking-6-13",
     "title": {
-      "en": "High-throughput Reranking Framework 13",
-      "zh": "推理与系统优化 · 13号方向"
+      "en": "High-throughput Reranking",
+      "zh": "推理与系统优化"
     },
     "tagline": {
       "en": "A practical research direction for inference & systems optimization with measurable outcomes.",
@@ -6292,8 +6292,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-099",
     "slug": "fault-tolerant-inference-path-6-14",
     "title": {
-      "en": "Fault-tolerant Inference Path Framework 14",
-      "zh": "推理与系统优化 · 14号方向"
+      "en": "Fault-tolerant Inference Path",
+      "zh": "推理与系统优化"
     },
     "tagline": {
       "en": "A practical research direction for inference & systems optimization with measurable outcomes.",
@@ -6356,8 +6356,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-100",
     "slug": "throughput-quality-balancing-6-15",
     "title": {
-      "en": "Throughput-quality Balancing Framework 15",
-      "zh": "推理与系统优化 · 15号方向"
+      "en": "Throughput-quality Balancing",
+      "zh": "推理与系统优化"
     },
     "tagline": {
       "en": "A practical research direction for inference & systems optimization with measurable outcomes.",
@@ -6420,8 +6420,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-101",
     "slug": "inference-qos-governance-6-16",
     "title": {
-      "en": "Inference QoS Governance Framework 16",
-      "zh": "推理与系统优化 · 16号方向"
+      "en": "Inference QoS Governance",
+      "zh": "推理与系统优化"
     },
     "tagline": {
       "en": "A practical research direction for inference & systems optimization with measurable outcomes.",
@@ -6484,8 +6484,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-102",
     "slug": "energy-aware-serving-policies-6-17",
     "title": {
-      "en": "Energy-aware Serving Policies Framework 17",
-      "zh": "推理与系统优化 · 17号方向"
+      "en": "Energy-aware Serving Policies",
+      "zh": "推理与系统优化"
     },
     "tagline": {
       "en": "A practical research direction for inference & systems optimization with measurable outcomes.",
@@ -6548,8 +6548,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-103",
     "slug": "opposition-prompting-benchmark-7-1",
     "title": {
-      "en": "Opposition Prompting Benchmark Framework 1",
-      "zh": "评测与基准 · 1号方向"
+      "en": "Opposition Prompting Benchmark",
+      "zh": "评测与基准"
     },
     "tagline": {
       "en": "A practical research direction for evaluation & benchmarks with measurable outcomes.",
@@ -6612,8 +6612,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-104",
     "slug": "reasoning-faithfulness-metric-7-2",
     "title": {
-      "en": "Reasoning Faithfulness Metric Framework 2",
-      "zh": "评测与基准 · 2号方向"
+      "en": "Reasoning Faithfulness Metric",
+      "zh": "评测与基准"
     },
     "tagline": {
       "en": "A practical research direction for evaluation & benchmarks with measurable outcomes.",
@@ -6676,8 +6676,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-105",
     "slug": "task-level-uncertainty-scoring-7-3",
     "title": {
-      "en": "Task-level Uncertainty Scoring Framework 3",
-      "zh": "评测与基准 · 3号方向"
+      "en": "Task-level Uncertainty Scoring",
+      "zh": "评测与基准"
     },
     "tagline": {
       "en": "A practical research direction for evaluation & benchmarks with measurable outcomes.",
@@ -6740,8 +6740,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-106",
     "slug": "long-context-failure-taxonomy-7-4",
     "title": {
-      "en": "Long-context Failure Taxonomy Framework 4",
-      "zh": "评测与基准 · 4号方向"
+      "en": "Long-context Failure Taxonomy",
+      "zh": "评测与基准"
     },
     "tagline": {
       "en": "A practical research direction for evaluation & benchmarks with measurable outcomes.",
@@ -6804,8 +6804,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-107",
     "slug": "community-review-benchmark-7-5",
     "title": {
-      "en": "Community Review Benchmark Framework 5",
-      "zh": "评测与基准 · 5号方向"
+      "en": "Community Review Benchmark",
+      "zh": "评测与基准"
     },
     "tagline": {
       "en": "A practical research direction for evaluation & benchmarks with measurable outcomes.",
@@ -6868,8 +6868,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-108",
     "slug": "agent-robustness-scorecard-7-6",
     "title": {
-      "en": "Agent Robustness Scorecard Framework 6",
-      "zh": "评测与基准 · 6号方向"
+      "en": "Agent Robustness Scorecard",
+      "zh": "评测与基准"
     },
     "tagline": {
       "en": "A practical research direction for evaluation & benchmarks with measurable outcomes.",
@@ -6932,8 +6932,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-109",
     "slug": "citation-quality-benchmark-7-7",
     "title": {
-      "en": "Citation Quality Benchmark Framework 7",
-      "zh": "评测与基准 · 7号方向"
+      "en": "Citation Quality Benchmark",
+      "zh": "评测与基准"
     },
     "tagline": {
       "en": "A practical research direction for evaluation & benchmarks with measurable outcomes.",
@@ -6996,8 +6996,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-110",
     "slug": "temporal-correctness-suite-7-8",
     "title": {
-      "en": "Temporal Correctness Suite Framework 8",
-      "zh": "评测与基准 · 8号方向"
+      "en": "Temporal Correctness Suite",
+      "zh": "评测与基准"
     },
     "tagline": {
       "en": "A practical research direction for evaluation & benchmarks with measurable outcomes.",
@@ -7060,8 +7060,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-111",
     "slug": "red-team-reproducibility-kit-7-9",
     "title": {
-      "en": "Red-team Reproducibility Kit Framework 9",
-      "zh": "评测与基准 · 9号方向"
+      "en": "Red-team Reproducibility Kit",
+      "zh": "评测与基准"
     },
     "tagline": {
       "en": "A practical research direction for evaluation & benchmarks with measurable outcomes.",
@@ -7124,8 +7124,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-112",
     "slug": "cross-model-comparability-protocol-7-10",
     "title": {
-      "en": "Cross-model Comparability Protocol Framework 10",
-      "zh": "评测与基准 · 10号方向"
+      "en": "Cross-model Comparability Protocol",
+      "zh": "评测与基准"
     },
     "tagline": {
       "en": "A practical research direction for evaluation & benchmarks with measurable outcomes.",
@@ -7188,8 +7188,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-113",
     "slug": "benchmark-leakage-detection-7-11",
     "title": {
-      "en": "Benchmark Leakage Detection Framework 11",
-      "zh": "评测与基准 · 11号方向"
+      "en": "Benchmark Leakage Detection",
+      "zh": "评测与基准"
     },
     "tagline": {
       "en": "A practical research direction for evaluation & benchmarks with measurable outcomes.",
@@ -7252,8 +7252,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-114",
     "slug": "evaluation-cost-accounting-7-12",
     "title": {
-      "en": "Evaluation Cost Accounting Framework 12",
-      "zh": "评测与基准 · 12号方向"
+      "en": "Evaluation Cost Accounting",
+      "zh": "评测与基准"
     },
     "tagline": {
       "en": "A practical research direction for evaluation & benchmarks with measurable outcomes.",
@@ -7316,8 +7316,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-115",
     "slug": "multilingual-fairness-benchmark-7-13",
     "title": {
-      "en": "Multilingual Fairness Benchmark Framework 13",
-      "zh": "评测与基准 · 13号方向"
+      "en": "Multilingual Fairness Benchmark",
+      "zh": "评测与基准"
     },
     "tagline": {
       "en": "A practical research direction for evaluation & benchmarks with measurable outcomes.",
@@ -7380,8 +7380,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-116",
     "slug": "safety-utility-frontier-metric-7-14",
     "title": {
-      "en": "Safety-utility Frontier Metric Framework 14",
-      "zh": "评测与基准 · 14号方向"
+      "en": "Safety-utility Frontier Metric",
+      "zh": "评测与基准"
     },
     "tagline": {
       "en": "A practical research direction for evaluation & benchmarks with measurable outcomes.",
@@ -7444,8 +7444,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-117",
     "slug": "hallucination-severity-rubric-7-15",
     "title": {
-      "en": "Hallucination Severity Rubric Framework 15",
-      "zh": "评测与基准 · 15号方向"
+      "en": "Hallucination Severity Rubric",
+      "zh": "评测与基准"
     },
     "tagline": {
       "en": "A practical research direction for evaluation & benchmarks with measurable outcomes.",
@@ -7508,8 +7508,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-118",
     "slug": "interactive-eval-harness-7-16",
     "title": {
-      "en": "Interactive Eval Harness Framework 16",
-      "zh": "评测与基准 · 16号方向"
+      "en": "Interactive Eval Harness",
+      "zh": "评测与基准"
     },
     "tagline": {
       "en": "A practical research direction for evaluation & benchmarks with measurable outcomes.",
@@ -7572,8 +7572,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-119",
     "slug": "continuous-evaluation-pipeline-7-17",
     "title": {
-      "en": "Continuous Evaluation Pipeline Framework 17",
-      "zh": "评测与基准 · 17号方向"
+      "en": "Continuous Evaluation Pipeline",
+      "zh": "评测与基准"
     },
     "tagline": {
       "en": "A practical research direction for evaluation & benchmarks with measurable outcomes.",
@@ -7636,8 +7636,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-120",
     "slug": "materials-hypothesis-triage-8-1",
     "title": {
-      "en": "Materials Hypothesis Triage Framework 1",
-      "zh": "AI for Science · 1号方向"
+      "en": "Materials Hypothesis Triage",
+      "zh": "AI for Science"
     },
     "tagline": {
       "en": "A practical research direction for ai for science with measurable outcomes.",
@@ -7700,8 +7700,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-121",
     "slug": "protein-experiment-planning-8-2",
     "title": {
-      "en": "Protein Experiment Planning Framework 2",
-      "zh": "AI for Science · 2号方向"
+      "en": "Protein Experiment Planning",
+      "zh": "AI for Science"
     },
     "tagline": {
       "en": "A practical research direction for ai for science with measurable outcomes.",
@@ -7764,8 +7764,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-122",
     "slug": "molecule-property-forecasting-8-3",
     "title": {
-      "en": "Molecule Property Forecasting Framework 3",
-      "zh": "AI for Science · 3号方向"
+      "en": "Molecule Property Forecasting",
+      "zh": "AI for Science"
     },
     "tagline": {
       "en": "A practical research direction for ai for science with measurable outcomes.",
@@ -7828,8 +7828,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-123",
     "slug": "reaction-pathway-recommendation-8-4",
     "title": {
-      "en": "Reaction Pathway Recommendation Framework 4",
-      "zh": "AI for Science · 4号方向"
+      "en": "Reaction Pathway Recommendation",
+      "zh": "AI for Science"
     },
     "tagline": {
       "en": "A practical research direction for ai for science with measurable outcomes.",
@@ -7892,8 +7892,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-124",
     "slug": "scientific-literature-synthesis-8-5",
     "title": {
-      "en": "Scientific Literature Synthesis Framework 5",
-      "zh": "AI for Science · 5号方向"
+      "en": "Scientific Literature Synthesis",
+      "zh": "AI for Science"
     },
     "tagline": {
       "en": "A practical research direction for ai for science with measurable outcomes.",
@@ -7956,8 +7956,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-125",
     "slug": "lab-automation-task-planning-8-6",
     "title": {
-      "en": "Lab Automation Task Planning Framework 6",
-      "zh": "AI for Science · 6号方向"
+      "en": "Lab Automation Task Planning",
+      "zh": "AI for Science"
     },
     "tagline": {
       "en": "A practical research direction for ai for science with measurable outcomes.",
@@ -8020,8 +8020,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-126",
     "slug": "negative-result-mining-8-7",
     "title": {
-      "en": "Negative Result Mining Framework 7",
-      "zh": "AI for Science · 7号方向"
+      "en": "Negative Result Mining",
+      "zh": "AI for Science"
     },
     "tagline": {
       "en": "A practical research direction for ai for science with measurable outcomes.",
@@ -8084,8 +8084,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-127",
     "slug": "scientific-claim-verification-8-8",
     "title": {
-      "en": "Scientific Claim Verification Framework 8",
-      "zh": "AI for Science · 8号方向"
+      "en": "Scientific Claim Verification",
+      "zh": "AI for Science"
     },
     "tagline": {
       "en": "A practical research direction for ai for science with measurable outcomes.",
@@ -8148,8 +8148,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-128",
     "slug": "simulation-guided-discovery-8-9",
     "title": {
-      "en": "Simulation-guided Discovery Framework 9",
-      "zh": "AI for Science · 9号方向"
+      "en": "Simulation-guided Discovery",
+      "zh": "AI for Science"
     },
     "tagline": {
       "en": "A practical research direction for ai for science with measurable outcomes.",
@@ -8212,8 +8212,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-129",
     "slug": "high-throughput-experiment-ranking-8-10",
     "title": {
-      "en": "High-throughput Experiment Ranking Framework 10",
-      "zh": "AI for Science · 10号方向"
+      "en": "High-throughput Experiment Ranking",
+      "zh": "AI for Science"
     },
     "tagline": {
       "en": "A practical research direction for ai for science with measurable outcomes.",
@@ -8276,8 +8276,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-130",
     "slug": "scientific-knowledge-graph-linking-8-11",
     "title": {
-      "en": "Scientific Knowledge Graph Linking Framework 11",
-      "zh": "AI for Science · 11号方向"
+      "en": "Scientific Knowledge Graph Linking",
+      "zh": "AI for Science"
     },
     "tagline": {
       "en": "A practical research direction for ai for science with measurable outcomes.",
@@ -8340,8 +8340,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-131",
     "slug": "instrument-log-anomaly-detection-8-12",
     "title": {
-      "en": "Instrument Log Anomaly Detection Framework 12",
-      "zh": "AI for Science · 12号方向"
+      "en": "Instrument Log Anomaly Detection",
+      "zh": "AI for Science"
     },
     "tagline": {
       "en": "A practical research direction for ai for science with measurable outcomes.",
@@ -8404,8 +8404,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-132",
     "slug": "hypothesis-novelty-scoring-8-13",
     "title": {
-      "en": "Hypothesis Novelty Scoring Framework 13",
-      "zh": "AI for Science · 13号方向"
+      "en": "Hypothesis Novelty Scoring",
+      "zh": "AI for Science"
     },
     "tagline": {
       "en": "A practical research direction for ai for science with measurable outcomes.",
@@ -8468,8 +8468,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-133",
     "slug": "experiment-budget-allocation-8-14",
     "title": {
-      "en": "Experiment Budget Allocation Framework 14",
-      "zh": "AI for Science · 14号方向"
+      "en": "Experiment Budget Allocation",
+      "zh": "AI for Science"
     },
     "tagline": {
       "en": "A practical research direction for ai for science with measurable outcomes.",
@@ -8532,8 +8532,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-134",
     "slug": "cross-discipline-transfer-discovery-8-15",
     "title": {
-      "en": "Cross-discipline Transfer Discovery Framework 15",
-      "zh": "AI for Science · 15号方向"
+      "en": "Cross-discipline Transfer Discovery",
+      "zh": "AI for Science"
     },
     "tagline": {
       "en": "A practical research direction for ai for science with measurable outcomes.",
@@ -8596,8 +8596,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-135",
     "slug": "uncertainty-aware-lab-design-8-16",
     "title": {
-      "en": "Uncertainty-aware Lab Design Framework 16",
-      "zh": "AI for Science · 16号方向"
+      "en": "Uncertainty-aware Lab Design",
+      "zh": "AI for Science"
     },
     "tagline": {
       "en": "A practical research direction for ai for science with measurable outcomes.",
@@ -8660,8 +8660,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-136",
     "slug": "science-workflow-copilots-8-17",
     "title": {
-      "en": "Science Workflow Copilots Framework 17",
-      "zh": "AI for Science · 17号方向"
+      "en": "Science Workflow Copilots",
+      "zh": "AI for Science"
     },
     "tagline": {
       "en": "A practical research direction for ai for science with measurable outcomes.",
@@ -8724,8 +8724,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-137",
     "slug": "policy-aware-refusal-strategies-9-1",
     "title": {
-      "en": "Policy-aware Refusal Strategies Framework 1",
-      "zh": "安全、治理与政策 · 1号方向"
+      "en": "Policy-aware Refusal Strategies",
+      "zh": "安全、治理与政策"
     },
     "tagline": {
       "en": "A practical research direction for safety, governance & policy with measurable outcomes.",
@@ -8788,8 +8788,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-138",
     "slug": "harm-severity-calibration-9-2",
     "title": {
-      "en": "Harm Severity Calibration Framework 2",
-      "zh": "安全、治理与政策 · 2号方向"
+      "en": "Harm Severity Calibration",
+      "zh": "安全、治理与政策"
     },
     "tagline": {
       "en": "A practical research direction for safety, governance & policy with measurable outcomes.",
@@ -8852,8 +8852,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-139",
     "slug": "compliance-traceability-9-3",
     "title": {
-      "en": "Compliance Traceability Framework 3",
-      "zh": "安全、治理与政策 · 3号方向"
+      "en": "Compliance Traceability",
+      "zh": "安全、治理与政策"
     },
     "tagline": {
       "en": "A practical research direction for safety, governance & policy with measurable outcomes.",
@@ -8916,8 +8916,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-140",
     "slug": "model-card-evidence-standard-9-4",
     "title": {
-      "en": "Model Card Evidence Standard Framework 4",
-      "zh": "安全、治理与政策 · 4号方向"
+      "en": "Model Card Evidence Standard",
+      "zh": "安全、治理与政策"
     },
     "tagline": {
       "en": "A practical research direction for safety, governance & policy with measurable outcomes.",
@@ -8980,8 +8980,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-141",
     "slug": "risk-taxonomy-automation-9-5",
     "title": {
-      "en": "Risk Taxonomy Automation Framework 5",
-      "zh": "安全、治理与政策 · 5号方向"
+      "en": "Risk Taxonomy Automation",
+      "zh": "安全、治理与政策"
     },
     "tagline": {
       "en": "A practical research direction for safety, governance & policy with measurable outcomes.",
@@ -9044,8 +9044,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-142",
     "slug": "sensitive-domain-routing-9-6",
     "title": {
-      "en": "Sensitive Domain Routing Framework 6",
-      "zh": "安全、治理与政策 · 6号方向"
+      "en": "Sensitive Domain Routing",
+      "zh": "安全、治理与政策"
     },
     "tagline": {
       "en": "A practical research direction for safety, governance & policy with measurable outcomes.",
@@ -9108,8 +9108,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-143",
     "slug": "abuse-pattern-detection-9-7",
     "title": {
-      "en": "Abuse Pattern Detection Framework 7",
-      "zh": "安全、治理与政策 · 7号方向"
+      "en": "Abuse Pattern Detection",
+      "zh": "安全、治理与政策"
     },
     "tagline": {
       "en": "A practical research direction for safety, governance & policy with measurable outcomes.",
@@ -9172,8 +9172,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-144",
     "slug": "governance-ready-evaluation-9-8",
     "title": {
-      "en": "Governance-ready Evaluation Framework 8",
-      "zh": "安全、治理与政策 · 8号方向"
+      "en": "Governance-ready Evaluation",
+      "zh": "安全、治理与政策"
     },
     "tagline": {
       "en": "A practical research direction for safety, governance & policy with measurable outcomes.",
@@ -9236,8 +9236,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-145",
     "slug": "audit-trail-generation-9-9",
     "title": {
-      "en": "Audit Trail Generation Framework 9",
-      "zh": "安全、治理与政策 · 9号方向"
+      "en": "Audit Trail Generation",
+      "zh": "安全、治理与政策"
     },
     "tagline": {
       "en": "A practical research direction for safety, governance & policy with measurable outcomes.",
@@ -9300,8 +9300,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-146",
     "slug": "privacy-leakage-red-teaming-9-10",
     "title": {
-      "en": "Privacy Leakage Red-teaming Framework 10",
-      "zh": "安全、治理与政策 · 10号方向"
+      "en": "Privacy Leakage Red-teaming",
+      "zh": "安全、治理与政策"
     },
     "tagline": {
       "en": "A practical research direction for safety, governance & policy with measurable outcomes.",
@@ -9364,8 +9364,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-147",
     "slug": "safety-incident-replay-9-11",
     "title": {
-      "en": "Safety Incident Replay Framework 11",
-      "zh": "安全、治理与政策 · 11号方向"
+      "en": "Safety Incident Replay",
+      "zh": "安全、治理与政策"
     },
     "tagline": {
       "en": "A practical research direction for safety, governance & policy with measurable outcomes.",
@@ -9428,8 +9428,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-148",
     "slug": "content-provenance-tagging-9-12",
     "title": {
-      "en": "Content Provenance Tagging Framework 12",
-      "zh": "安全、治理与政策 · 12号方向"
+      "en": "Content Provenance Tagging",
+      "zh": "安全、治理与政策"
     },
     "tagline": {
       "en": "A practical research direction for safety, governance & policy with measurable outcomes.",
@@ -9492,8 +9492,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-149",
     "slug": "jurisdiction-aware-moderation-9-13",
     "title": {
-      "en": "Jurisdiction-aware Moderation Framework 13",
-      "zh": "安全、治理与政策 · 13号方向"
+      "en": "Jurisdiction-aware Moderation",
+      "zh": "安全、治理与政策"
     },
     "tagline": {
       "en": "A practical research direction for safety, governance & policy with measurable outcomes.",
@@ -9556,8 +9556,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-150",
     "slug": "alignment-policy-drift-alerts-9-14",
     "title": {
-      "en": "Alignment Policy Drift Alerts Framework 14",
-      "zh": "安全、治理与政策 · 14号方向"
+      "en": "Alignment Policy Drift Alerts",
+      "zh": "安全、治理与政策"
     },
     "tagline": {
       "en": "A practical research direction for safety, governance & policy with measurable outcomes.",
@@ -9620,8 +9620,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-151",
     "slug": "risk-escalation-workflow-9-15",
     "title": {
-      "en": "Risk Escalation Workflow Framework 15",
-      "zh": "安全、治理与政策 · 15号方向"
+      "en": "Risk Escalation Workflow",
+      "zh": "安全、治理与政策"
     },
     "tagline": {
       "en": "A practical research direction for safety, governance & policy with measurable outcomes.",
@@ -9684,8 +9684,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-152",
     "slug": "safety-kpi-dashboarding-9-16",
     "title": {
-      "en": "Safety KPI Dashboarding Framework 16",
-      "zh": "安全、治理与政策 · 16号方向"
+      "en": "Safety KPI Dashboarding",
+      "zh": "安全、治理与政策"
     },
     "tagline": {
       "en": "A practical research direction for safety, governance & policy with measurable outcomes.",
@@ -9748,8 +9748,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-153",
     "slug": "human-oversight-loop-design-9-17",
     "title": {
-      "en": "Human Oversight Loop Design Framework 17",
-      "zh": "安全、治理与政策 · 17号方向"
+      "en": "Human Oversight Loop Design",
+      "zh": "安全、治理与政策"
     },
     "tagline": {
       "en": "A practical research direction for safety, governance & policy with measurable outcomes.",
@@ -9812,8 +9812,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-154",
     "slug": "clarification-first-dialogue-10-1",
     "title": {
-      "en": "Clarification-first Dialogue Framework 1",
-      "zh": "人机交互 · 1号方向"
+      "en": "Clarification-first Dialogue",
+      "zh": "人机交互"
     },
     "tagline": {
       "en": "A practical research direction for human-ai interaction with measurable outcomes.",
@@ -9876,8 +9876,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-155",
     "slug": "confidence-aware-ux-cues-10-2",
     "title": {
-      "en": "Confidence-aware UX Cues Framework 2",
-      "zh": "人机交互 · 2号方向"
+      "en": "Confidence-aware UX Cues",
+      "zh": "人机交互"
     },
     "tagline": {
       "en": "A practical research direction for human-ai interaction with measurable outcomes.",
@@ -9940,8 +9940,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-156",
     "slug": "adaptive-explanation-depth-10-3",
     "title": {
-      "en": "Adaptive Explanation Depth Framework 3",
-      "zh": "人机交互 · 3号方向"
+      "en": "Adaptive Explanation Depth",
+      "zh": "人机交互"
     },
     "tagline": {
       "en": "A practical research direction for human-ai interaction with measurable outcomes.",
@@ -10004,8 +10004,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-157",
     "slug": "collaborative-editing-protocols-10-4",
     "title": {
-      "en": "Collaborative Editing Protocols Framework 4",
-      "zh": "人机交互 · 4号方向"
+      "en": "Collaborative Editing Protocols",
+      "zh": "人机交互"
     },
     "tagline": {
       "en": "A practical research direction for human-ai interaction with measurable outcomes.",
@@ -10068,8 +10068,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-158",
     "slug": "user-intent-disambiguation-10-5",
     "title": {
-      "en": "User Intent Disambiguation Framework 5",
-      "zh": "人机交互 · 5号方向"
+      "en": "User Intent Disambiguation",
+      "zh": "人机交互"
     },
     "tagline": {
       "en": "A practical research direction for human-ai interaction with measurable outcomes.",
@@ -10132,8 +10132,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-159",
     "slug": "trust-calibration-interface-10-6",
     "title": {
-      "en": "Trust Calibration Interface Framework 6",
-      "zh": "人机交互 · 6号方向"
+      "en": "Trust Calibration Interface",
+      "zh": "人机交互"
     },
     "tagline": {
       "en": "A practical research direction for human-ai interaction with measurable outcomes.",
@@ -10196,8 +10196,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-160",
     "slug": "error-recovery-interactions-10-7",
     "title": {
-      "en": "Error Recovery Interactions Framework 7",
-      "zh": "人机交互 · 7号方向"
+      "en": "Error Recovery Interactions",
+      "zh": "人机交互"
     },
     "tagline": {
       "en": "A practical research direction for human-ai interaction with measurable outcomes.",
@@ -10260,8 +10260,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-161",
     "slug": "interactive-planning-board-10-8",
     "title": {
-      "en": "Interactive Planning Board Framework 8",
-      "zh": "人机交互 · 8号方向"
+      "en": "Interactive Planning Board",
+      "zh": "人机交互"
     },
     "tagline": {
       "en": "A practical research direction for human-ai interaction with measurable outcomes.",
@@ -10324,8 +10324,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-162",
     "slug": "conversation-memory-controls-10-9",
     "title": {
-      "en": "Conversation Memory Controls Framework 9",
-      "zh": "人机交互 · 9号方向"
+      "en": "Conversation Memory Controls",
+      "zh": "人机交互"
     },
     "tagline": {
       "en": "A practical research direction for human-ai interaction with measurable outcomes.",
@@ -10388,8 +10388,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-163",
     "slug": "multilingual-interaction-quality-10-10",
     "title": {
-      "en": "Multilingual Interaction Quality Framework 10",
-      "zh": "人机交互 · 10号方向"
+      "en": "Multilingual Interaction Quality",
+      "zh": "人机交互"
     },
     "tagline": {
       "en": "A practical research direction for human-ai interaction with measurable outcomes.",
@@ -10452,8 +10452,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-164",
     "slug": "expert-vs-novice-mode-switching-10-11",
     "title": {
-      "en": "Expert-vs-novice Mode Switching Framework 11",
-      "zh": "人机交互 · 11号方向"
+      "en": "Expert-vs-novice Mode Switching",
+      "zh": "人机交互"
     },
     "tagline": {
       "en": "A practical research direction for human-ai interaction with measurable outcomes.",
@@ -10516,8 +10516,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-165",
     "slug": "feedback-collection-loops-10-12",
     "title": {
-      "en": "Feedback Collection Loops Framework 12",
-      "zh": "人机交互 · 12号方向"
+      "en": "Feedback Collection Loops",
+      "zh": "人机交互"
     },
     "tagline": {
       "en": "A practical research direction for human-ai interaction with measurable outcomes.",
@@ -10580,8 +10580,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-166",
     "slug": "decision-support-transparency-10-13",
     "title": {
-      "en": "Decision-support Transparency Framework 13",
-      "zh": "人机交互 · 13号方向"
+      "en": "Decision-support Transparency",
+      "zh": "人机交互"
     },
     "tagline": {
       "en": "A practical research direction for human-ai interaction with measurable outcomes.",
@@ -10644,8 +10644,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-167",
     "slug": "handoff-to-human-triggers-10-14",
     "title": {
-      "en": "Handoff-to-human Triggers Framework 14",
-      "zh": "人机交互 · 14号方向"
+      "en": "Handoff-to-human Triggers",
+      "zh": "人机交互"
     },
     "tagline": {
       "en": "A practical research direction for human-ai interaction with measurable outcomes.",
@@ -10708,8 +10708,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-168",
     "slug": "user-effort-minimization-10-15",
     "title": {
-      "en": "User Effort Minimization Framework 15",
-      "zh": "人机交互 · 15号方向"
+      "en": "User Effort Minimization",
+      "zh": "人机交互"
     },
     "tagline": {
       "en": "A practical research direction for human-ai interaction with measurable outcomes.",
@@ -10772,8 +10772,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-169",
     "slug": "assistive-creativity-workflows-10-16",
     "title": {
-      "en": "Assistive Creativity Workflows Framework 16",
-      "zh": "人机交互 · 16号方向"
+      "en": "Assistive Creativity Workflows",
+      "zh": "人机交互"
     },
     "tagline": {
       "en": "A practical research direction for human-ai interaction with measurable outcomes.",
@@ -10836,8 +10836,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-170",
     "slug": "co-pilot-intervention-timing-10-17",
     "title": {
-      "en": "Co-pilot Intervention Timing Framework 17",
-      "zh": "人机交互 · 17号方向"
+      "en": "Co-pilot Intervention Timing",
+      "zh": "人机交互"
     },
     "tagline": {
       "en": "A practical research direction for human-ai interaction with measurable outcomes.",
@@ -10900,8 +10900,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-171",
     "slug": "synthetic-data-quality-scoring-11-1",
     "title": {
-      "en": "Synthetic Data Quality Scoring Framework 1",
-      "zh": "数据与合成数据工程 · 1号方向"
+      "en": "Synthetic Data Quality Scoring",
+      "zh": "数据与合成数据工程"
     },
     "tagline": {
       "en": "A practical research direction for data & synthetic data engineering with measurable outcomes.",
@@ -10964,8 +10964,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-172",
     "slug": "data-contamination-detection-11-2",
     "title": {
-      "en": "Data Contamination Detection Framework 2",
-      "zh": "数据与合成数据工程 · 2号方向"
+      "en": "Data Contamination Detection",
+      "zh": "数据与合成数据工程"
     },
     "tagline": {
       "en": "A practical research direction for data & synthetic data engineering with measurable outcomes.",
@@ -11028,8 +11028,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-173",
     "slug": "hard-example-mining-11-3",
     "title": {
-      "en": "Hard-example Mining Framework 3",
-      "zh": "数据与合成数据工程 · 3号方向"
+      "en": "Hard-example Mining",
+      "zh": "数据与合成数据工程"
     },
     "tagline": {
       "en": "A practical research direction for data & synthetic data engineering with measurable outcomes.",
@@ -11092,8 +11092,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-174",
     "slug": "instruction-data-diversity-11-4",
     "title": {
-      "en": "Instruction Data Diversity Framework 4",
-      "zh": "数据与合成数据工程 · 4号方向"
+      "en": "Instruction Data Diversity",
+      "zh": "数据与合成数据工程"
     },
     "tagline": {
       "en": "A practical research direction for data & synthetic data engineering with measurable outcomes.",
@@ -11156,8 +11156,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-175",
     "slug": "multilingual-data-balancing-11-5",
     "title": {
-      "en": "Multilingual Data Balancing Framework 5",
-      "zh": "数据与合成数据工程 · 5号方向"
+      "en": "Multilingual Data Balancing",
+      "zh": "数据与合成数据工程"
     },
     "tagline": {
       "en": "A practical research direction for data & synthetic data engineering with measurable outcomes.",
@@ -11220,8 +11220,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-176",
     "slug": "domain-adaptation-data-curation-11-6",
     "title": {
-      "en": "Domain Adaptation Data Curation Framework 6",
-      "zh": "数据与合成数据工程 · 6号方向"
+      "en": "Domain Adaptation Data Curation",
+      "zh": "数据与合成数据工程"
     },
     "tagline": {
       "en": "A practical research direction for data & synthetic data engineering with measurable outcomes.",
@@ -11284,8 +11284,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-177",
     "slug": "automated-labeling-reliability-11-7",
     "title": {
-      "en": "Automated Labeling Reliability Framework 7",
-      "zh": "数据与合成数据工程 · 7号方向"
+      "en": "Automated Labeling Reliability",
+      "zh": "数据与合成数据工程"
     },
     "tagline": {
       "en": "A practical research direction for data & synthetic data engineering with measurable outcomes.",
@@ -11348,8 +11348,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-178",
     "slug": "teacher-student-data-distillation-11-8",
     "title": {
-      "en": "Teacher-student Data Distillation Framework 8",
-      "zh": "数据与合成数据工程 · 8号方向"
+      "en": "Teacher-student Data Distillation",
+      "zh": "数据与合成数据工程"
     },
     "tagline": {
       "en": "A practical research direction for data & synthetic data engineering with measurable outcomes.",
@@ -11412,8 +11412,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-179",
     "slug": "bias-aware-dataset-construction-11-9",
     "title": {
-      "en": "Bias-aware Dataset Construction Framework 9",
-      "zh": "数据与合成数据工程 · 9号方向"
+      "en": "Bias-aware Dataset Construction",
+      "zh": "数据与合成数据工程"
     },
     "tagline": {
       "en": "A practical research direction for data & synthetic data engineering with measurable outcomes.",
@@ -11476,8 +11476,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-180",
     "slug": "privacy-preserving-synthesis-11-10",
     "title": {
-      "en": "Privacy-preserving Synthesis Framework 10",
-      "zh": "数据与合成数据工程 · 10号方向"
+      "en": "Privacy-preserving Synthesis",
+      "zh": "数据与合成数据工程"
     },
     "tagline": {
       "en": "A practical research direction for data & synthetic data engineering with measurable outcomes.",
@@ -11540,8 +11540,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-181",
     "slug": "scenario-simulation-generation-11-11",
     "title": {
-      "en": "Scenario Simulation Generation Framework 11",
-      "zh": "数据与合成数据工程 · 11号方向"
+      "en": "Scenario Simulation Generation",
+      "zh": "数据与合成数据工程"
     },
     "tagline": {
       "en": "A practical research direction for data & synthetic data engineering with measurable outcomes.",
@@ -11604,8 +11604,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-182",
     "slug": "dataset-governance-workflow-11-12",
     "title": {
-      "en": "Dataset Governance Workflow Framework 12",
-      "zh": "数据与合成数据工程 · 12号方向"
+      "en": "Dataset Governance Workflow",
+      "zh": "数据与合成数据工程"
     },
     "tagline": {
       "en": "A practical research direction for data & synthetic data engineering with measurable outcomes.",
@@ -11668,8 +11668,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-183",
     "slug": "data-freshness-pipeline-11-13",
     "title": {
-      "en": "Data Freshness Pipeline Framework 13",
-      "zh": "数据与合成数据工程 · 13号方向"
+      "en": "Data Freshness Pipeline",
+      "zh": "数据与合成数据工程"
     },
     "tagline": {
       "en": "A practical research direction for data & synthetic data engineering with measurable outcomes.",
@@ -11732,8 +11732,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-184",
     "slug": "eval-aligned-data-generation-11-14",
     "title": {
-      "en": "Eval-aligned Data Generation Framework 14",
-      "zh": "数据与合成数据工程 · 14号方向"
+      "en": "Eval-aligned Data Generation",
+      "zh": "数据与合成数据工程"
     },
     "tagline": {
       "en": "A practical research direction for data & synthetic data engineering with measurable outcomes.",
@@ -11796,8 +11796,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-185",
     "slug": "data-duplication-control-11-15",
     "title": {
-      "en": "Data Duplication Control Framework 15",
-      "zh": "数据与合成数据工程 · 15号方向"
+      "en": "Data Duplication Control",
+      "zh": "数据与合成数据工程"
     },
     "tagline": {
       "en": "A practical research direction for data & synthetic data engineering with measurable outcomes.",
@@ -11860,8 +11860,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-186",
     "slug": "failure-focused-data-augmentation-11-16",
     "title": {
-      "en": "Failure-focused Data Augmentation Framework 16",
-      "zh": "数据与合成数据工程 · 16号方向"
+      "en": "Failure-focused Data Augmentation",
+      "zh": "数据与合成数据工程"
     },
     "tagline": {
       "en": "A practical research direction for data & synthetic data engineering with measurable outcomes.",
@@ -11924,8 +11924,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-187",
     "slug": "curriculum-dataset-scheduling-11-17",
     "title": {
-      "en": "Curriculum Dataset Scheduling Framework 17",
-      "zh": "数据与合成数据工程 · 17号方向"
+      "en": "Curriculum Dataset Scheduling",
+      "zh": "数据与合成数据工程"
     },
     "tagline": {
       "en": "A practical research direction for data & synthetic data engineering with measurable outcomes.",
@@ -11988,8 +11988,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-188",
     "slug": "discussion-quality-metrics-12-1",
     "title": {
-      "en": "Discussion Quality Metrics Framework 1",
-      "zh": "开源社区机制 · 1号方向"
+      "en": "Discussion Quality Metrics",
+      "zh": "开源社区机制"
     },
     "tagline": {
       "en": "A practical research direction for open source community mechanics with measurable outcomes.",
@@ -12052,8 +12052,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-189",
     "slug": "contribution-ranking-fairness-12-2",
     "title": {
-      "en": "Contribution Ranking Fairness Framework 2",
-      "zh": "开源社区机制 · 2号方向"
+      "en": "Contribution Ranking Fairness",
+      "zh": "开源社区机制"
     },
     "tagline": {
       "en": "A practical research direction for open source community mechanics with measurable outcomes.",
@@ -12116,8 +12116,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-190",
     "slug": "anti-herding-review-design-12-3",
     "title": {
-      "en": "Anti-herding Review Design Framework 3",
-      "zh": "开源社区机制 · 3号方向"
+      "en": "Anti-herding Review Design",
+      "zh": "开源社区机制"
     },
     "tagline": {
       "en": "A practical research direction for open source community mechanics with measurable outcomes.",
@@ -12180,8 +12180,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-191",
     "slug": "maintainer-workload-routing-12-4",
     "title": {
-      "en": "Maintainer Workload Routing Framework 4",
-      "zh": "开源社区机制 · 4号方向"
+      "en": "Maintainer Workload Routing",
+      "zh": "开源社区机制"
     },
     "tagline": {
       "en": "A practical research direction for open source community mechanics with measurable outcomes.",
@@ -12244,8 +12244,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-192",
     "slug": "newcomer-onboarding-prompts-12-5",
     "title": {
-      "en": "Newcomer Onboarding Prompts Framework 5",
-      "zh": "开源社区机制 · 5号方向"
+      "en": "Newcomer Onboarding Prompts",
+      "zh": "开源社区机制"
     },
     "tagline": {
       "en": "A practical research direction for open source community mechanics with measurable outcomes.",
@@ -12308,8 +12308,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-193",
     "slug": "pr-review-quality-scoring-12-6",
     "title": {
-      "en": "PR Review Quality Scoring Framework 6",
-      "zh": "开源社区机制 · 6号方向"
+      "en": "PR Review Quality Scoring",
+      "zh": "开源社区机制"
     },
     "tagline": {
       "en": "A practical research direction for open source community mechanics with measurable outcomes.",
@@ -12372,8 +12372,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-194",
     "slug": "community-reputation-calibration-12-7",
     "title": {
-      "en": "Community Reputation Calibration Framework 7",
-      "zh": "开源社区机制 · 7号方向"
+      "en": "Community Reputation Calibration",
+      "zh": "开源社区机制"
     },
     "tagline": {
       "en": "A practical research direction for open source community mechanics with measurable outcomes.",
@@ -12436,8 +12436,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-195",
     "slug": "open-idea-lifecycle-tracking-12-8",
     "title": {
-      "en": "Open Idea Lifecycle Tracking Framework 8",
-      "zh": "开源社区机制 · 8号方向"
+      "en": "Open Idea Lifecycle Tracking",
+      "zh": "开源社区机制"
     },
     "tagline": {
       "en": "A practical research direction for open source community mechanics with measurable outcomes.",
@@ -12500,8 +12500,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-196",
     "slug": "evidence-backed-debate-norms-12-9",
     "title": {
-      "en": "Evidence-backed Debate Norms Framework 9",
-      "zh": "开源社区机制 · 9号方向"
+      "en": "Evidence-backed Debate Norms",
+      "zh": "开源社区机制"
     },
     "tagline": {
       "en": "A practical research direction for open source community mechanics with measurable outcomes.",
@@ -12564,8 +12564,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-197",
     "slug": "consensus-detection-signals-12-10",
     "title": {
-      "en": "Consensus Detection Signals Framework 10",
-      "zh": "开源社区机制 · 10号方向"
+      "en": "Consensus Detection Signals",
+      "zh": "开源社区机制"
     },
     "tagline": {
       "en": "A practical research direction for open source community mechanics with measurable outcomes.",
@@ -12628,8 +12628,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-198",
     "slug": "constructive-feedback-templates-12-11",
     "title": {
-      "en": "Constructive Feedback Templates Framework 11",
-      "zh": "开源社区机制 · 11号方向"
+      "en": "Constructive Feedback Templates",
+      "zh": "开源社区机制"
     },
     "tagline": {
       "en": "A practical research direction for open source community mechanics with measurable outcomes.",
@@ -12692,8 +12692,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-199",
     "slug": "cross-language-collaboration-rules-12-12",
     "title": {
-      "en": "Cross-language Collaboration Rules Framework 12",
-      "zh": "开源社区机制 · 12号方向"
+      "en": "Cross-language Collaboration Rules",
+      "zh": "开源社区机制"
     },
     "tagline": {
       "en": "A practical research direction for open source community mechanics with measurable outcomes.",
@@ -12756,8 +12756,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-200",
     "slug": "community-moderation-playbooks-12-13",
     "title": {
-      "en": "Community Moderation Playbooks Framework 13",
-      "zh": "开源社区机制 · 13号方向"
+      "en": "Community Moderation Playbooks",
+      "zh": "开源社区机制"
     },
     "tagline": {
       "en": "A practical research direction for open source community mechanics with measurable outcomes.",
@@ -12820,8 +12820,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-201",
     "slug": "transparent-ranking-governance-12-14",
     "title": {
-      "en": "Transparent Ranking Governance Framework 14",
-      "zh": "开源社区机制 · 14号方向"
+      "en": "Transparent Ranking Governance",
+      "zh": "开源社区机制"
     },
     "tagline": {
       "en": "A practical research direction for open source community mechanics with measurable outcomes.",
@@ -12884,8 +12884,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-202",
     "slug": "duplicate-idea-detection-12-15",
     "title": {
-      "en": "Duplicate Idea Detection Framework 15",
-      "zh": "开源社区机制 · 15号方向"
+      "en": "Duplicate Idea Detection",
+      "zh": "开源社区机制"
     },
     "tagline": {
       "en": "A practical research direction for open source community mechanics with measurable outcomes.",
@@ -12948,8 +12948,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-203",
     "slug": "open-review-incentive-design-12-16",
     "title": {
-      "en": "Open Review Incentive Design Framework 16",
-      "zh": "开源社区机制 · 16号方向"
+      "en": "Open Review Incentive Design",
+      "zh": "开源社区机制"
     },
     "tagline": {
       "en": "A practical research direction for open source community mechanics with measurable outcomes.",
@@ -13012,8 +13012,8 @@ export const demoIdeas: DemoIdea[] = [
     "id": "idea-204",
     "slug": "discussion-to-experiment-conversion-12-17",
     "title": {
-      "en": "Discussion-to-experiment Conversion Framework 17",
-      "zh": "开源社区机制 · 17号方向"
+      "en": "Discussion-to-experiment Conversion",
+      "zh": "开源社区机制"
     },
     "tagline": {
       "en": "A practical research direction for open source community mechanics with measurable outcomes.",
