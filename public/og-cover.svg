@@ -1,0 +1,8 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#090B10"/>
+  <circle cx="1020" cy="80" r="300" fill="#58D1BF" fill-opacity="0.12"/>
+  <circle cx="180" cy="-40" r="280" fill="#8EA2FF" fill-opacity="0.2"/>
+  <text x="80" y="220" fill="#E8EDF8" font-size="96" font-family="Inter,Arial,sans-serif" font-weight="700">🦓 Idea Zoo</text>
+  <text x="80" y="300" fill="#A8B4CC" font-size="42" font-family="Inter,Arial,sans-serif">Open AI Research Idea Commons</text>
+  <text x="80" y="380" fill="#8EA2FF" font-size="36" font-family="Inter,Arial,sans-serif">Discover. Debate. Build. Share.</text>
+</svg>
