@@ -53,6 +53,7 @@ export type DemoIdea = {
   model: string
   dataset: string
   keywords: string[]
+  discussionNumber?: number | null
   qualityScores: IdeaQualityScores
   verificationVerdict: VerificationVerdict
   verificationNote: BilingualText

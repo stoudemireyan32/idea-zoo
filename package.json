@@ -7,7 +7,9 @@
     "dev": "vite",
     "dev:proxy": "node proxy/community-proxy.mjs",
     "dev:full": "concurrently -n web,proxy -c cyan,magenta \"npm run dev\" \"npm run dev:proxy\"",
-    "build": "tsc -b && vite build",
+    "ideas:build": "node scripts/build-ideas-index.mjs",
+    "ideas:migrate": "node scripts/migrate-ideas-to-md.mjs",
+    "build": "npm run ideas:build && tsc -b && vite build",
     "lint": "oxlint",
     "check": "npm run lint && npm run build",
     "preview": "vite preview"

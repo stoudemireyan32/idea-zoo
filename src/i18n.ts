@@ -211,12 +211,12 @@ export const translations: Record<Locale, I18nShape> = {
     contribute: {
       title: 'Contribute Ideas',
       subtitle:
-        'Idea Zoo grows through open review, reproducible thinking, and community pull requests.',
+        'Idea Zoo grows through markdown-native ideas, schema validation, and community pull requests.',
       stepsTitle: 'Contribution Flow',
       steps: [
-        'Fork the repository and create your idea file from template.',
-        'Describe challenge, method, expected outcome, and compute realism.',
-        'Open a pull request and discuss with the community.',
+        'Fork the repository and copy ideas/TEMPLATE.md into an ideas/<category>/<slug>.md file.',
+        'Fill metadata + EN/中文 sections; keep schema fields complete for CI validation.',
+        'Open a pull request. After merge, GitHub Actions rebuilds the idea index and publishes to pages automatically.',
       ],
       cta: 'Open GitHub Repository',
     },
@@ -322,12 +322,12 @@ export const translations: Record<Locale, I18nShape> = {
     },
     contribute: {
       title: '贡献你的 Idea',
-      subtitle: 'Idea Zoo 通过开放评审、可复现思路与社区 PR 持续成长。',
+      subtitle: 'Idea Zoo 通过 Markdown 内容源、Schema 校验与社区 PR 持续成长。',
       stepsTitle: '贡献流程',
       steps: [
-        'Fork 仓库并基于模板创建你的 Idea 文件。',
-        '清晰描述挑战、方法、预期结果与算力可行性。',
-        '提交 Pull Request，并与社区讨论打磨。',
+        'Fork 仓库，并基于 ideas/TEMPLATE.md 在 ideas/<category>/<slug>.md 新建文件。',
+        '完整填写元数据与中英文正文，确保通过 Schema 字段校验。',
+        '提交 Pull Request；合并后 GitHub Actions 会自动重建索引并发布到网页。',
       ],
       cta: '打开 GitHub 仓库',
     },

@@ -1,18 +1,18 @@
 import type { DemoIdea } from '../types'
 
 export const researchAreas = [
-  'Reasoning & Reliability',
-  'RAG, Memory & Knowledge',
-  'Agentic Systems',
-  'Multimodal & Vision-Language',
-  'Training & Alignment',
-  'Inference & Systems Optimization',
-  'Evaluation & Benchmarks',
-  'AI for Science',
-  'Safety, Governance & Policy',
-  'Human-AI Interaction',
-  'Data & Synthetic Data Engineering',
-  'Open Source Community Mechanics',
+  "Reasoning & Reliability",
+  "RAG, Memory & Knowledge",
+  "Agentic Systems",
+  "Multimodal & Vision-Language",
+  "Training & Alignment",
+  "Inference & Systems Optimization",
+  "Evaluation & Benchmarks",
+  "AI for Science",
+  "Safety, Governance & Policy",
+  "Human-AI Interaction",
+  "Data & Synthetic Data Engineering",
+  "Open Source Community Mechanics"
 ] as const
 
 export const demoIdeas: DemoIdea[] = [
@@ -60,6 +60,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 7,
@@ -124,6 +125,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 8,
@@ -188,6 +190,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 9,
@@ -252,6 +255,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 7,
@@ -316,6 +320,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 8,
@@ -380,6 +385,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 9,
@@ -444,6 +450,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 7,
@@ -508,6 +515,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 8,
@@ -572,6 +580,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 9,
@@ -636,6 +645,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 7,
@@ -700,6 +710,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 8,
@@ -764,6 +775,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 9,
@@ -828,6 +840,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 7,
@@ -892,6 +905,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 8,
@@ -956,6 +970,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 9,
@@ -1020,6 +1035,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 7,
@@ -1084,6 +1100,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 8,
@@ -1148,6 +1165,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 9,
@@ -1212,6 +1230,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 7,
@@ -1276,6 +1295,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 8,
@@ -1340,6 +1360,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 9,
@@ -1404,6 +1425,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 7,
@@ -1468,6 +1490,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 8,
@@ -1532,6 +1555,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 9,
@@ -1596,6 +1620,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 7,
@@ -1660,6 +1685,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 8,
@@ -1724,6 +1750,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 9,
@@ -1788,6 +1815,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 7,
@@ -1852,6 +1880,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 8,
@@ -1916,6 +1945,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 9,
@@ -1980,6 +2010,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 7,
@@ -2044,6 +2075,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 8,
@@ -2108,6 +2140,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 9,
@@ -2172,6 +2205,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 7,
@@ -2236,6 +2270,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 8,
@@ -2300,6 +2335,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 9,
@@ -2364,6 +2400,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 7,
@@ -2428,6 +2465,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 8,
@@ -2492,6 +2530,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 9,
@@ -2556,6 +2595,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 7,
@@ -2620,6 +2660,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 8,
@@ -2684,6 +2725,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 9,
@@ -2748,6 +2790,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 7,
@@ -2812,6 +2855,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 8,
@@ -2876,6 +2920,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 9,
@@ -2940,6 +2985,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 7,
@@ -3004,6 +3050,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 8,
@@ -3068,6 +3115,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 9,
@@ -3132,6 +3180,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 7,
@@ -3196,6 +3245,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 8,
@@ -3260,6 +3310,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 9,
@@ -3324,6 +3375,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 7,
@@ -3388,6 +3440,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 8,
@@ -3452,6 +3505,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 9,
@@ -3516,6 +3570,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 7,
@@ -3580,6 +3635,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 8,
@@ -3644,6 +3700,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 9,
@@ -3708,6 +3765,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 7,
@@ -3772,6 +3830,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 8,
@@ -3836,6 +3895,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 9,
@@ -3900,6 +3960,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 7,
@@ -3964,6 +4025,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 8,
@@ -4028,6 +4090,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 9,
@@ -4092,6 +4155,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 7,
@@ -4156,6 +4220,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 8,
@@ -4220,6 +4285,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 9,
@@ -4284,6 +4350,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 7,
@@ -4348,6 +4415,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 8,
@@ -4412,6 +4480,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 9,
@@ -4476,6 +4545,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 7,
@@ -4540,6 +4610,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 8,
@@ -4604,6 +4675,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 9,
@@ -4668,6 +4740,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 7,
@@ -4732,6 +4805,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 8,
@@ -4796,6 +4870,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 9,
@@ -4860,6 +4935,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 7,
@@ -4924,6 +5000,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 8,
@@ -4988,6 +5065,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 9,
@@ -5052,6 +5130,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 7,
@@ -5116,6 +5195,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 8,
@@ -5180,6 +5260,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 9,
@@ -5244,6 +5325,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 7,
@@ -5308,6 +5390,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 8,
@@ -5372,6 +5455,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 9,
@@ -5436,6 +5520,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 7,
@@ -5500,6 +5585,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 8,
@@ -5564,6 +5650,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 9,
@@ -5628,6 +5715,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 7,
@@ -5692,6 +5780,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 8,
@@ -5756,6 +5845,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 9,
@@ -5820,6 +5910,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 7,
@@ -5884,6 +5975,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 8,
@@ -5948,6 +6040,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 9,
@@ -6012,6 +6105,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 7,
@@ -6076,6 +6170,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 8,
@@ -6140,6 +6235,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 9,
@@ -6204,6 +6300,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 7,
@@ -6268,6 +6365,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 8,
@@ -6332,6 +6430,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 9,
@@ -6396,6 +6495,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 7,
@@ -6460,6 +6560,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 8,
@@ -6524,6 +6625,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 9,
@@ -6588,6 +6690,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 7,
@@ -6652,6 +6755,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 8,
@@ -6716,6 +6820,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 9,
@@ -6780,6 +6885,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 7,
@@ -6844,6 +6950,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 8,
@@ -6908,6 +7015,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 9,
@@ -6972,6 +7080,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 7,
@@ -7036,6 +7145,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 8,
@@ -7100,6 +7210,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 9,
@@ -7164,6 +7275,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 7,
@@ -7228,6 +7340,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 8,
@@ -7292,6 +7405,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 9,
@@ -7356,6 +7470,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 7,
@@ -7420,6 +7535,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 8,
@@ -7484,6 +7600,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 9,
@@ -7548,6 +7665,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 7,
@@ -7612,6 +7730,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 8,
@@ -7676,6 +7795,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 9,
@@ -7740,6 +7860,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 7,
@@ -7804,6 +7925,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 8,
@@ -7868,6 +7990,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 9,
@@ -7932,6 +8055,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 7,
@@ -7996,6 +8120,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 8,
@@ -8060,6 +8185,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 9,
@@ -8124,6 +8250,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 7,
@@ -8188,6 +8315,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 8,
@@ -8252,6 +8380,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 9,
@@ -8316,6 +8445,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 7,
@@ -8380,6 +8510,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 8,
@@ -8444,6 +8575,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 9,
@@ -8508,6 +8640,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 7,
@@ -8572,6 +8705,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 8,
@@ -8636,6 +8770,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 9,
@@ -8700,6 +8835,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 7,
@@ -8764,6 +8900,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 8,
@@ -8828,6 +8965,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 9,
@@ -8892,6 +9030,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 7,
@@ -8956,6 +9095,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 8,
@@ -9020,6 +9160,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 9,
@@ -9084,6 +9225,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 7,
@@ -9148,6 +9290,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 8,
@@ -9212,6 +9355,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 9,
@@ -9276,6 +9420,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 7,
@@ -9340,6 +9485,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 8,
@@ -9404,6 +9550,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 9,
@@ -9468,6 +9615,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 7,
@@ -9532,6 +9680,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 8,
@@ -9596,6 +9745,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 9,
@@ -9660,6 +9810,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 7,
@@ -9724,6 +9875,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 8,
@@ -9788,6 +9940,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 9,
@@ -9852,6 +10005,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 7,
@@ -9916,6 +10070,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 8,
@@ -9980,6 +10135,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 9,
@@ -10044,6 +10200,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 7,
@@ -10108,6 +10265,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 8,
@@ -10172,6 +10330,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 9,
@@ -10236,6 +10395,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 7,
@@ -10300,6 +10460,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 8,
@@ -10364,6 +10525,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 9,
@@ -10428,6 +10590,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 7,
@@ -10492,6 +10655,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 8,
@@ -10556,6 +10720,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 9,
@@ -10620,6 +10785,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 7,
@@ -10684,6 +10850,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 8,
@@ -10748,6 +10915,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 9,
@@ -10812,6 +10980,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 7,
@@ -10876,6 +11045,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 8,
@@ -10940,6 +11110,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 9,
@@ -11004,6 +11175,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 7,
@@ -11068,6 +11240,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 8,
@@ -11132,6 +11305,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 9,
@@ -11196,6 +11370,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 7,
@@ -11260,6 +11435,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 8,
@@ -11324,6 +11500,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 9,
@@ -11388,6 +11565,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 7,
@@ -11452,6 +11630,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 8,
@@ -11516,6 +11695,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 9,
@@ -11580,6 +11760,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 7,
@@ -11644,6 +11825,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 8,
@@ -11708,6 +11890,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 9,
@@ -11772,6 +11955,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 7,
@@ -11836,6 +12020,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 8,
@@ -11900,6 +12085,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 9,
@@ -11964,6 +12150,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 7,
@@ -12028,6 +12215,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 8,
@@ -12092,6 +12280,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 9,
@@ -12156,6 +12345,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 7,
@@ -12220,6 +12410,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 8,
@@ -12284,6 +12475,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 9,
@@ -12348,6 +12540,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 7,
@@ -12412,6 +12605,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 8,
@@ -12476,6 +12670,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 9,
@@ -12540,6 +12735,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 7,
@@ -12604,6 +12800,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 8,
@@ -12668,6 +12865,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 9,
@@ -12732,6 +12930,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 7,
@@ -12796,6 +12995,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 8,
@@ -12860,6 +13060,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 9,
@@ -12924,6 +13125,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 7,
       "operability": 7,
@@ -12988,6 +13190,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 8,
       "operability": 8,
@@ -13052,6 +13255,7 @@ export const demoIdeas: DemoIdea[] = [
       "idea-zoo",
       "open research"
     ],
+    "discussionNumber": null,
     "qualityScores": {
       "implementability": 6,
       "operability": 9,

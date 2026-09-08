@@ -78,7 +78,9 @@ const voteStorageKey = 'idea-zoo:viewer-votes'
 const clientIdStorageKey = 'idea-zoo:client-id'
 
 const discussionNumberByIdeaId = new Map<string, number>(
-  [],
+  demoIdeas
+    .filter((idea) => typeof idea.discussionNumber === 'number')
+    .map((idea) => [idea.id, idea.discussionNumber as number]),
 )
 
 const canUseStorage = () => typeof window !== 'undefined' && !!window.localStorage
