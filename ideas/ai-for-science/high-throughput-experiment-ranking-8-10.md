@@ -32,10 +32,10 @@ High-throughput Experiment Ranking
 高—吞吐量实验排序
 
 ## Tagline EN
-Test whether high-throughput experiment ranking can improve hit rate, uncertainty calibration, and experiment cost in scientific discovery workflows.
+Find the operating conditions where high-throughput experiment ranking remains dependable.
 
 ## Tagline ZH
-检验“高—吞吐量实验排序”能否改善科学发现流程的命中率、不确定性校准与实验成本。
+找出高—吞吐量实验排序能够保持可靠的运行条件。
 
 ## Summary EN
 High-throughput Experiment Ranking studies a focused intervention for scientific discovery workflows. The project turns the concept into a falsifiable comparison on Papers, domain corpora, experiment logs, using SciBERT + planner LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

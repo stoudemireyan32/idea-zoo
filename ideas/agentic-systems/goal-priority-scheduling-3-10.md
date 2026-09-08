@@ -32,10 +32,10 @@ Goal-priority Scheduling
 目标—优先级调度
 
 ## Tagline EN
-Test whether goal-priority scheduling can improve task success, intervention rate, and execution cost in tool-using agents.
+Schedule limited resources around goal-priority scheduling without sacrificing quality.
 
 ## Tagline ZH
-检验“目标—优先级调度”能否改善工具型智能体的任务成功率、人工介入率与执行成本。
+围绕目标—优先级调度调度有限资源，同时守住质量底线。
 
 ## Summary EN
 Goal-priority Scheduling studies a focused intervention for tool-using agents. The project turns the concept into a falsifiable comparison on ToolBench, APIBench, internal traces, using Planner LLM + tool adapters as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

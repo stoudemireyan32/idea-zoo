@@ -32,10 +32,10 @@ Throughput-quality Balancing
 吞吐量—质量均衡
 
 ## Tagline EN
-Test whether throughput-quality balancing can improve latency, throughput, memory use, and output quality in model-serving systems.
+Keep humans in command with measurable throughput-quality balancing.
 
 ## Tagline ZH
-检验“吞吐量—质量均衡”能否改善模型服务系统的时延、吞吐量、内存占用与输出质量。
+通过可度量的吞吐量—质量均衡确保人类始终掌握控制权。
 
 ## Summary EN
 Throughput-quality Balancing studies a focused intervention for model-serving systems. The project turns the concept into a falsifiable comparison on Synthetic production traces, using vLLM mixed model pool as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

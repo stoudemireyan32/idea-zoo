@@ -32,10 +32,10 @@ Agent Robustness Scorecard
 智能体鲁棒性评分卡
 
 ## Tagline EN
-Test whether agent robustness scorecard can improve validity, coverage, reproducibility, and evaluation cost in AI evaluation suites.
+A reproducible test bed for measuring agent robustness scorecard across real operating conditions.
 
 ## Tagline ZH
-检验“智能体鲁棒性评分卡”能否改善AI 评测体系的有效性、覆盖度、可复现性与评测成本。
+建立可复现测试平台，在真实运行条件下衡量智能体鲁棒性评分卡。
 
 ## Summary EN
 Agent Robustness Scorecard studies a focused intervention for AI evaluation suites. The project turns the concept into a falsifiable comparison on LongBench, TruthfulQA, custom eval sets, using Evaluator ensemble as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

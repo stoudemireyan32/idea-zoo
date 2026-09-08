@@ -32,10 +32,10 @@ Debate-style Supervision
 辩论—式监督
 
 ## Tagline EN
-Test whether debate-style supervision can improve task utility, policy compliance, and training efficiency in aligned language models.
+Improve collective decisions by redesigning debate-style supervision around evidence.
 
 ## Tagline ZH
-检验“辩论—式监督”能否改善对齐后的语言模型的任务效用、策略遵循度与训练效率。
+围绕证据重新设计辩论—式监督，提升群体决策质量。
 
 ## Summary EN
 Debate-style Supervision studies a focused intervention for aligned language models. The project turns the concept into a falsifiable comparison on UltraFeedback, HH-RLHF, Arena traces, using Llama-3.1 / Qwen instruct checkpoints as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

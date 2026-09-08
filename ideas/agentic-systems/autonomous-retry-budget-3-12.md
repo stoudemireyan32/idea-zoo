@@ -32,10 +32,10 @@ Autonomous Retry Budget
 自主重试预算
 
 ## Tagline EN
-Test whether autonomous retry budget can improve task success, intervention rate, and execution cost in tool-using agents.
+Spend scarce resources where autonomous retry budget can deliver the largest verified gain.
 
 ## Tagline ZH
-检验“自主重试预算”能否改善工具型智能体的任务成功率、人工介入率与执行成本。
+把稀缺资源投入自主重试预算最可能带来可验证收益的环节。
 
 ## Summary EN
 Autonomous Retry Budget studies a focused intervention for tool-using agents. The project turns the concept into a falsifiable comparison on ToolBench, APIBench, internal traces, using Planner LLM + tool adapters as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

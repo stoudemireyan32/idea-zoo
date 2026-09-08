@@ -32,10 +32,10 @@ Cross-language Collaboration Rules
 跨—语言协作规则
 
 ## Tagline EN
-Test whether cross-language collaboration rules can improve participation, review quality, contributor retention, and moderation load in open-source research communities.
+Define a practical cross-language collaboration rules that remains enforceable under real-world pressure.
 
 ## Tagline ZH
-检验“跨—语言协作规则”能否改善开源研究社区的参与度、评审质量、贡献者留存与治理负担。
+制定在真实压力下仍可执行的跨—语言协作规则方案。
 
 ## Summary EN
 Cross-language Collaboration Rules studies a focused intervention for open-source research communities. The project turns the concept into a falsifiable comparison on GitHub Discussions + PR histories, using Community analytics stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

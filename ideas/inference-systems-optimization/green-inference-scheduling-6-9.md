@@ -32,10 +32,10 @@ Green Inference Scheduling
 绿色推理调度
 
 ## Tagline EN
-Test whether green inference scheduling can improve latency, throughput, memory use, and output quality in model-serving systems.
+Schedule limited resources around green inference scheduling without sacrificing quality.
 
 ## Tagline ZH
-检验“绿色推理调度”能否改善模型服务系统的时延、吞吐量、内存占用与输出质量。
+围绕绿色推理调度调度有限资源，同时守住质量底线。
 
 ## Summary EN
 Green Inference Scheduling studies a focused intervention for model-serving systems. The project turns the concept into a falsifiable comparison on Synthetic production traces, using vLLM mixed model pool as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

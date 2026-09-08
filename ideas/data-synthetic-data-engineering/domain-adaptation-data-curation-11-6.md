@@ -32,10 +32,10 @@ Domain Adaptation Data Curation
 领域适配数据筛选
 
 ## Tagline EN
-Test whether domain adaptation data curation can improve data quality, coverage, leakage risk, and production cost in training-data pipelines.
+Move domain adaptation data curation from a promising concept to a falsifiable experiment.
 
 ## Tagline ZH
-检验“领域适配数据筛选”能否改善训练数据流水线的数据质量、覆盖度、泄漏风险与生产成本。
+把领域适配数据筛选从有潜力的概念推进为可证伪实验。
 
 ## Summary EN
 Domain Adaptation Data Curation studies a focused intervention for training-data pipelines. The project turns the concept into a falsifiable comparison on Synthetic + curated open corpora, using Data engine + teacher LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

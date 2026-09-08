@@ -32,10 +32,10 @@ Instruction Data Diversity
 指令数据多样性
 
 ## Tagline EN
-Test whether instruction data diversity can improve data quality, coverage, leakage risk, and production cost in training-data pipelines.
+Reveal when instruction data diversity creates real value—and when it does not.
 
 ## Tagline ZH
-检验“指令数据多样性”能否改善训练数据流水线的数据质量、覆盖度、泄漏风险与生产成本。
+揭示指令数据多样性何时创造真实价值，以及何时无效。
 
 ## Summary EN
 Instruction Data Diversity studies a focused intervention for training-data pipelines. The project turns the concept into a falsifiable comparison on Synthetic + curated open corpora, using Data engine + teacher LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

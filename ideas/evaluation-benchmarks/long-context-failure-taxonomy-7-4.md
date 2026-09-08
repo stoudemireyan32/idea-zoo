@@ -32,10 +32,10 @@ Long-context Failure Taxonomy
 长—上下文失败分类体系
 
 ## Tagline EN
-Test whether long-context failure taxonomy can improve validity, coverage, reproducibility, and evaluation cost in AI evaluation suites.
+Reveal when long-context failure taxonomy creates real value—and when it does not.
 
 ## Tagline ZH
-检验“长—上下文失败分类体系”能否改善AI 评测体系的有效性、覆盖度、可复现性与评测成本。
+揭示长—上下文失败分类体系何时创造真实价值，以及何时无效。
 
 ## Summary EN
 Long-context Failure Taxonomy studies a focused intervention for AI evaluation suites. The project turns the concept into a falsifiable comparison on LongBench, TruthfulQA, custom eval sets, using Evaluator ensemble as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

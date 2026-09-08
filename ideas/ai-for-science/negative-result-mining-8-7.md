@@ -32,10 +32,10 @@ Negative Result Mining
 负面结果挖掘
 
 ## Tagline EN
-Test whether negative result mining can improve hit rate, uncertainty calibration, and experiment cost in scientific discovery workflows.
+Recover overlooked signal through transparent negative result mining.
 
 ## Tagline ZH
-检验“负面结果挖掘”能否改善科学发现流程的命中率、不确定性校准与实验成本。
+通过透明的负面结果挖掘找回被忽略的有效信号。
 
 ## Summary EN
 Negative Result Mining studies a focused intervention for scientific discovery workflows. The project turns the concept into a falsifiable comparison on Papers, domain corpora, experiment logs, using SciBERT + planner LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

@@ -32,10 +32,10 @@ Inference QoS Governance
 推理服务质量治理
 
 ## Tagline EN
-Test whether inference qos governance can improve latency, throughput, memory use, and output quality in model-serving systems.
+Give teams enforceable rules and audit trails for inference qos governance.
 
 ## Tagline ZH
-检验“推理服务质量治理”能否改善模型服务系统的时延、吞吐量、内存占用与输出质量。
+为推理服务质量治理建立可执行规则与完整审计轨迹。
 
 ## Summary EN
 Inference QoS Governance studies a focused intervention for model-serving systems. The project turns the concept into a falsifiable comparison on Synthetic production traces, using vLLM mixed model pool as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

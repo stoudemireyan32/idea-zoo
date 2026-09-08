@@ -32,10 +32,10 @@ Cross-discipline Transfer Discovery
 跨—学科迁移发现
 
 ## Tagline EN
-Test whether cross-discipline transfer discovery can improve hit rate, uncertainty calibration, and experiment cost in scientific discovery workflows.
+Map the benefits, costs, and failure modes of cross-discipline transfer discovery.
 
 ## Tagline ZH
-检验“跨—学科迁移发现”能否改善科学发现流程的命中率、不确定性校准与实验成本。
+系统描绘跨—学科迁移发现的收益、成本与失败模式。
 
 ## Summary EN
 Cross-discipline Transfer Discovery studies a focused intervention for scientific discovery workflows. The project turns the concept into a falsifiable comparison on Papers, domain corpora, experiment logs, using SciBERT + planner LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

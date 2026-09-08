@@ -8,6 +8,7 @@ const files = fs.readdirSync(root, { recursive: true })
 const headings = ['Title', 'Tagline', 'Summary', 'Challenge', 'Method', 'Expected Outcome', 'Why Now', 'Verification Note']
 const seen = new Map()
 const errors = []
+const taglineOpenings = new Map()
 
 for (const file of files) {
   const raw = fs.readFileSync(file, 'utf8')
@@ -18,6 +19,10 @@ for (const file of files) {
     if (zh && !/[\u3400-\u9fff]/.test(zh)) errors.push(`${file}: ${heading} ZH contains no Chinese`)
     if (heading === 'Title' && zh && /[A-Z]{2,}/.test(zh.replaceAll('AI', '').replaceAll('RAG', '').replaceAll('OCR', '').replaceAll('KPI', '').replaceAll('PR', '').replaceAll('P95', ''))) errors.push(`${file}: Title ZH contains untranslated words`)
     if (en && /[\u3400-\u9fff]/.test(en)) errors.push(`${file}: ${heading} EN contains Chinese`)
+    if (heading === 'Tagline' && en) {
+      const opening = en.toLowerCase().split(/\s+/).slice(0, 2).join(' ')
+      taglineOpenings.set(opening, (taglineOpenings.get(opening) ?? 0) + 1)
+    }
     for (const [locale, value] of [['EN', en], ['ZH', zh]]) {
       if (!value) continue
       const key = `${heading}:${locale}:${value}`
@@ -26,6 +31,10 @@ for (const file of files) {
       seen.set(key, file)
     }
   }
+}
+
+for (const [opening, count] of taglineOpenings) {
+  if (count > 20) errors.push(`Tagline opening "${opening}" is repeated ${count} times`)
 }
 
 if (errors.length) {

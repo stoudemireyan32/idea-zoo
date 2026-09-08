@@ -32,10 +32,10 @@ Opposition Prompting Benchmark
 对立提示基准
 
 ## Tagline EN
-Test whether opposition prompting benchmark can improve validity, coverage, reproducibility, and evaluation cost in AI evaluation suites.
+A reproducible test bed for measuring opposition prompting benchmark across real operating conditions.
 
 ## Tagline ZH
-检验“对立提示基准”能否改善AI 评测体系的有效性、覆盖度、可复现性与评测成本。
+建立可复现测试平台，在真实运行条件下衡量对立提示基准。
 
 ## Summary EN
 Opposition Prompting Benchmark studies a focused intervention for AI evaluation suites. The project turns the concept into a falsifiable comparison on LongBench, TruthfulQA, custom eval sets, using Evaluator ensemble as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

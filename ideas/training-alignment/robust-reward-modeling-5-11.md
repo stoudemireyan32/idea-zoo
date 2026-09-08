@@ -32,10 +32,10 @@ Robust Reward Modeling
 鲁棒奖励建模
 
 ## Tagline EN
-Test whether robust reward modeling can improve task utility, policy compliance, and training efficiency in aligned language models.
+Move robust reward modeling from a promising concept to a falsifiable experiment.
 
 ## Tagline ZH
-检验“鲁棒奖励建模”能否改善对齐后的语言模型的任务效用、策略遵循度与训练效率。
+把鲁棒奖励建模从有潜力的概念推进为可证伪实验。
 
 ## Summary EN
 Robust Reward Modeling studies a focused intervention for aligned language models. The project turns the concept into a falsifiable comparison on UltraFeedback, HH-RLHF, Arena traces, using Llama-3.1 / Qwen instruct checkpoints as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

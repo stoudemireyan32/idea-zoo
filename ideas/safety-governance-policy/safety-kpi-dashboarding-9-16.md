@@ -32,10 +32,10 @@ Safety KPI Dashboarding
 安全KPI看板化
 
 ## Tagline EN
-Test whether safety kpi dashboarding can improve risk recall, false-positive rate, and auditability in AI governance controls.
+Make safety kpi dashboarding visible early enough for teams to act.
 
 ## Tagline ZH
-检验“安全KPI看板化”能否改善AI 治理控制机制的风险召回率、误报率与可审计性。
+让安全KPI看板化足够早地显现，使团队能够及时行动。
 
 ## Summary EN
 Safety KPI Dashboarding studies a focused intervention for AI governance controls. The project turns the concept into a falsifiable comparison on Safety benchmarks + policy corpora, using Safety classifier + LLM judge as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

@@ -32,10 +32,10 @@ Scientific Knowledge Graph Linking
 科学知识图谱链接
 
 ## Tagline EN
-Test whether scientific knowledge graph linking can improve hit rate, uncertainty calibration, and experiment cost in scientific discovery workflows.
+Surface stronger evidence with scientific knowledge graph linking while keeping provenance intact.
 
 ## Tagline ZH
-检验“科学知识图谱链接”能否改善科学发现流程的命中率、不确定性校准与实验成本。
+利用科学知识图谱链接找到更有力的证据，同时保留完整来源链。
 
 ## Summary EN
 Scientific Knowledge Graph Linking studies a focused intervention for scientific discovery workflows. The project turns the concept into a falsifiable comparison on Papers, domain corpora, experiment logs, using SciBERT + planner LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

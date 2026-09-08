@@ -32,10 +32,10 @@ Role-specialized Team Agents
 角色—专业化团队智能体
 
 ## Tagline EN
-Test whether role-specialized team agents can improve task success, intervention rate, and execution cost in tool-using agents.
+Map the benefits, costs, and failure modes of role-specialized team agents.
 
 ## Tagline ZH
-检验“角色—专业化团队智能体”能否改善工具型智能体的任务成功率、人工介入率与执行成本。
+系统描绘角色—专业化团队智能体的收益、成本与失败模式。
 
 ## Summary EN
 Role-specialized Team Agents studies a focused intervention for tool-using agents. The project turns the concept into a falsifiable comparison on ToolBench, APIBench, internal traces, using Planner LLM + tool adapters as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

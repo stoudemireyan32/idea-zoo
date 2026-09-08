@@ -32,10 +32,10 @@ OCR-noise Resilient Reasoning
 OCR—噪声鲁棒推理
 
 ## Tagline EN
-Test whether ocr-noise resilient reasoning can improve grounding accuracy, robustness, and inference cost in multimodal models.
+Build an evidence-backed case for—or against—ocr-noise resilient reasoning.
 
 ## Tagline ZH
-检验“OCR—噪声鲁棒推理”能否改善多模态模型的定位准确率、鲁棒性与推理成本。
+用实验证据判断OCR—噪声鲁棒推理究竟是否值得采用。
 
 ## Summary EN
 OCR-noise Resilient Reasoning studies a focused intervention for multimodal models. The project turns the concept into a falsifiable comparison on MMBench, DocVQA, VideoQA, using Qwen-VL / LLaVA-NeXT as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

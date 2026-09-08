@@ -32,10 +32,10 @@ Cross-model Comparability Protocol
 跨—模型可比性协议
 
 ## Tagline EN
-Test whether cross-model comparability protocol can improve validity, coverage, reproducibility, and evaluation cost in AI evaluation suites.
+Define a practical cross-model comparability protocol that remains enforceable under real-world pressure.
 
 ## Tagline ZH
-检验“跨—模型可比性协议”能否改善AI 评测体系的有效性、覆盖度、可复现性与评测成本。
+制定在真实压力下仍可执行的跨—模型可比性协议方案。
 
 ## Summary EN
 Cross-model Comparability Protocol studies a focused intervention for AI evaluation suites. The project turns the concept into a falsifiable comparison on LongBench, TruthfulQA, custom eval sets, using Evaluator ensemble as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

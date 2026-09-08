@@ -32,10 +32,10 @@ Conversation Memory Controls
 对话内存控制
 
 ## Tagline EN
-Test whether conversation memory controls can improve task completion, user effort, trust calibration, and accessibility in human-AI interfaces.
+Keep humans in command with measurable conversation memory controls.
 
 ## Tagline ZH
-检验“对话内存控制”能否改善人机协作界面的任务完成率、用户负担、信任校准与可访问性。
+通过可度量的对话内存控制确保人类始终掌握控制权。
 
 ## Summary EN
 Conversation Memory Controls studies a focused intervention for human-AI interfaces. The project turns the concept into a falsifiable comparison on User study logs + dialogue corpora, using General assistant model stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

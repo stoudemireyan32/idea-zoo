@@ -32,10 +32,10 @@ Reward Hacking Detection
 奖励投机检测
 
 ## Tagline EN
-Test whether reward hacking detection can improve task utility, policy compliance, and training efficiency in aligned language models.
+Catch reward hacking detection failures before they undermine aligned language models.
 
 ## Tagline ZH
-检验“奖励投机检测”能否改善对齐后的语言模型的任务效用、策略遵循度与训练效率。
+在奖励投机检测相关故障影响对齐后的语言模型之前及时识别它们。
 
 ## Summary EN
 Reward Hacking Detection studies a focused intervention for aligned language models. The project turns the concept into a falsifiable comparison on UltraFeedback, HH-RLHF, Arena traces, using Llama-3.1 / Qwen instruct checkpoints as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

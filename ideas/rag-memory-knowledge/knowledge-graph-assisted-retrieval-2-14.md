@@ -32,10 +32,10 @@ Knowledge Graph Assisted Retrieval
 知识图谱辅助检索
 
 ## Tagline EN
-Test whether knowledge graph assisted retrieval can improve evidence recall, citation precision, and retrieval latency in retrieval pipelines.
+Surface stronger evidence with knowledge graph assisted retrieval while keeping provenance intact.
 
 ## Tagline ZH
-检验“知识图谱辅助检索”能否改善检索与记忆流水线的证据召回率、引用准确率与检索时延。
+利用知识图谱辅助检索找到更有力的证据，同时保留完整来源链。
 
 ## Summary EN
 Knowledge Graph Assisted Retrieval studies a focused intervention for retrieval pipelines. The project turns the concept into a falsifiable comparison on NQ, HotpotQA, TimeQA, using BGE + reranker + GPT-style generator as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

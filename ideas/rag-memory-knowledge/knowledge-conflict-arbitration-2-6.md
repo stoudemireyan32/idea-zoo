@@ -32,10 +32,10 @@ Knowledge Conflict Arbitration
 知识冲突仲裁
 
 ## Tagline EN
-Test whether knowledge conflict arbitration can improve evidence recall, citation precision, and retrieval latency in retrieval pipelines.
+Find the operating conditions where knowledge conflict arbitration remains dependable.
 
 ## Tagline ZH
-检验“知识冲突仲裁”能否改善检索与记忆流水线的证据召回率、引用准确率与检索时延。
+找出知识冲突仲裁能够保持可靠的运行条件。
 
 ## Summary EN
 Knowledge Conflict Arbitration studies a focused intervention for retrieval pipelines. The project turns the concept into a falsifiable comparison on NQ, HotpotQA, TimeQA, using BGE + reranker + GPT-style generator as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

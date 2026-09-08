@@ -32,10 +32,10 @@ Safety-tuned Distillation
 安全—调优蒸馏
 
 ## Tagline EN
-Test whether safety-tuned distillation can improve task utility, policy compliance, and training efficiency in aligned language models.
+Map the benefits, costs, and failure modes of safety-tuned distillation.
 
 ## Tagline ZH
-检验“安全—调优蒸馏”能否改善对齐后的语言模型的任务效用、策略遵循度与训练效率。
+系统描绘安全—调优蒸馏的收益、成本与失败模式。
 
 ## Summary EN
 Safety-tuned Distillation studies a focused intervention for aligned language models. The project turns the concept into a falsifiable comparison on UltraFeedback, HH-RLHF, Arena traces, using Llama-3.1 / Qwen instruct checkpoints as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

@@ -32,10 +32,10 @@ Serving Observability Metrics
 服务可观测性指标
 
 ## Tagline EN
-Test whether serving observability metrics can improve latency, throughput, memory use, and output quality in model-serving systems.
+Turn serving observability metrics into a metric teams can compare, audit, and improve.
 
 ## Tagline ZH
-检验“服务可观测性指标”能否改善模型服务系统的时延、吞吐量、内存占用与输出质量。
+把服务可观测性指标转化为可比较、可审计、可持续改进的指标。
 
 ## Summary EN
 Serving Observability Metrics studies a focused intervention for model-serving systems. The project turns the concept into a falsifiable comparison on Synthetic production traces, using vLLM mixed model pool as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

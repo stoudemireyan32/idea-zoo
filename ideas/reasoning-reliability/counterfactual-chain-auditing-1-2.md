@@ -32,10 +32,10 @@ Counterfactual Chain Auditing
 反事实推理链审计
 
 ## Tagline EN
-Test whether counterfactual chain auditing can improve answer accuracy, calibration error, and reasoning cost in reasoning systems.
+Expose hidden errors by making counterfactual chain auditing systematic and reproducible.
 
 ## Tagline ZH
-检验“反事实推理链审计”能否改善推理系统的答案准确率、校准误差与推理成本。
+通过系统且可复现的反事实推理链审计揭示隐藏错误。
 
 ## Summary EN
 Counterfactual Chain Auditing studies a focused intervention for reasoning systems. The project turns the concept into a falsifiable comparison on MATH-500, GPQA, ProofWriter, using Qwen3 / DeepSeek-R1 Distill as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

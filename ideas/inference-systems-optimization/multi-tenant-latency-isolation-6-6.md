@@ -32,10 +32,10 @@ Multi-tenant Latency Isolation
 多—租户时延隔离
 
 ## Tagline EN
-Test whether multi-tenant latency isolation can improve latency, throughput, memory use, and output quality in model-serving systems.
+Move multi-tenant latency isolation from a promising concept to a falsifiable experiment.
 
 ## Tagline ZH
-检验“多—租户时延隔离”能否改善模型服务系统的时延、吞吐量、内存占用与输出质量。
+把多—租户时延隔离从有潜力的概念推进为可证伪实验。
 
 ## Summary EN
 Multi-tenant Latency Isolation studies a focused intervention for model-serving systems. The project turns the concept into a falsifiable comparison on Synthetic production traces, using vLLM mixed model pool as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

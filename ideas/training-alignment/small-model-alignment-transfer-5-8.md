@@ -32,10 +32,10 @@ Small-model Alignment Transfer
 小型—模型对齐迁移
 
 ## Tagline EN
-Test whether small-model alignment transfer can improve task utility, policy compliance, and training efficiency in aligned language models.
+Build an evidence-backed case for—or against—small-model alignment transfer.
 
 ## Tagline ZH
-检验“小型—模型对齐迁移”能否改善对齐后的语言模型的任务效用、策略遵循度与训练效率。
+用实验证据判断小型—模型对齐迁移究竟是否值得采用。
 
 ## Summary EN
 Small-model Alignment Transfer studies a focused intervention for aligned language models. The project turns the concept into a falsifiable comparison on UltraFeedback, HH-RLHF, Arena traces, using Llama-3.1 / Qwen instruct checkpoints as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

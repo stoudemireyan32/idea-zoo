@@ -32,10 +32,10 @@ Query-aware Reranking Policy
 查询—感知重排序策略
 
 ## Tagline EN
-Test whether query-aware reranking policy can improve evidence recall, citation precision, and retrieval latency in retrieval pipelines.
+Define a practical query-aware reranking policy that remains enforceable under real-world pressure.
 
 ## Tagline ZH
-检验“查询—感知重排序策略”能否改善检索与记忆流水线的证据召回率、引用准确率与检索时延。
+制定在真实压力下仍可执行的查询—感知重排序策略方案。
 
 ## Summary EN
 Query-aware Reranking Policy studies a focused intervention for retrieval pipelines. The project turns the concept into a falsifiable comparison on NQ, HotpotQA, TimeQA, using BGE + reranker + GPT-style generator as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

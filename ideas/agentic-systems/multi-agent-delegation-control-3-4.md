@@ -32,10 +32,10 @@ Multi-agent Delegation Control
 多—智能体委派控制
 
 ## Tagline EN
-Test whether multi-agent delegation control can improve task success, intervention rate, and execution cost in tool-using agents.
+Keep humans in command with measurable multi-agent delegation control.
 
 ## Tagline ZH
-检验“多—智能体委派控制”能否改善工具型智能体的任务成功率、人工介入率与执行成本。
+通过可度量的多—智能体委派控制确保人类始终掌握控制权。
 
 ## Summary EN
 Multi-agent Delegation Control studies a focused intervention for tool-using agents. The project turns the concept into a falsifiable comparison on ToolBench, APIBench, internal traces, using Planner LLM + tool adapters as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

@@ -32,10 +32,10 @@ Retrieval Budget Optimization
 检索预算优化
 
 ## Tagline EN
-Test whether retrieval budget optimization can improve evidence recall, citation precision, and retrieval latency in retrieval pipelines.
+Find the practical quality–cost frontier for retrieval budget optimization in retrieval pipelines.
 
 ## Tagline ZH
-检验“检索预算优化”能否改善检索与记忆流水线的证据召回率、引用准确率与检索时延。
+寻找检索与记忆流水线采用检索预算优化时切实可行的质量—成本边界。
 
 ## Summary EN
 Retrieval Budget Optimization studies a focused intervention for retrieval pipelines. The project turns the concept into a falsifiable comparison on NQ, HotpotQA, TimeQA, using BGE + reranker + GPT-style generator as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

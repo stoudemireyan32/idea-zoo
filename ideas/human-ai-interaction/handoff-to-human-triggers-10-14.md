@@ -32,10 +32,10 @@ Handoff-to-human Triggers
 交接—转—人工触发条件
 
 ## Tagline EN
-Test whether handoff-to-human triggers can improve task completion, user effort, trust calibration, and accessibility in human-AI interfaces.
+Find the operating conditions where handoff-to-human triggers remains dependable.
 
 ## Tagline ZH
-检验“交接—转—人工触发条件”能否改善人机协作界面的任务完成率、用户负担、信任校准与可访问性。
+找出交接—转—人工触发条件能够保持可靠的运行条件。
 
 ## Summary EN
 Handoff-to-human Triggers studies a focused intervention for human-AI interfaces. The project turns the concept into a falsifiable comparison on User study logs + dialogue corpora, using General assistant model stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

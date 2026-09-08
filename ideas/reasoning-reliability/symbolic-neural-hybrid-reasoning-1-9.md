@@ -32,10 +32,10 @@ Symbolic-neural Hybrid Reasoning
 符号—神经混合推理
 
 ## Tagline EN
-Test whether symbolic-neural hybrid reasoning can improve answer accuracy, calibration error, and reasoning cost in reasoning systems.
+Move symbolic-neural hybrid reasoning from a promising concept to a falsifiable experiment.
 
 ## Tagline ZH
-检验“符号—神经混合推理”能否改善推理系统的答案准确率、校准误差与推理成本。
+把符号—神经混合推理从有潜力的概念推进为可证伪实验。
 
 ## Summary EN
 Symbolic-neural Hybrid Reasoning studies a focused intervention for reasoning systems. The project turns the concept into a falsifiable comparison on MATH-500, GPQA, ProofWriter, using Qwen3 / DeepSeek-R1 Distill as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

@@ -32,10 +32,10 @@ Cost-aware Decoding
 成本—感知解码
 
 ## Tagline EN
-Test whether cost-aware decoding can improve latency, throughput, memory use, and output quality in model-serving systems.
+Move cost-aware decoding from a promising concept to a falsifiable experiment.
 
 ## Tagline ZH
-检验“成本—感知解码”能否改善模型服务系统的时延、吞吐量、内存占用与输出质量。
+把成本—感知解码从有潜力的概念推进为可证伪实验。
 
 ## Summary EN
 Cost-aware Decoding studies a focused intervention for model-serving systems. The project turns the concept into a falsifiable comparison on Synthetic production traces, using vLLM mixed model pool as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

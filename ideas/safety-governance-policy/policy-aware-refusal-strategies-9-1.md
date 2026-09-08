@@ -32,10 +32,10 @@ Policy-aware Refusal Strategies
 策略—感知拒答策略
 
 ## Tagline EN
-Test whether policy-aware refusal strategies can improve risk recall, false-positive rate, and auditability in AI governance controls.
+Define a practical policy-aware refusal strategies that remains enforceable under real-world pressure.
 
 ## Tagline ZH
-检验“策略—感知拒答策略”能否改善AI 治理控制机制的风险召回率、误报率与可审计性。
+制定在真实压力下仍可执行的策略—感知拒答策略方案。
 
 ## Summary EN
 Policy-aware Refusal Strategies studies a focused intervention for AI governance controls. The project turns the concept into a falsifiable comparison on Safety benchmarks + policy corpora, using Safety classifier + LLM judge as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

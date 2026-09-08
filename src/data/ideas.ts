@@ -24,8 +24,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "自适应推理预算"
     },
     "tagline": {
-      "en": "Test whether adaptive reasoning budget can improve answer accuracy, calibration error, and reasoning cost in reasoning systems.",
-      "zh": "检验“自适应推理预算”能否改善推理系统的答案准确率、校准误差与推理成本。"
+      "en": "Spend scarce resources where adaptive reasoning budget can deliver the largest verified gain.",
+      "zh": "把稀缺资源投入自适应推理预算最可能带来可验证收益的环节。"
     },
     "summary": {
       "en": "Adaptive Reasoning Budget studies a focused intervention for reasoning systems. The project turns the concept into a falsifiable comparison on MATH-500, GPQA, ProofWriter, using Qwen3 / DeepSeek-R1 Distill as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -89,8 +89,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "反事实推理链审计"
     },
     "tagline": {
-      "en": "Test whether counterfactual chain auditing can improve answer accuracy, calibration error, and reasoning cost in reasoning systems.",
-      "zh": "检验“反事实推理链审计”能否改善推理系统的答案准确率、校准误差与推理成本。"
+      "en": "Expose hidden errors by making counterfactual chain auditing systematic and reproducible.",
+      "zh": "通过系统且可复现的反事实推理链审计揭示隐藏错误。"
     },
     "summary": {
       "en": "Counterfactual Chain Auditing studies a focused intervention for reasoning systems. The project turns the concept into a falsifiable comparison on MATH-500, GPQA, ProofWriter, using Qwen3 / DeepSeek-R1 Distill as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -154,8 +154,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "验证器优先解码"
     },
     "tagline": {
-      "en": "Test whether verifier-first decoding can improve answer accuracy, calibration error, and reasoning cost in reasoning systems.",
-      "zh": "检验“验证器优先解码”能否改善推理系统的答案准确率、校准误差与推理成本。"
+      "en": "Find the operating conditions where verifier-first decoding remains dependable.",
+      "zh": "找出验证器优先解码能够保持可靠的运行条件。"
     },
     "summary": {
       "en": "Verifier-first Decoding studies a focused intervention for reasoning systems. The project turns the concept into a falsifiable comparison on MATH-500, GPQA, ProofWriter, using Qwen3 / DeepSeek-R1 Distill as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -219,8 +219,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "不确定性感知拒答"
     },
     "tagline": {
-      "en": "Test whether uncertainty-aware refusal can improve answer accuracy, calibration error, and reasoning cost in reasoning systems.",
-      "zh": "检验“不确定性感知拒答”能否改善推理系统的答案准确率、校准误差与推理成本。"
+      "en": "Build an evidence-backed case for—or against—uncertainty-aware refusal.",
+      "zh": "用实验证据判断不确定性感知拒答究竟是否值得采用。"
     },
     "summary": {
       "en": "Uncertainty-aware Refusal studies a focused intervention for reasoning systems. The project turns the concept into a falsifiable comparison on MATH-500, GPQA, ProofWriter, using Qwen3 / DeepSeek-R1 Distill as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -284,8 +284,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "长上下文逻辑稳定性"
     },
     "tagline": {
-      "en": "Test whether long-context logic stability can improve answer accuracy, calibration error, and reasoning cost in reasoning systems.",
-      "zh": "检验“长上下文逻辑稳定性”能否改善推理系统的答案准确率、校准误差与推理成本。"
+      "en": "Stress-test long-context logic stability beyond clean benchmarks and ideal inputs.",
+      "zh": "让长上下文逻辑稳定性接受超越理想输入和标准基准的压力测试。"
     },
     "summary": {
       "en": "Long-context Logic Stability studies a focused intervention for reasoning systems. The project turns the concept into a falsifiable comparison on MATH-500, GPQA, ProofWriter, using Qwen3 / DeepSeek-R1 Distill as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -349,8 +349,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "推理轨迹压缩"
     },
     "tagline": {
-      "en": "Test whether reasoning trace compression can improve answer accuracy, calibration error, and reasoning cost in reasoning systems.",
-      "zh": "检验“推理轨迹压缩”能否改善推理系统的答案准确率、校准误差与推理成本。"
+      "en": "Reduce the footprint of reasoning trace compression while preserving the information that matters.",
+      "zh": "压缩推理轨迹压缩的资源占用，同时保留真正影响结果的信息。"
     },
     "summary": {
       "en": "Reasoning Trace Compression studies a focused intervention for reasoning systems. The project turns the concept into a falsifiable comparison on MATH-500, GPQA, ProofWriter, using Qwen3 / DeepSeek-R1 Distill as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -414,8 +414,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "自我批判一致性"
     },
     "tagline": {
-      "en": "Test whether self-critique consistency can improve answer accuracy, calibration error, and reasoning cost in reasoning systems.",
-      "zh": "检验“自我批判一致性”能否改善推理系统的答案准确率、校准误差与推理成本。"
+      "en": "Stress-test self-critique consistency beyond clean benchmarks and ideal inputs.",
+      "zh": "让自我批判一致性接受超越理想输入和标准基准的压力测试。"
     },
     "summary": {
       "en": "Self-critique Consistency studies a focused intervention for reasoning systems. The project turns the concept into a falsifiable comparison on MATH-500, GPQA, ProofWriter, using Qwen3 / DeepSeek-R1 Distill as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -479,8 +479,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "证明约束生成"
     },
     "tagline": {
-      "en": "Test whether proof-grounded generation can improve answer accuracy, calibration error, and reasoning cost in reasoning systems.",
-      "zh": "检验“证明约束生成”能否改善推理系统的答案准确率、校准误差与推理成本。"
+      "en": "Produce better research inputs through controlled proof-grounded generation, not blind scale.",
+      "zh": "以受控的证明约束生成提升研究输入质量，而不是盲目追求规模。"
     },
     "summary": {
       "en": "Proof-grounded Generation studies a focused intervention for reasoning systems. The project turns the concept into a falsifiable comparison on MATH-500, GPQA, ProofWriter, using Qwen3 / DeepSeek-R1 Distill as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -544,8 +544,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "符号—神经混合推理"
     },
     "tagline": {
-      "en": "Test whether symbolic-neural hybrid reasoning can improve answer accuracy, calibration error, and reasoning cost in reasoning systems.",
-      "zh": "检验“符号—神经混合推理”能否改善推理系统的答案准确率、校准误差与推理成本。"
+      "en": "Move symbolic-neural hybrid reasoning from a promising concept to a falsifiable experiment.",
+      "zh": "把符号—神经混合推理从有潜力的概念推进为可证伪实验。"
     },
     "summary": {
       "en": "Symbolic-neural Hybrid Reasoning studies a focused intervention for reasoning systems. The project turns the concept into a falsifiable comparison on MATH-500, GPQA, ProofWriter, using Qwen3 / DeepSeek-R1 Distill as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -609,8 +609,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "推理幻觉检测"
     },
     "tagline": {
-      "en": "Test whether reasoning hallucination detection can improve answer accuracy, calibration error, and reasoning cost in reasoning systems.",
-      "zh": "检验“推理幻觉检测”能否改善推理系统的答案准确率、校准误差与推理成本。"
+      "en": "Catch reasoning hallucination detection failures before they undermine reasoning systems.",
+      "zh": "在推理幻觉检测相关故障影响推理系统之前及时识别它们。"
     },
     "summary": {
       "en": "Reasoning Hallucination Detection studies a focused intervention for reasoning systems. The project turns the concept into a falsifiable comparison on MATH-500, GPQA, ProofWriter, using Qwen3 / DeepSeek-R1 Distill as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -674,8 +674,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "因果轨迹对齐"
     },
     "tagline": {
-      "en": "Test whether causal trace alignment can improve answer accuracy, calibration error, and reasoning cost in reasoning systems.",
-      "zh": "检验“因果轨迹对齐”能否改善推理系统的答案准确率、校准误差与推理成本。"
+      "en": "Measure where causal trace alignment holds—and where it quietly breaks.",
+      "zh": "衡量因果轨迹对齐在何处成立，又在何处悄然失效。"
     },
     "summary": {
       "en": "Causal Trace Alignment studies a focused intervention for reasoning systems. The project turns the concept into a falsifiable comparison on MATH-500, GPQA, ProofWriter, using Qwen3 / DeepSeek-R1 Distill as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -739,8 +739,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "鲁棒多跳分解"
     },
     "tagline": {
-      "en": "Test whether robust multi-hop decomposition can improve answer accuracy, calibration error, and reasoning cost in reasoning systems.",
-      "zh": "检验“鲁棒多跳分解”能否改善推理系统的答案准确率、校准误差与推理成本。"
+      "en": "Find the operating conditions where robust multi-hop decomposition remains dependable.",
+      "zh": "找出鲁棒多跳分解能够保持可靠的运行条件。"
     },
     "summary": {
       "en": "Robust Multi-hop Decomposition studies a focused intervention for reasoning systems. The project turns the concept into a falsifiable comparison on MATH-500, GPQA, ProofWriter, using Qwen3 / DeepSeek-R1 Distill as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -804,8 +804,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "错误感知自我修正"
     },
     "tagline": {
-      "en": "Test whether error-aware self-correction can improve answer accuracy, calibration error, and reasoning cost in reasoning systems.",
-      "zh": "检验“错误感知自我修正”能否改善推理系统的答案准确率、校准误差与推理成本。"
+      "en": "Help reasoning systems recover safely through error-aware self-correction instead of starting over.",
+      "zh": "让推理系统借助错误感知自我修正安全恢复，而不是从头再来。"
     },
     "summary": {
       "en": "Error-aware Self-correction studies a focused intervention for reasoning systems. The project turns the concept into a falsifiable comparison on MATH-500, GPQA, ProofWriter, using Qwen3 / DeepSeek-R1 Distill as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -869,8 +869,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "过程奖励校准"
     },
     "tagline": {
-      "en": "Test whether process reward calibration can improve answer accuracy, calibration error, and reasoning cost in reasoning systems.",
-      "zh": "检验“过程奖励校准”能否改善推理系统的答案准确率、校准误差与推理成本。"
+      "en": "Align confidence with reality through measurable process reward calibration.",
+      "zh": "通过可度量的过程奖励校准，让系统置信度更贴近真实表现。"
     },
     "summary": {
       "en": "Process Reward Calibration studies a focused intervention for reasoning systems. The project turns the concept into a falsifiable comparison on MATH-500, GPQA, ProofWriter, using Qwen3 / DeepSeek-R1 Distill as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -934,8 +934,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "推理安全护栏"
     },
     "tagline": {
-      "en": "Test whether reasoning safety guardrails can improve answer accuracy, calibration error, and reasoning cost in reasoning systems.",
-      "zh": "检验“推理安全护栏”能否改善推理系统的答案准确率、校准误差与推理成本。"
+      "en": "Define a practical reasoning safety guardrails that remains enforceable under real-world pressure.",
+      "zh": "制定在真实压力下仍可执行的推理安全护栏方案。"
     },
     "summary": {
       "en": "Reasoning Safety Guardrails studies a focused intervention for reasoning systems. The project turns the concept into a falsifiable comparison on MATH-500, GPQA, ProofWriter, using Qwen3 / DeepSeek-R1 Distill as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -999,8 +999,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "不确定步骤弃权"
     },
     "tagline": {
-      "en": "Test whether uncertain step abstention can improve answer accuracy, calibration error, and reasoning cost in reasoning systems.",
-      "zh": "检验“不确定步骤弃权”能否改善推理系统的答案准确率、校准误差与推理成本。"
+      "en": "Map the benefits, costs, and failure modes of uncertain step abstention.",
+      "zh": "系统描绘不确定步骤弃权的收益、成本与失败模式。"
     },
     "summary": {
       "en": "Uncertain Step Abstention studies a focused intervention for reasoning systems. The project turns the concept into a falsifiable comparison on MATH-500, GPQA, ProofWriter, using Qwen3 / DeepSeek-R1 Distill as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -1064,8 +1064,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "思考深度路由"
     },
     "tagline": {
-      "en": "Test whether deliberation depth routing can improve answer accuracy, calibration error, and reasoning cost in reasoning systems.",
-      "zh": "检验“思考深度路由”能否改善推理系统的答案准确率、校准误差与推理成本。"
+      "en": "Send each workload down the right path with deliberation depth routing.",
+      "zh": "利用思考深度路由为每项负载选择合适的处理路径。"
     },
     "summary": {
       "en": "Deliberation Depth Routing studies a focused intervention for reasoning systems. The project turns the concept into a falsifiable comparison on MATH-500, GPQA, ProofWriter, using Qwen3 / DeepSeek-R1 Distill as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -1129,8 +1129,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "检索预算优化"
     },
     "tagline": {
-      "en": "Test whether retrieval budget optimization can improve evidence recall, citation precision, and retrieval latency in retrieval pipelines.",
-      "zh": "检验“检索预算优化”能否改善检索与记忆流水线的证据召回率、引用准确率与检索时延。"
+      "en": "Find the practical quality–cost frontier for retrieval budget optimization in retrieval pipelines.",
+      "zh": "寻找检索与记忆流水线采用检索预算优化时切实可行的质量—成本边界。"
     },
     "summary": {
       "en": "Retrieval Budget Optimization studies a focused intervention for retrieval pipelines. The project turns the concept into a falsifiable comparison on NQ, HotpotQA, TimeQA, using BGE + reranker + GPT-style generator as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -1194,8 +1194,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "时序新鲜度基准"
     },
     "tagline": {
-      "en": "Test whether temporal freshness benchmark can improve evidence recall, citation precision, and retrieval latency in retrieval pipelines.",
-      "zh": "检验“时序新鲜度基准”能否改善检索与记忆流水线的证据召回率、引用准确率与检索时延。"
+      "en": "A reproducible test bed for measuring temporal freshness benchmark across real operating conditions.",
+      "zh": "建立可复现测试平台，在真实运行条件下衡量时序新鲜度基准。"
     },
     "summary": {
       "en": "Temporal Freshness Benchmark studies a focused intervention for retrieval pipelines. The project turns the concept into a falsifiable comparison on NQ, HotpotQA, TimeQA, using BGE + reranker + GPT-style generator as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -1259,8 +1259,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "引用忠实度评分"
     },
     "tagline": {
-      "en": "Test whether citation faithfulness scoring can improve evidence recall, citation precision, and retrieval latency in retrieval pipelines.",
-      "zh": "检验“引用忠实度评分”能否改善检索与记忆流水线的证据召回率、引用准确率与检索时延。"
+      "en": "Turn citation faithfulness scoring into a metric teams can compare, audit, and improve.",
+      "zh": "把引用忠实度评分转化为可比较、可审计、可持续改进的指标。"
     },
     "summary": {
       "en": "Citation Faithfulness Scoring studies a focused intervention for retrieval pipelines. The project turns the concept into a falsifiable comparison on NQ, HotpotQA, TimeQA, using BGE + reranker + GPT-style generator as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -1324,8 +1324,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "内存衰减策略学习"
     },
     "tagline": {
-      "en": "Test whether memory decay policy learning can improve evidence recall, citation precision, and retrieval latency in retrieval pipelines.",
-      "zh": "检验“内存衰减策略学习”能否改善检索与记忆流水线的证据召回率、引用准确率与检索时延。"
+      "en": "Define a practical memory decay policy learning that remains enforceable under real-world pressure.",
+      "zh": "制定在真实压力下仍可执行的内存衰减策略学习方案。"
     },
     "summary": {
       "en": "Memory Decay Policy Learning studies a focused intervention for retrieval pipelines. The project turns the concept into a falsifiable comparison on NQ, HotpotQA, TimeQA, using BGE + reranker + GPT-style generator as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -1389,8 +1389,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "混合符号—向量检索"
     },
     "tagline": {
-      "en": "Test whether hybrid symbolic-vector retrieval can improve evidence recall, citation precision, and retrieval latency in retrieval pipelines.",
-      "zh": "检验“混合符号—向量检索”能否改善检索与记忆流水线的证据召回率、引用准确率与检索时延。"
+      "en": "Surface stronger evidence with hybrid symbolic-vector retrieval while keeping provenance intact.",
+      "zh": "利用混合符号—向量检索找到更有力的证据，同时保留完整来源链。"
     },
     "summary": {
       "en": "Hybrid Symbolic-vector Retrieval studies a focused intervention for retrieval pipelines. The project turns the concept into a falsifiable comparison on NQ, HotpotQA, TimeQA, using BGE + reranker + GPT-style generator as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -1454,8 +1454,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "知识冲突仲裁"
     },
     "tagline": {
-      "en": "Test whether knowledge conflict arbitration can improve evidence recall, citation precision, and retrieval latency in retrieval pipelines.",
-      "zh": "检验“知识冲突仲裁”能否改善检索与记忆流水线的证据召回率、引用准确率与检索时延。"
+      "en": "Find the operating conditions where knowledge conflict arbitration remains dependable.",
+      "zh": "找出知识冲突仲裁能够保持可靠的运行条件。"
     },
     "summary": {
       "en": "Knowledge Conflict Arbitration studies a focused intervention for retrieval pipelines. The project turns the concept into a falsifiable comparison on NQ, HotpotQA, TimeQA, using BGE + reranker + GPT-style generator as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -1519,8 +1519,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "查询—感知重排序策略"
     },
     "tagline": {
-      "en": "Test whether query-aware reranking policy can improve evidence recall, citation precision, and retrieval latency in retrieval pipelines.",
-      "zh": "检验“查询—感知重排序策略”能否改善检索与记忆流水线的证据召回率、引用准确率与检索时延。"
+      "en": "Define a practical query-aware reranking policy that remains enforceable under real-world pressure.",
+      "zh": "制定在真实压力下仍可执行的查询—感知重排序策略方案。"
     },
     "summary": {
       "en": "Query-aware Reranking Policy studies a focused intervention for retrieval pipelines. The project turns the concept into a falsifiable comparison on NQ, HotpotQA, TimeQA, using BGE + reranker + GPT-style generator as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -1584,8 +1584,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "上下文编排优化"
     },
     "tagline": {
-      "en": "Test whether context packing optimization can improve evidence recall, citation precision, and retrieval latency in retrieval pipelines.",
-      "zh": "检验“上下文编排优化”能否改善检索与记忆流水线的证据召回率、引用准确率与检索时延。"
+      "en": "Find the practical quality–cost frontier for context packing optimization in retrieval pipelines.",
+      "zh": "寻找检索与记忆流水线采用上下文编排优化时切实可行的质量—成本边界。"
     },
     "summary": {
       "en": "Context Packing Optimization studies a focused intervention for retrieval pipelines. The project turns the concept into a falsifiable comparison on NQ, HotpotQA, TimeQA, using BGE + reranker + GPT-style generator as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -1649,8 +1649,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "证据链重建"
     },
     "tagline": {
-      "en": "Test whether evidence chain reconstruction can improve evidence recall, citation precision, and retrieval latency in retrieval pipelines.",
-      "zh": "检验“证据链重建”能否改善检索与记忆流水线的证据召回率、引用准确率与检索时延。"
+      "en": "Produce better research inputs through controlled evidence chain reconstruction, not blind scale.",
+      "zh": "以受控的证据链重建提升研究输入质量，而不是盲目追求规模。"
     },
     "summary": {
       "en": "Evidence Chain Reconstruction studies a focused intervention for retrieval pipelines. The project turns the concept into a falsifiable comparison on NQ, HotpotQA, TimeQA, using BGE + reranker + GPT-style generator as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -1714,8 +1714,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "来源信任加权"
     },
     "tagline": {
-      "en": "Test whether source trust weighting can improve evidence recall, citation precision, and retrieval latency in retrieval pipelines.",
-      "zh": "检验“来源信任加权”能否改善检索与记忆流水线的证据召回率、引用准确率与检索时延。"
+      "en": "Move source trust weighting from a promising concept to a falsifiable experiment.",
+      "zh": "把来源信任加权从有潜力的概念推进为可证伪实验。"
     },
     "summary": {
       "en": "Source Trust Weighting studies a focused intervention for retrieval pipelines. The project turns the concept into a falsifiable comparison on NQ, HotpotQA, TimeQA, using BGE + reranker + GPT-style generator as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -1779,8 +1779,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "领域适配面向企业级RAG"
     },
     "tagline": {
-      "en": "Test whether domain adaptation for enterprise rag can improve evidence recall, citation precision, and retrieval latency in retrieval pipelines.",
-      "zh": "检验“领域适配面向企业级RAG”能否改善检索与记忆流水线的证据召回率、引用准确率与检索时延。"
+      "en": "Find the operating conditions where domain adaptation for enterprise rag remains dependable.",
+      "zh": "找出领域适配面向企业级RAG能够保持可靠的运行条件。"
     },
     "summary": {
       "en": "Domain Adaptation For Enterprise RAG studies a focused intervention for retrieval pipelines. The project turns the concept into a falsifiable comparison on NQ, HotpotQA, TimeQA, using BGE + reranker + GPT-style generator as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -1844,8 +1844,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "跨—语言检索一致性"
     },
     "tagline": {
-      "en": "Test whether cross-lingual retrieval consistency can improve evidence recall, citation precision, and retrieval latency in retrieval pipelines.",
-      "zh": "检验“跨—语言检索一致性”能否改善检索与记忆流水线的证据召回率、引用准确率与检索时延。"
+      "en": "Surface stronger evidence with cross-lingual retrieval consistency while keeping provenance intact.",
+      "zh": "利用跨—语言检索一致性找到更有力的证据，同时保留完整来源链。"
     },
     "summary": {
       "en": "Cross-lingual Retrieval Consistency studies a focused intervention for retrieval pipelines. The project turns the concept into a falsifiable comparison on NQ, HotpotQA, TimeQA, using BGE + reranker + GPT-style generator as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -1909,8 +1909,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "约束答案校准"
     },
     "tagline": {
-      "en": "Test whether grounded answer calibration can improve evidence recall, citation precision, and retrieval latency in retrieval pipelines.",
-      "zh": "检验“约束答案校准”能否改善检索与记忆流水线的证据召回率、引用准确率与检索时延。"
+      "en": "Align confidence with reality through measurable grounded answer calibration.",
+      "zh": "通过可度量的约束答案校准，让系统置信度更贴近真实表现。"
     },
     "summary": {
       "en": "Grounded Answer Calibration studies a focused intervention for retrieval pipelines. The project turns the concept into a falsifiable comparison on NQ, HotpotQA, TimeQA, using BGE + reranker + GPT-style generator as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -1974,8 +1974,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "知识图谱辅助检索"
     },
     "tagline": {
-      "en": "Test whether knowledge graph assisted retrieval can improve evidence recall, citation precision, and retrieval latency in retrieval pipelines.",
-      "zh": "检验“知识图谱辅助检索”能否改善检索与记忆流水线的证据召回率、引用准确率与检索时延。"
+      "en": "Surface stronger evidence with knowledge graph assisted retrieval while keeping provenance intact.",
+      "zh": "利用知识图谱辅助检索找到更有力的证据，同时保留完整来源链。"
     },
     "summary": {
       "en": "Knowledge Graph Assisted Retrieval studies a focused intervention for retrieval pipelines. The project turns the concept into a falsifiable comparison on NQ, HotpotQA, TimeQA, using BGE + reranker + GPT-style generator as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -2039,8 +2039,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "会话内存压缩"
     },
     "tagline": {
-      "en": "Test whether session memory compression can improve evidence recall, citation precision, and retrieval latency in retrieval pipelines.",
-      "zh": "检验“会话内存压缩”能否改善检索与记忆流水线的证据召回率、引用准确率与检索时延。"
+      "en": "Reduce the footprint of session memory compression while preserving the information that matters.",
+      "zh": "压缩会话内存压缩的资源占用，同时保留真正影响结果的信息。"
     },
     "summary": {
       "en": "Session Memory Compression studies a focused intervention for retrieval pipelines. The project turns the concept into a falsifiable comparison on NQ, HotpotQA, TimeQA, using BGE + reranker + GPT-style generator as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -2104,8 +2104,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "检索漂移诊断"
     },
     "tagline": {
-      "en": "Test whether retrieval drift diagnosis can improve evidence recall, citation precision, and retrieval latency in retrieval pipelines.",
-      "zh": "检验“检索漂移诊断”能否改善检索与记忆流水线的证据召回率、引用准确率与检索时延。"
+      "en": "Surface stronger evidence with retrieval drift diagnosis while keeping provenance intact.",
+      "zh": "利用检索漂移诊断找到更有力的证据，同时保留完整来源链。"
     },
     "summary": {
       "en": "Retrieval Drift Diagnosis studies a focused intervention for retrieval pipelines. The project turns the concept into a falsifiable comparison on NQ, HotpotQA, TimeQA, using BGE + reranker + GPT-style generator as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -2169,8 +2169,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "证据矛盾修复"
     },
     "tagline": {
-      "en": "Test whether evidence contradiction repair can improve evidence recall, citation precision, and retrieval latency in retrieval pipelines.",
-      "zh": "检验“证据矛盾修复”能否改善检索与记忆流水线的证据召回率、引用准确率与检索时延。"
+      "en": "Help retrieval pipelines recover safely through evidence contradiction repair instead of starting over.",
+      "zh": "让检索与记忆流水线借助证据矛盾修复安全恢复，而不是从头再来。"
     },
     "summary": {
       "en": "Evidence Contradiction Repair studies a focused intervention for retrieval pipelines. The project turns the concept into a falsifiable comparison on NQ, HotpotQA, TimeQA, using BGE + reranker + GPT-style generator as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -2234,8 +2234,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "工具规划稳定性"
     },
     "tagline": {
-      "en": "Test whether tool planning stability can improve task success, intervention rate, and execution cost in tool-using agents.",
-      "zh": "检验“工具规划稳定性”能否改善工具型智能体的任务成功率、人工介入率与执行成本。"
+      "en": "Stress-test tool planning stability beyond clean benchmarks and ideal inputs.",
+      "zh": "让工具规划稳定性接受超越理想输入和标准基准的压力测试。"
     },
     "summary": {
       "en": "Tool Planning Stability studies a focused intervention for tool-using agents. The project turns the concept into a falsifiable comparison on ToolBench, APIBench, internal traces, using Planner LLM + tool adapters as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -2299,8 +2299,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "失败—感知回滚协议"
     },
     "tagline": {
-      "en": "Test whether failure-aware rollback protocol can improve task success, intervention rate, and execution cost in tool-using agents.",
-      "zh": "检验“失败—感知回滚协议”能否改善工具型智能体的任务成功率、人工介入率与执行成本。"
+      "en": "Define a practical failure-aware rollback protocol that remains enforceable under real-world pressure.",
+      "zh": "制定在真实压力下仍可执行的失败—感知回滚协议方案。"
     },
     "summary": {
       "en": "Failure-aware Rollback Protocol studies a focused intervention for tool-using agents. The project turns the concept into a falsifiable comparison on ToolBench, APIBench, internal traces, using Planner LLM + tool adapters as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -2364,8 +2364,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "时延—感知工具路由"
     },
     "tagline": {
-      "en": "Test whether latency-aware tool routing can improve task success, intervention rate, and execution cost in tool-using agents.",
-      "zh": "检验“时延—感知工具路由”能否改善工具型智能体的任务成功率、人工介入率与执行成本。"
+      "en": "Send each workload down the right path with latency-aware tool routing.",
+      "zh": "利用时延—感知工具路由为每项负载选择合适的处理路径。"
     },
     "summary": {
       "en": "Latency-aware Tool Routing studies a focused intervention for tool-using agents. The project turns the concept into a falsifiable comparison on ToolBench, APIBench, internal traces, using Planner LLM + tool adapters as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -2429,8 +2429,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "多—智能体委派控制"
     },
     "tagline": {
-      "en": "Test whether multi-agent delegation control can improve task success, intervention rate, and execution cost in tool-using agents.",
-      "zh": "检验“多—智能体委派控制”能否改善工具型智能体的任务成功率、人工介入率与执行成本。"
+      "en": "Keep humans in command with measurable multi-agent delegation control.",
+      "zh": "通过可度量的多—智能体委派控制确保人类始终掌握控制权。"
     },
     "summary": {
       "en": "Multi-agent Delegation Control studies a focused intervention for tool-using agents. The project turns the concept into a falsifiable comparison on ToolBench, APIBench, internal traces, using Planner LLM + tool adapters as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -2494,8 +2494,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "智能体内存治理"
     },
     "tagline": {
-      "en": "Test whether agent memory governance can improve task success, intervention rate, and execution cost in tool-using agents.",
-      "zh": "检验“智能体内存治理”能否改善工具型智能体的任务成功率、人工介入率与执行成本。"
+      "en": "Give teams enforceable rules and audit trails for agent memory governance.",
+      "zh": "为智能体内存治理建立可执行规则与完整审计轨迹。"
     },
     "summary": {
       "en": "Agent Memory Governance studies a focused intervention for tool-using agents. The project turns the concept into a falsifiable comparison on ToolBench, APIBench, internal traces, using Planner LLM + tool adapters as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -2559,8 +2559,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "任务分解质量指标"
     },
     "tagline": {
-      "en": "Test whether task decomposition quality metric can improve task success, intervention rate, and execution cost in tool-using agents.",
-      "zh": "检验“任务分解质量指标”能否改善工具型智能体的任务成功率、人工介入率与执行成本。"
+      "en": "Turn task decomposition quality metric into a metric teams can compare, audit, and improve.",
+      "zh": "把任务分解质量指标转化为可比较、可审计、可持续改进的指标。"
     },
     "summary": {
       "en": "Task Decomposition Quality Metric studies a focused intervention for tool-using agents. The project turns the concept into a falsifiable comparison on ToolBench, APIBench, internal traces, using Planner LLM + tool adapters as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -2624,8 +2624,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "执行轨迹回放调试"
     },
     "tagline": {
-      "en": "Test whether execution trace replay debugging can improve task success, intervention rate, and execution cost in tool-using agents.",
-      "zh": "检验“执行轨迹回放调试”能否改善工具型智能体的任务成功率、人工介入率与执行成本。"
+      "en": "Move execution trace replay debugging from a promising concept to a falsifiable experiment.",
+      "zh": "把执行轨迹回放调试从有潜力的概念推进为可证伪实验。"
     },
     "summary": {
       "en": "Execution Trace Replay Debugging studies a focused intervention for tool-using agents. The project turns the concept into a falsifiable comparison on ToolBench, APIBench, internal traces, using Planner LLM + tool adapters as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -2689,8 +2689,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "人工中断对齐"
     },
     "tagline": {
-      "en": "Test whether human interrupt alignment can improve task success, intervention rate, and execution cost in tool-using agents.",
-      "zh": "检验“人工中断对齐”能否改善工具型智能体的任务成功率、人工介入率与执行成本。"
+      "en": "Measure where human interrupt alignment holds—and where it quietly breaks.",
+      "zh": "衡量人工中断对齐在何处成立，又在何处悄然失效。"
     },
     "summary": {
       "en": "Human Interrupt Alignment studies a focused intervention for tool-using agents. The project turns the concept into a falsifiable comparison on ToolBench, APIBench, internal traces, using Planner LLM + tool adapters as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -2754,8 +2754,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "行动安全沙箱策略"
     },
     "tagline": {
-      "en": "Test whether action safety sandbox policy can improve task success, intervention rate, and execution cost in tool-using agents.",
-      "zh": "检验“行动安全沙箱策略”能否改善工具型智能体的任务成功率、人工介入率与执行成本。"
+      "en": "Define a practical action safety sandbox policy that remains enforceable under real-world pressure.",
+      "zh": "制定在真实压力下仍可执行的行动安全沙箱策略方案。"
     },
     "summary": {
       "en": "Action Safety Sandbox Policy studies a focused intervention for tool-using agents. The project turns the concept into a falsifiable comparison on ToolBench, APIBench, internal traces, using Planner LLM + tool adapters as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -2819,8 +2819,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "目标—优先级调度"
     },
     "tagline": {
-      "en": "Test whether goal-priority scheduling can improve task success, intervention rate, and execution cost in tool-using agents.",
-      "zh": "检验“目标—优先级调度”能否改善工具型智能体的任务成功率、人工介入率与执行成本。"
+      "en": "Schedule limited resources around goal-priority scheduling without sacrificing quality.",
+      "zh": "围绕目标—优先级调度调度有限资源，同时守住质量底线。"
     },
     "summary": {
       "en": "Goal-priority Scheduling studies a focused intervention for tool-using agents. The project turns the concept into a falsifiable comparison on ToolBench, APIBench, internal traces, using Planner LLM + tool adapters as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -2884,8 +2884,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "工具模式漂移恢复"
     },
     "tagline": {
-      "en": "Test whether tool schema drift recovery can improve task success, intervention rate, and execution cost in tool-using agents.",
-      "zh": "检验“工具模式漂移恢复”能否改善工具型智能体的任务成功率、人工介入率与执行成本。"
+      "en": "Help tool-using agents recover safely through tool schema drift recovery instead of starting over.",
+      "zh": "让工具型智能体借助工具模式漂移恢复安全恢复，而不是从头再来。"
     },
     "summary": {
       "en": "Tool Schema Drift Recovery studies a focused intervention for tool-using agents. The project turns the concept into a falsifiable comparison on ToolBench, APIBench, internal traces, using Planner LLM + tool adapters as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -2949,8 +2949,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "自主重试预算"
     },
     "tagline": {
-      "en": "Test whether autonomous retry budget can improve task success, intervention rate, and execution cost in tool-using agents.",
-      "zh": "检验“自主重试预算”能否改善工具型智能体的任务成功率、人工介入率与执行成本。"
+      "en": "Spend scarce resources where autonomous retry budget can deliver the largest verified gain.",
+      "zh": "把稀缺资源投入自主重试预算最可能带来可验证收益的环节。"
     },
     "summary": {
       "en": "Autonomous Retry Budget studies a focused intervention for tool-using agents. The project turns the concept into a falsifiable comparison on ToolBench, APIBench, internal traces, using Planner LLM + tool adapters as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -3014,8 +3014,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "智能体可靠性基准"
     },
     "tagline": {
-      "en": "Test whether agent reliability benchmark can improve task success, intervention rate, and execution cost in tool-using agents.",
-      "zh": "检验“智能体可靠性基准”能否改善工具型智能体的任务成功率、人工介入率与执行成本。"
+      "en": "A reproducible test bed for measuring agent reliability benchmark across real operating conditions.",
+      "zh": "建立可复现测试平台，在真实运行条件下衡量智能体可靠性基准。"
     },
     "summary": {
       "en": "Agent Reliability Benchmark studies a focused intervention for tool-using agents. The project turns the concept into a falsifiable comparison on ToolBench, APIBench, internal traces, using Planner LLM + tool adapters as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -3079,8 +3079,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "状态检查点一致性"
     },
     "tagline": {
-      "en": "Test whether state checkpoint consistency can improve task success, intervention rate, and execution cost in tool-using agents.",
-      "zh": "检验“状态检查点一致性”能否改善工具型智能体的任务成功率、人工介入率与执行成本。"
+      "en": "Stress-test state checkpoint consistency beyond clean benchmarks and ideal inputs.",
+      "zh": "让状态检查点一致性接受超越理想输入和标准基准的压力测试。"
     },
     "summary": {
       "en": "State Checkpoint Consistency studies a focused intervention for tool-using agents. The project turns the concept into a falsifiable comparison on ToolBench, APIBench, internal traces, using Planner LLM + tool adapters as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -3144,8 +3144,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "智能体规划可解释性"
     },
     "tagline": {
-      "en": "Test whether agent plan explainability can improve task success, intervention rate, and execution cost in tool-using agents.",
-      "zh": "检验“智能体规划可解释性”能否改善工具型智能体的任务成功率、人工介入率与执行成本。"
+      "en": "Make agent plan explainability useful for decisions rather than merely descriptive.",
+      "zh": "让智能体规划可解释性真正服务于决策，而不只是事后描述。"
     },
     "summary": {
       "en": "Agent Plan Explainability studies a focused intervention for tool-using agents. The project turns the concept into a falsifiable comparison on ToolBench, APIBench, internal traces, using Planner LLM + tool adapters as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -3209,8 +3209,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "角色—专业化团队智能体"
     },
     "tagline": {
-      "en": "Test whether role-specialized team agents can improve task success, intervention rate, and execution cost in tool-using agents.",
-      "zh": "检验“角色—专业化团队智能体”能否改善工具型智能体的任务成功率、人工介入率与执行成本。"
+      "en": "Map the benefits, costs, and failure modes of role-specialized team agents.",
+      "zh": "系统描绘角色—专业化团队智能体的收益、成本与失败模式。"
     },
     "summary": {
       "en": "Role-specialized Team Agents studies a focused intervention for tool-using agents. The project turns the concept into a falsifiable comparison on ToolBench, APIBench, internal traces, using Planner LLM + tool adapters as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -3274,8 +3274,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "智能体成本治理"
     },
     "tagline": {
-      "en": "Test whether agent cost governance can improve task success, intervention rate, and execution cost in tool-using agents.",
-      "zh": "检验“智能体成本治理”能否改善工具型智能体的任务成功率、人工介入率与执行成本。"
+      "en": "Give teams enforceable rules and audit trails for agent cost governance.",
+      "zh": "为智能体成本治理建立可执行规则与完整审计轨迹。"
     },
     "summary": {
       "en": "Agent Cost Governance studies a focused intervention for tool-using agents. The project turns the concept into a falsifiable comparison on ToolBench, APIBench, internal traces, using Planner LLM + tool adapters as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -3339,8 +3339,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "视觉依据定位"
     },
     "tagline": {
-      "en": "Test whether vision rationale localization can improve grounding accuracy, robustness, and inference cost in multimodal models.",
-      "zh": "检验“视觉依据定位”能否改善多模态模型的定位准确率、鲁棒性与推理成本。"
+      "en": "Connect model claims to the exact evidence through vision rationale localization.",
+      "zh": "通过视觉依据定位把模型结论与精确证据位置连接起来。"
     },
     "summary": {
       "en": "Vision Rationale Localization studies a focused intervention for multimodal models. The project turns the concept into a falsifiable comparison on MMBench, DocVQA, VideoQA, using Qwen-VL / LLaVA-NeXT as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -3404,8 +3404,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "多模态幻觉追踪"
     },
     "tagline": {
-      "en": "Test whether multimodal hallucination tracing can improve grounding accuracy, robustness, and inference cost in multimodal models.",
-      "zh": "检验“多模态幻觉追踪”能否改善多模态模型的定位准确率、鲁棒性与推理成本。"
+      "en": "Move multimodal hallucination tracing from a promising concept to a falsifiable experiment.",
+      "zh": "把多模态幻觉追踪从有潜力的概念推进为可证伪实验。"
     },
     "summary": {
       "en": "Multimodal Hallucination Tracing studies a focused intervention for multimodal models. The project turns the concept into a falsifiable comparison on MMBench, DocVQA, VideoQA, using Qwen-VL / LLaVA-NeXT as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -3469,8 +3469,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "视频时序定位"
     },
     "tagline": {
-      "en": "Test whether video temporal grounding can improve grounding accuracy, robustness, and inference cost in multimodal models.",
-      "zh": "检验“视频时序定位”能否改善多模态模型的定位准确率、鲁棒性与推理成本。"
+      "en": "Connect model claims to the exact evidence through video temporal grounding.",
+      "zh": "通过视频时序定位把模型结论与精确证据位置连接起来。"
     },
     "summary": {
       "en": "Video Temporal Grounding studies a focused intervention for multimodal models. The project turns the concept into a falsifiable comparison on MMBench, DocVQA, VideoQA, using Qwen-VL / LLaVA-NeXT as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -3534,8 +3534,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "图表理解可靠性"
     },
     "tagline": {
-      "en": "Test whether chart understanding reliability can improve grounding accuracy, robustness, and inference cost in multimodal models.",
-      "zh": "检验“图表理解可靠性”能否改善多模态模型的定位准确率、鲁棒性与推理成本。"
+      "en": "Stress-test chart understanding reliability beyond clean benchmarks and ideal inputs.",
+      "zh": "让图表理解可靠性接受超越理想输入和标准基准的压力测试。"
     },
     "summary": {
       "en": "Chart Understanding Reliability studies a focused intervention for multimodal models. The project turns the concept into a falsifiable comparison on MMBench, DocVQA, VideoQA, using Qwen-VL / LLaVA-NeXT as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -3599,8 +3599,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "文档—图像推理"
     },
     "tagline": {
-      "en": "Test whether document-image reasoning can improve grounding accuracy, robustness, and inference cost in multimodal models.",
-      "zh": "检验“文档—图像推理”能否改善多模态模型的定位准确率、鲁棒性与推理成本。"
+      "en": "Find the operating conditions where document-image reasoning remains dependable.",
+      "zh": "找出文档—图像推理能够保持可靠的运行条件。"
     },
     "summary": {
       "en": "Document-image Reasoning studies a focused intervention for multimodal models. The project turns the concept into a falsifiable comparison on MMBench, DocVQA, VideoQA, using Qwen-VL / LLaVA-NeXT as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -3664,8 +3664,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "跨—模态矛盾检测"
     },
     "tagline": {
-      "en": "Test whether cross-modal contradiction detection can improve grounding accuracy, robustness, and inference cost in multimodal models.",
-      "zh": "检验“跨—模态矛盾检测”能否改善多模态模型的定位准确率、鲁棒性与推理成本。"
+      "en": "Catch cross-modal contradiction detection failures before they undermine multimodal models.",
+      "zh": "在跨—模态矛盾检测相关故障影响多模态模型之前及时识别它们。"
     },
     "summary": {
       "en": "Cross-modal Contradiction Detection studies a focused intervention for multimodal models. The project turns the concept into a falsifiable comparison on MMBench, DocVQA, VideoQA, using Qwen-VL / LLaVA-NeXT as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -3729,8 +3729,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "语音—文本对齐鲁棒性"
     },
     "tagline": {
-      "en": "Test whether speech-text alignment robustness can improve grounding accuracy, robustness, and inference cost in multimodal models.",
-      "zh": "检验“语音—文本对齐鲁棒性”能否改善多模态模型的定位准确率、鲁棒性与推理成本。"
+      "en": "Stress-test speech-text alignment robustness beyond clean benchmarks and ideal inputs.",
+      "zh": "让语音—文本对齐鲁棒性接受超越理想输入和标准基准的压力测试。"
     },
     "summary": {
       "en": "Speech-text Alignment Robustness studies a focused intervention for multimodal models. The project turns the concept into a falsifiable comparison on MMBench, DocVQA, VideoQA, using Qwen-VL / LLaVA-NeXT as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -3794,8 +3794,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "视频工具—使用规划"
     },
     "tagline": {
-      "en": "Test whether video tool-use planning can improve grounding accuracy, robustness, and inference cost in multimodal models.",
-      "zh": "检验“视频工具—使用规划”能否改善多模态模型的定位准确率、鲁棒性与推理成本。"
+      "en": "Make video tool-use planning explicit, testable, and resilient to changing conditions.",
+      "zh": "让视频工具—使用规划变得显式、可测试，并能适应条件变化。"
     },
     "summary": {
       "en": "Video Tool-use Planning studies a focused intervention for multimodal models. The project turns the concept into a falsifiable comparison on MMBench, DocVQA, VideoQA, using Qwen-VL / LLaVA-NeXT as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -3859,8 +3859,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "长视频上下文压缩"
     },
     "tagline": {
-      "en": "Test whether long video context compression can improve grounding accuracy, robustness, and inference cost in multimodal models.",
-      "zh": "检验“长视频上下文压缩”能否改善多模态模型的定位准确率、鲁棒性与推理成本。"
+      "en": "Reduce the footprint of long video context compression while preserving the information that matters.",
+      "zh": "压缩长视频上下文压缩的资源占用，同时保留真正影响结果的信息。"
     },
     "summary": {
       "en": "Long Video Context Compression studies a focused intervention for multimodal models. The project turns the concept into a falsifiable comparison on MMBench, DocVQA, VideoQA, using Qwen-VL / LLaVA-NeXT as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -3924,8 +3924,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "细粒度—视觉检索"
     },
     "tagline": {
-      "en": "Test whether fine-grained visual retrieval can improve grounding accuracy, robustness, and inference cost in multimodal models.",
-      "zh": "检验“细粒度—视觉检索”能否改善多模态模型的定位准确率、鲁棒性与推理成本。"
+      "en": "Surface stronger evidence with fine-grained visual retrieval while keeping provenance intact.",
+      "zh": "利用细粒度—视觉检索找到更有力的证据，同时保留完整来源链。"
     },
     "summary": {
       "en": "Fine-grained Visual Retrieval studies a focused intervention for multimodal models. The project turns the concept into a falsifiable comparison on MMBench, DocVQA, VideoQA, using Qwen-VL / LLaVA-NeXT as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -3989,8 +3989,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "医学图像报告定位"
     },
     "tagline": {
-      "en": "Test whether medical image report grounding can improve grounding accuracy, robustness, and inference cost in multimodal models.",
-      "zh": "检验“医学图像报告定位”能否改善多模态模型的定位准确率、鲁棒性与推理成本。"
+      "en": "Connect model claims to the exact evidence through medical image report grounding.",
+      "zh": "通过医学图像报告定位把模型结论与精确证据位置连接起来。"
     },
     "summary": {
       "en": "Medical Image Report Grounding studies a focused intervention for multimodal models. The project turns the concept into a falsifiable comparison on MMBench, DocVQA, VideoQA, using Qwen-VL / LLaVA-NeXT as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -4054,8 +4054,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "视觉链—思维验证"
     },
     "tagline": {
-      "en": "Test whether visual chain-of-thought validation can improve grounding accuracy, robustness, and inference cost in multimodal models.",
-      "zh": "检验“视觉链—思维验证”能否改善多模态模型的定位准确率、鲁棒性与推理成本。"
+      "en": "Expose hidden errors by making visual chain-of-thought validation systematic and reproducible.",
+      "zh": "通过系统且可复现的视觉链—思维验证揭示隐藏错误。"
     },
     "summary": {
       "en": "Visual Chain-of-thought Validation studies a focused intervention for multimodal models. The project turns the concept into a falsifiable comparison on MMBench, DocVQA, VideoQA, using Qwen-VL / LLaVA-NeXT as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -4119,8 +4119,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "OCR—噪声鲁棒推理"
     },
     "tagline": {
-      "en": "Test whether ocr-noise resilient reasoning can improve grounding accuracy, robustness, and inference cost in multimodal models.",
-      "zh": "检验“OCR—噪声鲁棒推理”能否改善多模态模型的定位准确率、鲁棒性与推理成本。"
+      "en": "Build an evidence-backed case for—or against—ocr-noise resilient reasoning.",
+      "zh": "用实验证据判断OCR—噪声鲁棒推理究竟是否值得采用。"
     },
     "summary": {
       "en": "OCR-noise Resilient Reasoning studies a focused intervention for multimodal models. The project turns the concept into a falsifiable comparison on MMBench, DocVQA, VideoQA, using Qwen-VL / LLaVA-NeXT as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -4184,8 +4184,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "多模态引用生成"
     },
     "tagline": {
-      "en": "Test whether multimodal citation generation can improve grounding accuracy, robustness, and inference cost in multimodal models.",
-      "zh": "检验“多模态引用生成”能否改善多模态模型的定位准确率、鲁棒性与推理成本。"
+      "en": "Produce better research inputs through controlled multimodal citation generation, not blind scale.",
+      "zh": "以受控的多模态引用生成提升研究输入质量，而不是盲目追求规模。"
     },
     "summary": {
       "en": "Multimodal Citation Generation studies a focused intervention for multimodal models. The project turns the concept into a falsifiable comparison on MMBench, DocVQA, VideoQA, using Qwen-VL / LLaVA-NeXT as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -4249,8 +4249,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "多—图像一致性检查"
     },
     "tagline": {
-      "en": "Test whether multi-image consistency checking can improve grounding accuracy, robustness, and inference cost in multimodal models.",
-      "zh": "检验“多—图像一致性检查”能否改善多模态模型的定位准确率、鲁棒性与推理成本。"
+      "en": "Expose hidden errors by making multi-image consistency checking systematic and reproducible.",
+      "zh": "通过系统且可复现的多—图像一致性检查揭示隐藏错误。"
     },
     "summary": {
       "en": "Multi-image Consistency Checking studies a focused intervention for multimodal models. The project turns the concept into a falsifiable comparison on MMBench, DocVQA, VideoQA, using Qwen-VL / LLaVA-NeXT as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -4314,8 +4314,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "具身视觉规划"
     },
     "tagline": {
-      "en": "Test whether embodied visual planning can improve grounding accuracy, robustness, and inference cost in multimodal models.",
-      "zh": "检验“具身视觉规划”能否改善多模态模型的定位准确率、鲁棒性与推理成本。"
+      "en": "Make embodied visual planning explicit, testable, and resilient to changing conditions.",
+      "zh": "让具身视觉规划变得显式、可测试，并能适应条件变化。"
     },
     "summary": {
       "en": "Embodied Visual Planning studies a focused intervention for multimodal models. The project turns the concept into a falsifiable comparison on MMBench, DocVQA, VideoQA, using Qwen-VL / LLaVA-NeXT as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -4379,8 +4379,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "多模态不确定性校准"
     },
     "tagline": {
-      "en": "Test whether multimodal uncertainty calibration can improve grounding accuracy, robustness, and inference cost in multimodal models.",
-      "zh": "检验“多模态不确定性校准”能否改善多模态模型的定位准确率、鲁棒性与推理成本。"
+      "en": "Align confidence with reality through measurable multimodal uncertainty calibration.",
+      "zh": "通过可度量的多模态不确定性校准，让系统置信度更贴近真实表现。"
     },
     "summary": {
       "en": "Multimodal Uncertainty Calibration studies a focused intervention for multimodal models. The project turns the concept into a falsifiable comparison on MMBench, DocVQA, VideoQA, using Qwen-VL / LLaVA-NeXT as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -4444,8 +4444,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "课程式强化学习面向工具使用"
     },
     "tagline": {
-      "en": "Test whether curriculum rl for tool use can improve task utility, policy compliance, and training efficiency in aligned language models.",
-      "zh": "检验“课程式强化学习面向工具使用”能否改善对齐后的语言模型的任务效用、策略遵循度与训练效率。"
+      "en": "Map the benefits, costs, and failure modes of curriculum rl for tool use.",
+      "zh": "系统描绘课程式强化学习面向工具使用的收益、成本与失败模式。"
     },
     "summary": {
       "en": "Curriculum RL For Tool Use studies a focused intervention for aligned language models. The project turns the concept into a falsifiable comparison on UltraFeedback, HH-RLHF, Arena traces, using Llama-3.1 / Qwen instruct checkpoints as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -4509,8 +4509,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "过程监督扩展"
     },
     "tagline": {
-      "en": "Test whether process supervision scaling can improve task utility, policy compliance, and training efficiency in aligned language models.",
-      "zh": "检验“过程监督扩展”能否改善对齐后的语言模型的任务效用、策略遵循度与训练效率。"
+      "en": "Map the benefits, costs, and failure modes of process supervision scaling.",
+      "zh": "系统描绘过程监督扩展的收益、成本与失败模式。"
     },
     "summary": {
       "en": "Process Supervision Scaling studies a focused intervention for aligned language models. The project turns the concept into a falsifiable comparison on UltraFeedback, HH-RLHF, Arena traces, using Llama-3.1 / Qwen instruct checkpoints as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -4574,8 +4574,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "奖励投机检测"
     },
     "tagline": {
-      "en": "Test whether reward hacking detection can improve task utility, policy compliance, and training efficiency in aligned language models.",
-      "zh": "检验“奖励投机检测”能否改善对齐后的语言模型的任务效用、策略遵循度与训练效率。"
+      "en": "Catch reward hacking detection failures before they undermine aligned language models.",
+      "zh": "在奖励投机检测相关故障影响对齐后的语言模型之前及时识别它们。"
     },
     "summary": {
       "en": "Reward Hacking Detection studies a focused intervention for aligned language models. The project turns the concept into a falsifiable comparison on UltraFeedback, HH-RLHF, Arena traces, using Llama-3.1 / Qwen instruct checkpoints as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -4639,8 +4639,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "对齐代价测量"
     },
     "tagline": {
-      "en": "Test whether alignment tax measurement can improve task utility, policy compliance, and training efficiency in aligned language models.",
-      "zh": "检验“对齐代价测量”能否改善对齐后的语言模型的任务效用、策略遵循度与训练效率。"
+      "en": "Turn alignment tax measurement into a metric teams can compare, audit, and improve.",
+      "zh": "把对齐代价测量转化为可比较、可审计、可持续改进的指标。"
     },
     "summary": {
       "en": "Alignment Tax Measurement studies a focused intervention for aligned language models. The project turns the concept into a falsifiable comparison on UltraFeedback, HH-RLHF, Arena traces, using Llama-3.1 / Qwen instruct checkpoints as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -4704,8 +4704,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "偏好漂移监测"
     },
     "tagline": {
-      "en": "Test whether preference drift monitoring can improve task utility, policy compliance, and training efficiency in aligned language models.",
-      "zh": "检验“偏好漂移监测”能否改善对齐后的语言模型的任务效用、策略遵循度与训练效率。"
+      "en": "Make preference drift monitoring visible early enough for teams to act.",
+      "zh": "让偏好漂移监测足够早地显现，使团队能够及时行动。"
     },
     "summary": {
       "en": "Preference Drift Monitoring studies a focused intervention for aligned language models. The project turns the concept into a falsifiable comparison on UltraFeedback, HH-RLHF, Arena traces, using Llama-3.1 / Qwen instruct checkpoints as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -4769,8 +4769,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "宪法式策略优化"
     },
     "tagline": {
-      "en": "Test whether constitutional policy optimization can improve task utility, policy compliance, and training efficiency in aligned language models.",
-      "zh": "检验“宪法式策略优化”能否改善对齐后的语言模型的任务效用、策略遵循度与训练效率。"
+      "en": "Find the practical quality–cost frontier for constitutional policy optimization in aligned language models.",
+      "zh": "寻找对齐后的语言模型采用宪法式策略优化时切实可行的质量—成本边界。"
     },
     "summary": {
       "en": "Constitutional Policy Optimization studies a focused intervention for aligned language models. The project turns the concept into a falsifiable comparison on UltraFeedback, HH-RLHF, Arena traces, using Llama-3.1 / Qwen instruct checkpoints as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -4834,8 +4834,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "安全—调优蒸馏"
     },
     "tagline": {
-      "en": "Test whether safety-tuned distillation can improve task utility, policy compliance, and training efficiency in aligned language models.",
-      "zh": "检验“安全—调优蒸馏”能否改善对齐后的语言模型的任务效用、策略遵循度与训练效率。"
+      "en": "Map the benefits, costs, and failure modes of safety-tuned distillation.",
+      "zh": "系统描绘安全—调优蒸馏的收益、成本与失败模式。"
     },
     "summary": {
       "en": "Safety-tuned Distillation studies a focused intervention for aligned language models. The project turns the concept into a falsifiable comparison on UltraFeedback, HH-RLHF, Arena traces, using Llama-3.1 / Qwen instruct checkpoints as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -4899,8 +4899,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "小型—模型对齐迁移"
     },
     "tagline": {
-      "en": "Test whether small-model alignment transfer can improve task utility, policy compliance, and training efficiency in aligned language models.",
-      "zh": "检验“小型—模型对齐迁移”能否改善对齐后的语言模型的任务效用、策略遵循度与训练效率。"
+      "en": "Build an evidence-backed case for—or against—small-model alignment transfer.",
+      "zh": "用实验证据判断小型—模型对齐迁移究竟是否值得采用。"
     },
     "summary": {
       "en": "Small-model Alignment Transfer studies a focused intervention for aligned language models. The project turns the concept into a falsifiable comparison on UltraFeedback, HH-RLHF, Arena traces, using Llama-3.1 / Qwen instruct checkpoints as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -4964,8 +4964,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "人工反馈一致性"
     },
     "tagline": {
-      "en": "Test whether human feedback consistency can improve task utility, policy compliance, and training efficiency in aligned language models.",
-      "zh": "检验“人工反馈一致性”能否改善对齐后的语言模型的任务效用、策略遵循度与训练效率。"
+      "en": "Stress-test human feedback consistency beyond clean benchmarks and ideal inputs.",
+      "zh": "让人工反馈一致性接受超越理想输入和标准基准的压力测试。"
     },
     "summary": {
       "en": "Human Feedback Consistency studies a focused intervention for aligned language models. The project turns the concept into a falsifiable comparison on UltraFeedback, HH-RLHF, Arena traces, using Llama-3.1 / Qwen instruct checkpoints as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -5029,8 +5029,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "红队—团队增强训练"
     },
     "tagline": {
-      "en": "Test whether red-team augmented training can improve task utility, policy compliance, and training efficiency in aligned language models.",
-      "zh": "检验“红队—团队增强训练”能否改善对齐后的语言模型的任务效用、策略遵循度与训练效率。"
+      "en": "Build an evidence-backed case for—or against—red-team augmented training.",
+      "zh": "用实验证据判断红队—团队增强训练究竟是否值得采用。"
     },
     "summary": {
       "en": "Red-team Augmented Training studies a focused intervention for aligned language models. The project turns the concept into a falsifiable comparison on UltraFeedback, HH-RLHF, Arena traces, using Llama-3.1 / Qwen instruct checkpoints as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -5094,8 +5094,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "鲁棒奖励建模"
     },
     "tagline": {
-      "en": "Test whether robust reward modeling can improve task utility, policy compliance, and training efficiency in aligned language models.",
-      "zh": "检验“鲁棒奖励建模”能否改善对齐后的语言模型的任务效用、策略遵循度与训练效率。"
+      "en": "Move robust reward modeling from a promising concept to a falsifiable experiment.",
+      "zh": "把鲁棒奖励建模从有潜力的概念推进为可证伪实验。"
     },
     "summary": {
       "en": "Robust Reward Modeling studies a focused intervention for aligned language models. The project turns the concept into a falsifiable comparison on UltraFeedback, HH-RLHF, Arena traces, using Llama-3.1 / Qwen instruct checkpoints as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -5159,8 +5159,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "对齐应对领域偏移"
     },
     "tagline": {
-      "en": "Test whether alignment under domain shift can improve task utility, policy compliance, and training efficiency in aligned language models.",
-      "zh": "检验“对齐应对领域偏移”能否改善对齐后的语言模型的任务效用、策略遵循度与训练效率。"
+      "en": "Reveal when alignment under domain shift creates real value—and when it does not.",
+      "zh": "揭示对齐应对领域偏移何时创造真实价值，以及何时无效。"
     },
     "summary": {
       "en": "Alignment Under Domain Shift studies a focused intervention for aligned language models. The project turns the concept into a falsifiable comparison on UltraFeedback, HH-RLHF, Arena traces, using Llama-3.1 / Qwen instruct checkpoints as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -5224,8 +5224,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "辩论—式监督"
     },
     "tagline": {
-      "en": "Test whether debate-style supervision can improve task utility, policy compliance, and training efficiency in aligned language models.",
-      "zh": "检验“辩论—式监督”能否改善对齐后的语言模型的任务效用、策略遵循度与训练效率。"
+      "en": "Improve collective decisions by redesigning debate-style supervision around evidence.",
+      "zh": "围绕证据重新设计辩论—式监督，提升群体决策质量。"
     },
     "summary": {
       "en": "Debate-style Supervision studies a focused intervention for aligned language models. The project turns the concept into a falsifiable comparison on UltraFeedback, HH-RLHF, Arena traces, using Llama-3.1 / Qwen instruct checkpoints as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -5289,8 +5289,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "多—目标策略均衡"
     },
     "tagline": {
-      "en": "Test whether multi-objective policy balancing can improve task utility, policy compliance, and training efficiency in aligned language models.",
-      "zh": "检验“多—目标策略均衡”能否改善对齐后的语言模型的任务效用、策略遵循度与训练效率。"
+      "en": "Define a practical multi-objective policy balancing that remains enforceable under real-world pressure.",
+      "zh": "制定在真实压力下仍可执行的多—目标策略均衡方案。"
     },
     "summary": {
       "en": "Multi-objective Policy Balancing studies a focused intervention for aligned language models. The project turns the concept into a falsifiable comparison on UltraFeedback, HH-RLHF, Arena traces, using Llama-3.1 / Qwen instruct checkpoints as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -5354,8 +5354,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "风险—敏感微调"
     },
     "tagline": {
-      "en": "Test whether risk-sensitive finetuning can improve task utility, policy compliance, and training efficiency in aligned language models.",
-      "zh": "检验“风险—敏感微调”能否改善对齐后的语言模型的任务效用、策略遵循度与训练效率。"
+      "en": "Reveal when risk-sensitive finetuning creates real value—and when it does not.",
+      "zh": "揭示风险—敏感微调何时创造真实价值，以及何时无效。"
     },
     "summary": {
       "en": "Risk-sensitive Finetuning studies a focused intervention for aligned language models. The project turns the concept into a falsifiable comparison on UltraFeedback, HH-RLHF, Arena traces, using Llama-3.1 / Qwen instruct checkpoints as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -5419,8 +5419,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "对齐评测课程式"
     },
     "tagline": {
-      "en": "Test whether alignment eval curriculum can improve task utility, policy compliance, and training efficiency in aligned language models.",
-      "zh": "检验“对齐评测课程式”能否改善对齐后的语言模型的任务效用、策略遵循度与训练效率。"
+      "en": "Build an evidence-backed case for—or against—alignment eval curriculum.",
+      "zh": "用实验证据判断对齐评测课程式究竟是否值得采用。"
     },
     "summary": {
       "en": "Alignment Eval Curriculum studies a focused intervention for aligned language models. The project turns the concept into a falsifiable comparison on UltraFeedback, HH-RLHF, Arena traces, using Llama-3.1 / Qwen instruct checkpoints as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -5484,8 +5484,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "对抗偏好鲁棒性"
     },
     "tagline": {
-      "en": "Test whether adversarial preference robustness can improve task utility, policy compliance, and training efficiency in aligned language models.",
-      "zh": "检验“对抗偏好鲁棒性”能否改善对齐后的语言模型的任务效用、策略遵循度与训练效率。"
+      "en": "Stress-test adversarial preference robustness beyond clean benchmarks and ideal inputs.",
+      "zh": "让对抗偏好鲁棒性接受超越理想输入和标准基准的压力测试。"
     },
     "summary": {
       "en": "Adversarial Preference Robustness studies a focused intervention for aligned language models. The project turns the concept into a falsifiable comparison on UltraFeedback, HH-RLHF, Arena traces, using Llama-3.1 / Qwen instruct checkpoints as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -5549,8 +5549,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "动态模型路由"
     },
     "tagline": {
-      "en": "Test whether dynamic model routing can improve latency, throughput, memory use, and output quality in model-serving systems.",
-      "zh": "检验“动态模型路由”能否改善模型服务系统的时延、吞吐量、内存占用与输出质量。"
+      "en": "Send each workload down the right path with dynamic model routing.",
+      "zh": "利用动态模型路由为每项负载选择合适的处理路径。"
     },
     "summary": {
       "en": "Dynamic Model Routing studies a focused intervention for model-serving systems. The project turns the concept into a falsifiable comparison on Synthetic production traces, using vLLM mixed model pool as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -5614,8 +5614,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "词元—级别缓存策略"
     },
     "tagline": {
-      "en": "Test whether token-level caching policies can improve latency, throughput, memory use, and output quality in model-serving systems.",
-      "zh": "检验“词元—级别缓存策略”能否改善模型服务系统的时延、吞吐量、内存占用与输出质量。"
+      "en": "Define a practical token-level caching policies that remains enforceable under real-world pressure.",
+      "zh": "制定在真实压力下仍可执行的词元—级别缓存策略方案。"
     },
     "summary": {
       "en": "Token-level Caching Policies studies a focused intervention for model-serving systems. The project turns the concept into a falsifiable comparison on Synthetic production traces, using vLLM mixed model pool as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -5679,8 +5679,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "键值—缓存压缩"
     },
     "tagline": {
-      "en": "Test whether kv-cache compression can improve latency, throughput, memory use, and output quality in model-serving systems.",
-      "zh": "检验“键值—缓存压缩”能否改善模型服务系统的时延、吞吐量、内存占用与输出质量。"
+      "en": "Reduce the footprint of kv-cache compression while preserving the information that matters.",
+      "zh": "压缩键值—缓存压缩的资源占用，同时保留真正影响结果的信息。"
     },
     "summary": {
       "en": "KV-cache Compression studies a focused intervention for model-serving systems. The project turns the concept into a falsifiable comparison on Synthetic production traces, using vLLM mixed model pool as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -5744,8 +5744,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "推测式解码控制"
     },
     "tagline": {
-      "en": "Test whether speculative decoding control can improve latency, throughput, memory use, and output quality in model-serving systems.",
-      "zh": "检验“推测式解码控制”能否改善模型服务系统的时延、吞吐量、内存占用与输出质量。"
+      "en": "Keep humans in command with measurable speculative decoding control.",
+      "zh": "通过可度量的推测式解码控制确保人类始终掌握控制权。"
     },
     "summary": {
       "en": "Speculative Decoding Control studies a focused intervention for model-serving systems. The project turns the concept into a falsifiable comparison on Synthetic production traces, using vLLM mixed model pool as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -5809,8 +5809,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "批处理公平性优化"
     },
     "tagline": {
-      "en": "Test whether batching fairness optimization can improve latency, throughput, memory use, and output quality in model-serving systems.",
-      "zh": "检验“批处理公平性优化”能否改善模型服务系统的时延、吞吐量、内存占用与输出质量。"
+      "en": "Find the practical quality–cost frontier for batching fairness optimization in model-serving systems.",
+      "zh": "寻找模型服务系统采用批处理公平性优化时切实可行的质量—成本边界。"
     },
     "summary": {
       "en": "Batching Fairness Optimization studies a focused intervention for model-serving systems. The project turns the concept into a falsifiable comparison on Synthetic production traces, using vLLM mixed model pool as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -5874,8 +5874,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "多—租户时延隔离"
     },
     "tagline": {
-      "en": "Test whether multi-tenant latency isolation can improve latency, throughput, memory use, and output quality in model-serving systems.",
-      "zh": "检验“多—租户时延隔离”能否改善模型服务系统的时延、吞吐量、内存占用与输出质量。"
+      "en": "Move multi-tenant latency isolation from a promising concept to a falsifiable experiment.",
+      "zh": "把多—租户时延隔离从有潜力的概念推进为可证伪实验。"
     },
     "summary": {
       "en": "Multi-tenant Latency Isolation studies a focused intervention for model-serving systems. The project turns the concept into a falsifiable comparison on Synthetic production traces, using vLLM mixed model pool as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -5939,8 +5939,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "成本—感知解码"
     },
     "tagline": {
-      "en": "Test whether cost-aware decoding can improve latency, throughput, memory use, and output quality in model-serving systems.",
-      "zh": "检验“成本—感知解码”能否改善模型服务系统的时延、吞吐量、内存占用与输出质量。"
+      "en": "Move cost-aware decoding from a promising concept to a falsifiable experiment.",
+      "zh": "把成本—感知解码从有潜力的概念推进为可证伪实验。"
     },
     "summary": {
       "en": "Cost-aware Decoding studies a focused intervention for model-serving systems. The project turns the concept into a falsifiable comparison on Synthetic production traces, using vLLM mixed model pool as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -6004,8 +6004,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "服务可观测性指标"
     },
     "tagline": {
-      "en": "Test whether serving observability metrics can improve latency, throughput, memory use, and output quality in model-serving systems.",
-      "zh": "检验“服务可观测性指标”能否改善模型服务系统的时延、吞吐量、内存占用与输出质量。"
+      "en": "Turn serving observability metrics into a metric teams can compare, audit, and improve.",
+      "zh": "把服务可观测性指标转化为可比较、可审计、可持续改进的指标。"
     },
     "summary": {
       "en": "Serving Observability Metrics studies a focused intervention for model-serving systems. The project turns the concept into a falsifiable comparison on Synthetic production traces, using vLLM mixed model pool as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -6069,8 +6069,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "绿色推理调度"
     },
     "tagline": {
-      "en": "Test whether green inference scheduling can improve latency, throughput, memory use, and output quality in model-serving systems.",
-      "zh": "检验“绿色推理调度”能否改善模型服务系统的时延、吞吐量、内存占用与输出质量。"
+      "en": "Schedule limited resources around green inference scheduling without sacrificing quality.",
+      "zh": "围绕绿色推理调度调度有限资源，同时守住质量底线。"
     },
     "summary": {
       "en": "Green Inference Scheduling studies a focused intervention for model-serving systems. The project turns the concept into a falsifiable comparison on Synthetic production traces, using vLLM mixed model pool as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -6134,8 +6134,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "异构硬件路由"
     },
     "tagline": {
-      "en": "Test whether heterogeneous hardware routing can improve latency, throughput, memory use, and output quality in model-serving systems.",
-      "zh": "检验“异构硬件路由”能否改善模型服务系统的时延、吞吐量、内存占用与输出质量。"
+      "en": "Send each workload down the right path with heterogeneous hardware routing.",
+      "zh": "利用异构硬件路由为每项负载选择合适的处理路径。"
     },
     "summary": {
       "en": "Heterogeneous Hardware Routing studies a focused intervention for model-serving systems. The project turns the concept into a falsifiable comparison on Synthetic production traces, using vLLM mixed model pool as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -6199,8 +6199,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "边缘端—云端推理拆分"
     },
     "tagline": {
-      "en": "Test whether edge-cloud inference split can improve latency, throughput, memory use, and output quality in model-serving systems.",
-      "zh": "检验“边缘端—云端推理拆分”能否改善模型服务系统的时延、吞吐量、内存占用与输出质量。"
+      "en": "Build an evidence-backed case for—or against—edge-cloud inference split.",
+      "zh": "用实验证据判断边缘端—云端推理拆分究竟是否值得采用。"
     },
     "summary": {
       "en": "Edge-cloud Inference Split studies a focused intervention for model-serving systems. The project turns the concept into a falsifiable comparison on Synthetic production traces, using vLLM mixed model pool as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -6264,8 +6264,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "P95时延降低策略"
     },
     "tagline": {
-      "en": "Test whether p95 latency reduction strategy can improve latency, throughput, memory use, and output quality in model-serving systems.",
-      "zh": "检验“P95时延降低策略”能否改善模型服务系统的时延、吞吐量、内存占用与输出质量。"
+      "en": "Map the benefits, costs, and failure modes of p95 latency reduction strategy.",
+      "zh": "系统描绘P95时延降低策略的收益、成本与失败模式。"
     },
     "summary": {
       "en": "P95 Latency Reduction Strategy studies a focused intervention for model-serving systems. The project turns the concept into a falsifiable comparison on Synthetic production traces, using vLLM mixed model pool as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -6329,8 +6329,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "高—吞吐量重排序"
     },
     "tagline": {
-      "en": "Test whether high-throughput reranking can improve latency, throughput, memory use, and output quality in model-serving systems.",
-      "zh": "检验“高—吞吐量重排序”能否改善模型服务系统的时延、吞吐量、内存占用与输出质量。"
+      "en": "Surface stronger evidence with high-throughput reranking while keeping provenance intact.",
+      "zh": "利用高—吞吐量重排序找到更有力的证据，同时保留完整来源链。"
     },
     "summary": {
       "en": "High-throughput Reranking studies a focused intervention for model-serving systems. The project turns the concept into a falsifiable comparison on Synthetic production traces, using vLLM mixed model pool as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -6394,8 +6394,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "故障—容错推理路径"
     },
     "tagline": {
-      "en": "Test whether fault-tolerant inference path can improve latency, throughput, memory use, and output quality in model-serving systems.",
-      "zh": "检验“故障—容错推理路径”能否改善模型服务系统的时延、吞吐量、内存占用与输出质量。"
+      "en": "Reveal when fault-tolerant inference path creates real value—and when it does not.",
+      "zh": "揭示故障—容错推理路径何时创造真实价值，以及何时无效。"
     },
     "summary": {
       "en": "Fault-tolerant Inference Path studies a focused intervention for model-serving systems. The project turns the concept into a falsifiable comparison on Synthetic production traces, using vLLM mixed model pool as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -6459,8 +6459,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "吞吐量—质量均衡"
     },
     "tagline": {
-      "en": "Test whether throughput-quality balancing can improve latency, throughput, memory use, and output quality in model-serving systems.",
-      "zh": "检验“吞吐量—质量均衡”能否改善模型服务系统的时延、吞吐量、内存占用与输出质量。"
+      "en": "Keep humans in command with measurable throughput-quality balancing.",
+      "zh": "通过可度量的吞吐量—质量均衡确保人类始终掌握控制权。"
     },
     "summary": {
       "en": "Throughput-quality Balancing studies a focused intervention for model-serving systems. The project turns the concept into a falsifiable comparison on Synthetic production traces, using vLLM mixed model pool as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -6524,8 +6524,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "推理服务质量治理"
     },
     "tagline": {
-      "en": "Test whether inference qos governance can improve latency, throughput, memory use, and output quality in model-serving systems.",
-      "zh": "检验“推理服务质量治理”能否改善模型服务系统的时延、吞吐量、内存占用与输出质量。"
+      "en": "Give teams enforceable rules and audit trails for inference qos governance.",
+      "zh": "为推理服务质量治理建立可执行规则与完整审计轨迹。"
     },
     "summary": {
       "en": "Inference QoS Governance studies a focused intervention for model-serving systems. The project turns the concept into a falsifiable comparison on Synthetic production traces, using vLLM mixed model pool as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -6589,8 +6589,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "能耗—感知服务策略"
     },
     "tagline": {
-      "en": "Test whether energy-aware serving policies can improve latency, throughput, memory use, and output quality in model-serving systems.",
-      "zh": "检验“能耗—感知服务策略”能否改善模型服务系统的时延、吞吐量、内存占用与输出质量。"
+      "en": "Define a practical energy-aware serving policies that remains enforceable under real-world pressure.",
+      "zh": "制定在真实压力下仍可执行的能耗—感知服务策略方案。"
     },
     "summary": {
       "en": "Energy-aware Serving Policies studies a focused intervention for model-serving systems. The project turns the concept into a falsifiable comparison on Synthetic production traces, using vLLM mixed model pool as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -6654,8 +6654,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "对立提示基准"
     },
     "tagline": {
-      "en": "Test whether opposition prompting benchmark can improve validity, coverage, reproducibility, and evaluation cost in AI evaluation suites.",
-      "zh": "检验“对立提示基准”能否改善AI 评测体系的有效性、覆盖度、可复现性与评测成本。"
+      "en": "A reproducible test bed for measuring opposition prompting benchmark across real operating conditions.",
+      "zh": "建立可复现测试平台，在真实运行条件下衡量对立提示基准。"
     },
     "summary": {
       "en": "Opposition Prompting Benchmark studies a focused intervention for AI evaluation suites. The project turns the concept into a falsifiable comparison on LongBench, TruthfulQA, custom eval sets, using Evaluator ensemble as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -6719,8 +6719,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "推理忠实度指标"
     },
     "tagline": {
-      "en": "Test whether reasoning faithfulness metric can improve validity, coverage, reproducibility, and evaluation cost in AI evaluation suites.",
-      "zh": "检验“推理忠实度指标”能否改善AI 评测体系的有效性、覆盖度、可复现性与评测成本。"
+      "en": "Turn reasoning faithfulness metric into a metric teams can compare, audit, and improve.",
+      "zh": "把推理忠实度指标转化为可比较、可审计、可持续改进的指标。"
     },
     "summary": {
       "en": "Reasoning Faithfulness Metric studies a focused intervention for AI evaluation suites. The project turns the concept into a falsifiable comparison on LongBench, TruthfulQA, custom eval sets, using Evaluator ensemble as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -6784,8 +6784,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "任务—级别不确定性评分"
     },
     "tagline": {
-      "en": "Test whether task-level uncertainty scoring can improve validity, coverage, reproducibility, and evaluation cost in AI evaluation suites.",
-      "zh": "检验“任务—级别不确定性评分”能否改善AI 评测体系的有效性、覆盖度、可复现性与评测成本。"
+      "en": "Turn task-level uncertainty scoring into a metric teams can compare, audit, and improve.",
+      "zh": "把任务—级别不确定性评分转化为可比较、可审计、可持续改进的指标。"
     },
     "summary": {
       "en": "Task-level Uncertainty Scoring studies a focused intervention for AI evaluation suites. The project turns the concept into a falsifiable comparison on LongBench, TruthfulQA, custom eval sets, using Evaluator ensemble as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -6849,8 +6849,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "长—上下文失败分类体系"
     },
     "tagline": {
-      "en": "Test whether long-context failure taxonomy can improve validity, coverage, reproducibility, and evaluation cost in AI evaluation suites.",
-      "zh": "检验“长—上下文失败分类体系”能否改善AI 评测体系的有效性、覆盖度、可复现性与评测成本。"
+      "en": "Reveal when long-context failure taxonomy creates real value—and when it does not.",
+      "zh": "揭示长—上下文失败分类体系何时创造真实价值，以及何时无效。"
     },
     "summary": {
       "en": "Long-context Failure Taxonomy studies a focused intervention for AI evaluation suites. The project turns the concept into a falsifiable comparison on LongBench, TruthfulQA, custom eval sets, using Evaluator ensemble as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -6914,8 +6914,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "社区评审基准"
     },
     "tagline": {
-      "en": "Test whether community review benchmark can improve validity, coverage, reproducibility, and evaluation cost in AI evaluation suites.",
-      "zh": "检验“社区评审基准”能否改善AI 评测体系的有效性、覆盖度、可复现性与评测成本。"
+      "en": "A reproducible test bed for measuring community review benchmark across real operating conditions.",
+      "zh": "建立可复现测试平台，在真实运行条件下衡量社区评审基准。"
     },
     "summary": {
       "en": "Community Review Benchmark studies a focused intervention for AI evaluation suites. The project turns the concept into a falsifiable comparison on LongBench, TruthfulQA, custom eval sets, using Evaluator ensemble as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -6979,8 +6979,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "智能体鲁棒性评分卡"
     },
     "tagline": {
-      "en": "Test whether agent robustness scorecard can improve validity, coverage, reproducibility, and evaluation cost in AI evaluation suites.",
-      "zh": "检验“智能体鲁棒性评分卡”能否改善AI 评测体系的有效性、覆盖度、可复现性与评测成本。"
+      "en": "A reproducible test bed for measuring agent robustness scorecard across real operating conditions.",
+      "zh": "建立可复现测试平台，在真实运行条件下衡量智能体鲁棒性评分卡。"
     },
     "summary": {
       "en": "Agent Robustness Scorecard studies a focused intervention for AI evaluation suites. The project turns the concept into a falsifiable comparison on LongBench, TruthfulQA, custom eval sets, using Evaluator ensemble as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -7044,8 +7044,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "引用质量基准"
     },
     "tagline": {
-      "en": "Test whether citation quality benchmark can improve validity, coverage, reproducibility, and evaluation cost in AI evaluation suites.",
-      "zh": "检验“引用质量基准”能否改善AI 评测体系的有效性、覆盖度、可复现性与评测成本。"
+      "en": "A reproducible test bed for measuring citation quality benchmark across real operating conditions.",
+      "zh": "建立可复现测试平台，在真实运行条件下衡量引用质量基准。"
     },
     "summary": {
       "en": "Citation Quality Benchmark studies a focused intervention for AI evaluation suites. The project turns the concept into a falsifiable comparison on LongBench, TruthfulQA, custom eval sets, using Evaluator ensemble as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -7109,8 +7109,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "时序正确性套件"
     },
     "tagline": {
-      "en": "Test whether temporal correctness suite can improve validity, coverage, reproducibility, and evaluation cost in AI evaluation suites.",
-      "zh": "检验“时序正确性套件”能否改善AI 评测体系的有效性、覆盖度、可复现性与评测成本。"
+      "en": "A reproducible test bed for measuring temporal correctness suite across real operating conditions.",
+      "zh": "建立可复现测试平台，在真实运行条件下衡量时序正确性套件。"
     },
     "summary": {
       "en": "Temporal Correctness Suite studies a focused intervention for AI evaluation suites. The project turns the concept into a falsifiable comparison on LongBench, TruthfulQA, custom eval sets, using Evaluator ensemble as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -7174,8 +7174,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "红队—团队可复现性工具包"
     },
     "tagline": {
-      "en": "Test whether red-team reproducibility kit can improve validity, coverage, reproducibility, and evaluation cost in AI evaluation suites.",
-      "zh": "检验“红队—团队可复现性工具包”能否改善AI 评测体系的有效性、覆盖度、可复现性与评测成本。"
+      "en": "Find the operating conditions where red-team reproducibility kit remains dependable.",
+      "zh": "找出红队—团队可复现性工具包能够保持可靠的运行条件。"
     },
     "summary": {
       "en": "Red-team Reproducibility Kit studies a focused intervention for AI evaluation suites. The project turns the concept into a falsifiable comparison on LongBench, TruthfulQA, custom eval sets, using Evaluator ensemble as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -7239,8 +7239,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "跨—模型可比性协议"
     },
     "tagline": {
-      "en": "Test whether cross-model comparability protocol can improve validity, coverage, reproducibility, and evaluation cost in AI evaluation suites.",
-      "zh": "检验“跨—模型可比性协议”能否改善AI 评测体系的有效性、覆盖度、可复现性与评测成本。"
+      "en": "Define a practical cross-model comparability protocol that remains enforceable under real-world pressure.",
+      "zh": "制定在真实压力下仍可执行的跨—模型可比性协议方案。"
     },
     "summary": {
       "en": "Cross-model Comparability Protocol studies a focused intervention for AI evaluation suites. The project turns the concept into a falsifiable comparison on LongBench, TruthfulQA, custom eval sets, using Evaluator ensemble as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -7304,8 +7304,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "基准泄漏检测"
     },
     "tagline": {
-      "en": "Test whether benchmark leakage detection can improve validity, coverage, reproducibility, and evaluation cost in AI evaluation suites.",
-      "zh": "检验“基准泄漏检测”能否改善AI 评测体系的有效性、覆盖度、可复现性与评测成本。"
+      "en": "Catch benchmark leakage detection failures before they undermine AI evaluation suites.",
+      "zh": "在基准泄漏检测相关故障影响AI 评测体系之前及时识别它们。"
     },
     "summary": {
       "en": "Benchmark Leakage Detection studies a focused intervention for AI evaluation suites. The project turns the concept into a falsifiable comparison on LongBench, TruthfulQA, custom eval sets, using Evaluator ensemble as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -7369,8 +7369,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "评测成本核算"
     },
     "tagline": {
-      "en": "Test whether evaluation cost accounting can improve validity, coverage, reproducibility, and evaluation cost in AI evaluation suites.",
-      "zh": "检验“评测成本核算”能否改善AI 评测体系的有效性、覆盖度、可复现性与评测成本。"
+      "en": "Map the benefits, costs, and failure modes of evaluation cost accounting.",
+      "zh": "系统描绘评测成本核算的收益、成本与失败模式。"
     },
     "summary": {
       "en": "Evaluation Cost Accounting studies a focused intervention for AI evaluation suites. The project turns the concept into a falsifiable comparison on LongBench, TruthfulQA, custom eval sets, using Evaluator ensemble as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -7434,8 +7434,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "多语言公平性基准"
     },
     "tagline": {
-      "en": "Test whether multilingual fairness benchmark can improve validity, coverage, reproducibility, and evaluation cost in AI evaluation suites.",
-      "zh": "检验“多语言公平性基准”能否改善AI 评测体系的有效性、覆盖度、可复现性与评测成本。"
+      "en": "A reproducible test bed for measuring multilingual fairness benchmark across real operating conditions.",
+      "zh": "建立可复现测试平台，在真实运行条件下衡量多语言公平性基准。"
     },
     "summary": {
       "en": "Multilingual Fairness Benchmark studies a focused intervention for AI evaluation suites. The project turns the concept into a falsifiable comparison on LongBench, TruthfulQA, custom eval sets, using Evaluator ensemble as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -7499,8 +7499,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "安全—效用前沿指标"
     },
     "tagline": {
-      "en": "Test whether safety-utility frontier metric can improve validity, coverage, reproducibility, and evaluation cost in AI evaluation suites.",
-      "zh": "检验“安全—效用前沿指标”能否改善AI 评测体系的有效性、覆盖度、可复现性与评测成本。"
+      "en": "Turn safety-utility frontier metric into a metric teams can compare, audit, and improve.",
+      "zh": "把安全—效用前沿指标转化为可比较、可审计、可持续改进的指标。"
     },
     "summary": {
       "en": "Safety-utility Frontier Metric studies a focused intervention for AI evaluation suites. The project turns the concept into a falsifiable comparison on LongBench, TruthfulQA, custom eval sets, using Evaluator ensemble as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -7564,8 +7564,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "幻觉严重度量表"
     },
     "tagline": {
-      "en": "Test whether hallucination severity rubric can improve validity, coverage, reproducibility, and evaluation cost in AI evaluation suites.",
-      "zh": "检验“幻觉严重度量表”能否改善AI 评测体系的有效性、覆盖度、可复现性与评测成本。"
+      "en": "Build an evidence-backed case for—or against—hallucination severity rubric.",
+      "zh": "用实验证据判断幻觉严重度量表究竟是否值得采用。"
     },
     "summary": {
       "en": "Hallucination Severity Rubric studies a focused intervention for AI evaluation suites. The project turns the concept into a falsifiable comparison on LongBench, TruthfulQA, custom eval sets, using Evaluator ensemble as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -7629,8 +7629,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "交互式评测框架"
     },
     "tagline": {
-      "en": "Test whether interactive eval harness can improve validity, coverage, reproducibility, and evaluation cost in AI evaluation suites.",
-      "zh": "检验“交互式评测框架”能否改善AI 评测体系的有效性、覆盖度、可复现性与评测成本。"
+      "en": "Find the operating conditions where interactive eval harness remains dependable.",
+      "zh": "找出交互式评测框架能够保持可靠的运行条件。"
     },
     "summary": {
       "en": "Interactive Eval Harness studies a focused intervention for AI evaluation suites. The project turns the concept into a falsifiable comparison on LongBench, TruthfulQA, custom eval sets, using Evaluator ensemble as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -7694,8 +7694,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "持续评测流水线"
     },
     "tagline": {
-      "en": "Test whether continuous evaluation pipeline can improve validity, coverage, reproducibility, and evaluation cost in AI evaluation suites.",
-      "zh": "检验“持续评测流水线”能否改善AI 评测体系的有效性、覆盖度、可复现性与评测成本。"
+      "en": "Turn continuous evaluation pipeline into a workflow contributors can inspect and reproduce.",
+      "zh": "把持续评测流水线变成贡献者能够检查和复现的工作流。"
     },
     "summary": {
       "en": "Continuous Evaluation Pipeline studies a focused intervention for AI evaluation suites. The project turns the concept into a falsifiable comparison on LongBench, TruthfulQA, custom eval sets, using Evaluator ensemble as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -7759,8 +7759,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "材料假设筛选"
     },
     "tagline": {
-      "en": "Test whether materials hypothesis triage can improve hit rate, uncertainty calibration, and experiment cost in scientific discovery workflows.",
-      "zh": "检验“材料假设筛选”能否改善科学发现流程的命中率、不确定性校准与实验成本。"
+      "en": "Build an evidence-backed case for—or against—materials hypothesis triage.",
+      "zh": "用实验证据判断材料假设筛选究竟是否值得采用。"
     },
     "summary": {
       "en": "Materials Hypothesis Triage studies a focused intervention for scientific discovery workflows. The project turns the concept into a falsifiable comparison on Papers, domain corpora, experiment logs, using SciBERT + planner LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -7824,8 +7824,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "蛋白质实验规划"
     },
     "tagline": {
-      "en": "Test whether protein experiment planning can improve hit rate, uncertainty calibration, and experiment cost in scientific discovery workflows.",
-      "zh": "检验“蛋白质实验规划”能否改善科学发现流程的命中率、不确定性校准与实验成本。"
+      "en": "Make protein experiment planning explicit, testable, and resilient to changing conditions.",
+      "zh": "让蛋白质实验规划变得显式、可测试，并能适应条件变化。"
     },
     "summary": {
       "en": "Protein Experiment Planning studies a focused intervention for scientific discovery workflows. The project turns the concept into a falsifiable comparison on Papers, domain corpora, experiment logs, using SciBERT + planner LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -7889,8 +7889,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "分子性质预测"
     },
     "tagline": {
-      "en": "Test whether molecule property forecasting can improve hit rate, uncertainty calibration, and experiment cost in scientific discovery workflows.",
-      "zh": "检验“分子性质预测”能否改善科学发现流程的命中率、不确定性校准与实验成本。"
+      "en": "Make molecule property forecasting useful by attaching calibrated uncertainty to every prediction.",
+      "zh": "为每次预测附带校准后的不确定性，让分子性质预测真正可用。"
     },
     "summary": {
       "en": "Molecule Property Forecasting studies a focused intervention for scientific discovery workflows. The project turns the concept into a falsifiable comparison on Papers, domain corpora, experiment logs, using SciBERT + planner LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -7954,8 +7954,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "反应路径推荐"
     },
     "tagline": {
-      "en": "Test whether reaction pathway recommendation can improve hit rate, uncertainty calibration, and experiment cost in scientific discovery workflows.",
-      "zh": "检验“反应路径推荐”能否改善科学发现流程的命中率、不确定性校准与实验成本。"
+      "en": "Rank actionable candidates through evidence-aware reaction pathway recommendation.",
+      "zh": "通过证据感知的反应路径推荐对可行动候选项进行排序。"
     },
     "summary": {
       "en": "Reaction Pathway Recommendation studies a focused intervention for scientific discovery workflows. The project turns the concept into a falsifiable comparison on Papers, domain corpora, experiment logs, using SciBERT + planner LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -8019,8 +8019,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "科学文献综述"
     },
     "tagline": {
-      "en": "Test whether scientific literature synthesis can improve hit rate, uncertainty calibration, and experiment cost in scientific discovery workflows.",
-      "zh": "检验“科学文献综述”能否改善科学发现流程的命中率、不确定性校准与实验成本。"
+      "en": "Produce better research inputs through controlled scientific literature synthesis, not blind scale.",
+      "zh": "以受控的科学文献综述提升研究输入质量，而不是盲目追求规模。"
     },
     "summary": {
       "en": "Scientific Literature Synthesis studies a focused intervention for scientific discovery workflows. The project turns the concept into a falsifiable comparison on Papers, domain corpora, experiment logs, using SciBERT + planner LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -8084,8 +8084,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "实验室自动化任务规划"
     },
     "tagline": {
-      "en": "Test whether lab automation task planning can improve hit rate, uncertainty calibration, and experiment cost in scientific discovery workflows.",
-      "zh": "检验“实验室自动化任务规划”能否改善科学发现流程的命中率、不确定性校准与实验成本。"
+      "en": "Make lab automation task planning explicit, testable, and resilient to changing conditions.",
+      "zh": "让实验室自动化任务规划变得显式、可测试，并能适应条件变化。"
     },
     "summary": {
       "en": "Lab Automation Task Planning studies a focused intervention for scientific discovery workflows. The project turns the concept into a falsifiable comparison on Papers, domain corpora, experiment logs, using SciBERT + planner LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -8149,8 +8149,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "负面结果挖掘"
     },
     "tagline": {
-      "en": "Test whether negative result mining can improve hit rate, uncertainty calibration, and experiment cost in scientific discovery workflows.",
-      "zh": "检验“负面结果挖掘”能否改善科学发现流程的命中率、不确定性校准与实验成本。"
+      "en": "Recover overlooked signal through transparent negative result mining.",
+      "zh": "通过透明的负面结果挖掘找回被忽略的有效信号。"
     },
     "summary": {
       "en": "Negative Result Mining studies a focused intervention for scientific discovery workflows. The project turns the concept into a falsifiable comparison on Papers, domain corpora, experiment logs, using SciBERT + planner LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -8214,8 +8214,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "科学论断验证"
     },
     "tagline": {
-      "en": "Test whether scientific claim verification can improve hit rate, uncertainty calibration, and experiment cost in scientific discovery workflows.",
-      "zh": "检验“科学论断验证”能否改善科学发现流程的命中率、不确定性校准与实验成本。"
+      "en": "Expose hidden errors by making scientific claim verification systematic and reproducible.",
+      "zh": "通过系统且可复现的科学论断验证揭示隐藏错误。"
     },
     "summary": {
       "en": "Scientific Claim Verification studies a focused intervention for scientific discovery workflows. The project turns the concept into a falsifiable comparison on Papers, domain corpora, experiment logs, using SciBERT + planner LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -8279,8 +8279,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "模拟—引导发现"
     },
     "tagline": {
-      "en": "Test whether simulation-guided discovery can improve hit rate, uncertainty calibration, and experiment cost in scientific discovery workflows.",
-      "zh": "检验“模拟—引导发现”能否改善科学发现流程的命中率、不确定性校准与实验成本。"
+      "en": "Map the benefits, costs, and failure modes of simulation-guided discovery.",
+      "zh": "系统描绘模拟—引导发现的收益、成本与失败模式。"
     },
     "summary": {
       "en": "Simulation-guided Discovery studies a focused intervention for scientific discovery workflows. The project turns the concept into a falsifiable comparison on Papers, domain corpora, experiment logs, using SciBERT + planner LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -8344,8 +8344,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "高—吞吐量实验排序"
     },
     "tagline": {
-      "en": "Test whether high-throughput experiment ranking can improve hit rate, uncertainty calibration, and experiment cost in scientific discovery workflows.",
-      "zh": "检验“高—吞吐量实验排序”能否改善科学发现流程的命中率、不确定性校准与实验成本。"
+      "en": "Find the operating conditions where high-throughput experiment ranking remains dependable.",
+      "zh": "找出高—吞吐量实验排序能够保持可靠的运行条件。"
     },
     "summary": {
       "en": "High-throughput Experiment Ranking studies a focused intervention for scientific discovery workflows. The project turns the concept into a falsifiable comparison on Papers, domain corpora, experiment logs, using SciBERT + planner LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -8409,8 +8409,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "科学知识图谱链接"
     },
     "tagline": {
-      "en": "Test whether scientific knowledge graph linking can improve hit rate, uncertainty calibration, and experiment cost in scientific discovery workflows.",
-      "zh": "检验“科学知识图谱链接”能否改善科学发现流程的命中率、不确定性校准与实验成本。"
+      "en": "Surface stronger evidence with scientific knowledge graph linking while keeping provenance intact.",
+      "zh": "利用科学知识图谱链接找到更有力的证据，同时保留完整来源链。"
     },
     "summary": {
       "en": "Scientific Knowledge Graph Linking studies a focused intervention for scientific discovery workflows. The project turns the concept into a falsifiable comparison on Papers, domain corpora, experiment logs, using SciBERT + planner LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -8474,8 +8474,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "仪器日志异常检测"
     },
     "tagline": {
-      "en": "Test whether instrument log anomaly detection can improve hit rate, uncertainty calibration, and experiment cost in scientific discovery workflows.",
-      "zh": "检验“仪器日志异常检测”能否改善科学发现流程的命中率、不确定性校准与实验成本。"
+      "en": "Catch instrument log anomaly detection failures before they undermine scientific discovery workflows.",
+      "zh": "在仪器日志异常检测相关故障影响科学发现流程之前及时识别它们。"
     },
     "summary": {
       "en": "Instrument Log Anomaly Detection studies a focused intervention for scientific discovery workflows. The project turns the concept into a falsifiable comparison on Papers, domain corpora, experiment logs, using SciBERT + planner LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -8539,8 +8539,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "假设新颖性评分"
     },
     "tagline": {
-      "en": "Test whether hypothesis novelty scoring can improve hit rate, uncertainty calibration, and experiment cost in scientific discovery workflows.",
-      "zh": "检验“假设新颖性评分”能否改善科学发现流程的命中率、不确定性校准与实验成本。"
+      "en": "Turn hypothesis novelty scoring into a metric teams can compare, audit, and improve.",
+      "zh": "把假设新颖性评分转化为可比较、可审计、可持续改进的指标。"
     },
     "summary": {
       "en": "Hypothesis Novelty Scoring studies a focused intervention for scientific discovery workflows. The project turns the concept into a falsifiable comparison on Papers, domain corpora, experiment logs, using SciBERT + planner LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -8604,8 +8604,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "实验预算分配"
     },
     "tagline": {
-      "en": "Test whether experiment budget allocation can improve hit rate, uncertainty calibration, and experiment cost in scientific discovery workflows.",
-      "zh": "检验“实验预算分配”能否改善科学发现流程的命中率、不确定性校准与实验成本。"
+      "en": "Spend scarce resources where experiment budget allocation can deliver the largest verified gain.",
+      "zh": "把稀缺资源投入实验预算分配最可能带来可验证收益的环节。"
     },
     "summary": {
       "en": "Experiment Budget Allocation studies a focused intervention for scientific discovery workflows. The project turns the concept into a falsifiable comparison on Papers, domain corpora, experiment logs, using SciBERT + planner LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -8669,8 +8669,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "跨—学科迁移发现"
     },
     "tagline": {
-      "en": "Test whether cross-discipline transfer discovery can improve hit rate, uncertainty calibration, and experiment cost in scientific discovery workflows.",
-      "zh": "检验“跨—学科迁移发现”能否改善科学发现流程的命中率、不确定性校准与实验成本。"
+      "en": "Map the benefits, costs, and failure modes of cross-discipline transfer discovery.",
+      "zh": "系统描绘跨—学科迁移发现的收益、成本与失败模式。"
     },
     "summary": {
       "en": "Cross-discipline Transfer Discovery studies a focused intervention for scientific discovery workflows. The project turns the concept into a falsifiable comparison on Papers, domain corpora, experiment logs, using SciBERT + planner LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -8734,8 +8734,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "不确定性—感知实验室设计"
     },
     "tagline": {
-      "en": "Test whether uncertainty-aware lab design can improve hit rate, uncertainty calibration, and experiment cost in scientific discovery workflows.",
-      "zh": "检验“不确定性—感知实验室设计”能否改善科学发现流程的命中率、不确定性校准与实验成本。"
+      "en": "Build an evidence-backed case for—or against—uncertainty-aware lab design.",
+      "zh": "用实验证据判断不确定性—感知实验室设计究竟是否值得采用。"
     },
     "summary": {
       "en": "Uncertainty-aware Lab Design studies a focused intervention for scientific discovery workflows. The project turns the concept into a falsifiable comparison on Papers, domain corpora, experiment logs, using SciBERT + planner LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -8799,8 +8799,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "科学工作流助手"
     },
     "tagline": {
-      "en": "Test whether science workflow copilots can improve hit rate, uncertainty calibration, and experiment cost in scientific discovery workflows.",
-      "zh": "检验“科学工作流助手”能否改善科学发现流程的命中率、不确定性校准与实验成本。"
+      "en": "Turn science workflow copilots into a workflow contributors can inspect and reproduce.",
+      "zh": "把科学工作流助手变成贡献者能够检查和复现的工作流。"
     },
     "summary": {
       "en": "Science Workflow Copilots studies a focused intervention for scientific discovery workflows. The project turns the concept into a falsifiable comparison on Papers, domain corpora, experiment logs, using SciBERT + planner LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -8864,8 +8864,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "策略—感知拒答策略"
     },
     "tagline": {
-      "en": "Test whether policy-aware refusal strategies can improve risk recall, false-positive rate, and auditability in AI governance controls.",
-      "zh": "检验“策略—感知拒答策略”能否改善AI 治理控制机制的风险召回率、误报率与可审计性。"
+      "en": "Define a practical policy-aware refusal strategies that remains enforceable under real-world pressure.",
+      "zh": "制定在真实压力下仍可执行的策略—感知拒答策略方案。"
     },
     "summary": {
       "en": "Policy-aware Refusal Strategies studies a focused intervention for AI governance controls. The project turns the concept into a falsifiable comparison on Safety benchmarks + policy corpora, using Safety classifier + LLM judge as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -8929,8 +8929,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "危害严重度校准"
     },
     "tagline": {
-      "en": "Test whether harm severity calibration can improve risk recall, false-positive rate, and auditability in AI governance controls.",
-      "zh": "检验“危害严重度校准”能否改善AI 治理控制机制的风险召回率、误报率与可审计性。"
+      "en": "Align confidence with reality through measurable harm severity calibration.",
+      "zh": "通过可度量的危害严重度校准，让系统置信度更贴近真实表现。"
     },
     "summary": {
       "en": "Harm Severity Calibration studies a focused intervention for AI governance controls. The project turns the concept into a falsifiable comparison on Safety benchmarks + policy corpora, using Safety classifier + LLM judge as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -8994,8 +8994,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "合规可追溯性"
     },
     "tagline": {
-      "en": "Test whether compliance traceability can improve risk recall, false-positive rate, and auditability in AI governance controls.",
-      "zh": "检验“合规可追溯性”能否改善AI 治理控制机制的风险召回率、误报率与可审计性。"
+      "en": "Build an evidence-backed case for—or against—compliance traceability.",
+      "zh": "用实验证据判断合规可追溯性究竟是否值得采用。"
     },
     "summary": {
       "en": "Compliance Traceability studies a focused intervention for AI governance controls. The project turns the concept into a falsifiable comparison on Safety benchmarks + policy corpora, using Safety classifier + LLM judge as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -9059,8 +9059,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "模型卡片证据标准"
     },
     "tagline": {
-      "en": "Test whether model card evidence standard can improve risk recall, false-positive rate, and auditability in AI governance controls.",
-      "zh": "检验“模型卡片证据标准”能否改善AI 治理控制机制的风险召回率、误报率与可审计性。"
+      "en": "Define a practical model card evidence standard that remains enforceable under real-world pressure.",
+      "zh": "制定在真实压力下仍可执行的模型卡片证据标准方案。"
     },
     "summary": {
       "en": "Model Card Evidence Standard studies a focused intervention for AI governance controls. The project turns the concept into a falsifiable comparison on Safety benchmarks + policy corpora, using Safety classifier + LLM judge as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -9124,8 +9124,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "风险分类体系自动化"
     },
     "tagline": {
-      "en": "Test whether risk taxonomy automation can improve risk recall, false-positive rate, and auditability in AI governance controls.",
-      "zh": "检验“风险分类体系自动化”能否改善AI 治理控制机制的风险召回率、误报率与可审计性。"
+      "en": "Build an evidence-backed case for—or against—risk taxonomy automation.",
+      "zh": "用实验证据判断风险分类体系自动化究竟是否值得采用。"
     },
     "summary": {
       "en": "Risk Taxonomy Automation studies a focused intervention for AI governance controls. The project turns the concept into a falsifiable comparison on Safety benchmarks + policy corpora, using Safety classifier + LLM judge as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -9189,8 +9189,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "敏感领域路由"
     },
     "tagline": {
-      "en": "Test whether sensitive domain routing can improve risk recall, false-positive rate, and auditability in AI governance controls.",
-      "zh": "检验“敏感领域路由”能否改善AI 治理控制机制的风险召回率、误报率与可审计性。"
+      "en": "Send each workload down the right path with sensitive domain routing.",
+      "zh": "利用敏感领域路由为每项负载选择合适的处理路径。"
     },
     "summary": {
       "en": "Sensitive Domain Routing studies a focused intervention for AI governance controls. The project turns the concept into a falsifiable comparison on Safety benchmarks + policy corpora, using Safety classifier + LLM judge as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -9254,8 +9254,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "滥用模式检测"
     },
     "tagline": {
-      "en": "Test whether abuse pattern detection can improve risk recall, false-positive rate, and auditability in AI governance controls.",
-      "zh": "检验“滥用模式检测”能否改善AI 治理控制机制的风险召回率、误报率与可审计性。"
+      "en": "Catch abuse pattern detection failures before they undermine AI governance controls.",
+      "zh": "在滥用模式检测相关故障影响AI 治理控制机制之前及时识别它们。"
     },
     "summary": {
       "en": "Abuse Pattern Detection studies a focused intervention for AI governance controls. The project turns the concept into a falsifiable comparison on Safety benchmarks + policy corpora, using Safety classifier + LLM judge as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -9319,8 +9319,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "治理—就绪评测"
     },
     "tagline": {
-      "en": "Test whether governance-ready evaluation can improve risk recall, false-positive rate, and auditability in AI governance controls.",
-      "zh": "检验“治理—就绪评测”能否改善AI 治理控制机制的风险召回率、误报率与可审计性。"
+      "en": "A reproducible test bed for measuring governance-ready evaluation across real operating conditions.",
+      "zh": "建立可复现测试平台，在真实运行条件下衡量治理—就绪评测。"
     },
     "summary": {
       "en": "Governance-ready Evaluation studies a focused intervention for AI governance controls. The project turns the concept into a falsifiable comparison on Safety benchmarks + policy corpora, using Safety classifier + LLM judge as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -9384,8 +9384,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "审计轨迹生成"
     },
     "tagline": {
-      "en": "Test whether audit trail generation can improve risk recall, false-positive rate, and auditability in AI governance controls.",
-      "zh": "检验“审计轨迹生成”能否改善AI 治理控制机制的风险召回率、误报率与可审计性。"
+      "en": "Produce better research inputs through controlled audit trail generation, not blind scale.",
+      "zh": "以受控的审计轨迹生成提升研究输入质量，而不是盲目追求规模。"
     },
     "summary": {
       "en": "Audit Trail Generation studies a focused intervention for AI governance controls. The project turns the concept into a falsifiable comparison on Safety benchmarks + policy corpora, using Safety classifier + LLM judge as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -9449,8 +9449,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "隐私泄漏红队—测试"
     },
     "tagline": {
-      "en": "Test whether privacy leakage red-teaming can improve risk recall, false-positive rate, and auditability in AI governance controls.",
-      "zh": "检验“隐私泄漏红队—测试”能否改善AI 治理控制机制的风险召回率、误报率与可审计性。"
+      "en": "Move privacy leakage red-teaming from a promising concept to a falsifiable experiment.",
+      "zh": "把隐私泄漏红队—测试从有潜力的概念推进为可证伪实验。"
     },
     "summary": {
       "en": "Privacy Leakage Red-teaming studies a focused intervention for AI governance controls. The project turns the concept into a falsifiable comparison on Safety benchmarks + policy corpora, using Safety classifier + LLM judge as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -9514,8 +9514,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "安全事件回放"
     },
     "tagline": {
-      "en": "Test whether safety incident replay can improve risk recall, false-positive rate, and auditability in AI governance controls.",
-      "zh": "检验“安全事件回放”能否改善AI 治理控制机制的风险召回率、误报率与可审计性。"
+      "en": "Find the operating conditions where safety incident replay remains dependable.",
+      "zh": "找出安全事件回放能够保持可靠的运行条件。"
     },
     "summary": {
       "en": "Safety Incident Replay studies a focused intervention for AI governance controls. The project turns the concept into a falsifiable comparison on Safety benchmarks + policy corpora, using Safety classifier + LLM judge as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -9579,8 +9579,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "内容溯源标记"
     },
     "tagline": {
-      "en": "Test whether content provenance tagging can improve risk recall, false-positive rate, and auditability in AI governance controls.",
-      "zh": "检验“内容溯源标记”能否改善AI 治理控制机制的风险召回率、误报率与可审计性。"
+      "en": "Find the operating conditions where content provenance tagging remains dependable.",
+      "zh": "找出内容溯源标记能够保持可靠的运行条件。"
     },
     "summary": {
       "en": "Content Provenance Tagging studies a focused intervention for AI governance controls. The project turns the concept into a falsifiable comparison on Safety benchmarks + policy corpora, using Safety classifier + LLM judge as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -9644,8 +9644,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "司法辖区—感知治理"
     },
     "tagline": {
-      "en": "Test whether jurisdiction-aware moderation can improve risk recall, false-positive rate, and auditability in AI governance controls.",
-      "zh": "检验“司法辖区—感知治理”能否改善AI 治理控制机制的风险召回率、误报率与可审计性。"
+      "en": "Build an evidence-backed case for—or against—jurisdiction-aware moderation.",
+      "zh": "用实验证据判断司法辖区—感知治理究竟是否值得采用。"
     },
     "summary": {
       "en": "Jurisdiction-aware Moderation studies a focused intervention for AI governance controls. The project turns the concept into a falsifiable comparison on Safety benchmarks + policy corpora, using Safety classifier + LLM judge as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -9709,8 +9709,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "对齐策略漂移预警"
     },
     "tagline": {
-      "en": "Test whether alignment policy drift alerts can improve risk recall, false-positive rate, and auditability in AI governance controls.",
-      "zh": "检验“对齐策略漂移预警”能否改善AI 治理控制机制的风险召回率、误报率与可审计性。"
+      "en": "Catch alignment policy drift alerts failures before they undermine AI governance controls.",
+      "zh": "在对齐策略漂移预警相关故障影响AI 治理控制机制之前及时识别它们。"
     },
     "summary": {
       "en": "Alignment Policy Drift Alerts studies a focused intervention for AI governance controls. The project turns the concept into a falsifiable comparison on Safety benchmarks + policy corpora, using Safety classifier + LLM judge as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -9774,8 +9774,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "风险升级工作流"
     },
     "tagline": {
-      "en": "Test whether risk escalation workflow can improve risk recall, false-positive rate, and auditability in AI governance controls.",
-      "zh": "检验“风险升级工作流”能否改善AI 治理控制机制的风险召回率、误报率与可审计性。"
+      "en": "Turn risk escalation workflow into a workflow contributors can inspect and reproduce.",
+      "zh": "把风险升级工作流变成贡献者能够检查和复现的工作流。"
     },
     "summary": {
       "en": "Risk Escalation Workflow studies a focused intervention for AI governance controls. The project turns the concept into a falsifiable comparison on Safety benchmarks + policy corpora, using Safety classifier + LLM judge as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -9839,8 +9839,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "安全KPI看板化"
     },
     "tagline": {
-      "en": "Test whether safety kpi dashboarding can improve risk recall, false-positive rate, and auditability in AI governance controls.",
-      "zh": "检验“安全KPI看板化”能否改善AI 治理控制机制的风险召回率、误报率与可审计性。"
+      "en": "Make safety kpi dashboarding visible early enough for teams to act.",
+      "zh": "让安全KPI看板化足够早地显现，使团队能够及时行动。"
     },
     "summary": {
       "en": "Safety KPI Dashboarding studies a focused intervention for AI governance controls. The project turns the concept into a falsifiable comparison on Safety benchmarks + policy corpora, using Safety classifier + LLM judge as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -9904,8 +9904,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "人工监督闭环设计"
     },
     "tagline": {
-      "en": "Test whether human oversight loop design can improve risk recall, false-positive rate, and auditability in AI governance controls.",
-      "zh": "检验“人工监督闭环设计”能否改善AI 治理控制机制的风险召回率、误报率与可审计性。"
+      "en": "Map the benefits, costs, and failure modes of human oversight loop design.",
+      "zh": "系统描绘人工监督闭环设计的收益、成本与失败模式。"
     },
     "summary": {
       "en": "Human Oversight Loop Design studies a focused intervention for AI governance controls. The project turns the concept into a falsifiable comparison on Safety benchmarks + policy corpora, using Safety classifier + LLM judge as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -9969,8 +9969,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "澄清—优先对话"
     },
     "tagline": {
-      "en": "Test whether clarification-first dialogue can improve task completion, user effort, trust calibration, and accessibility in human-AI interfaces.",
-      "zh": "检验“澄清—优先对话”能否改善人机协作界面的任务完成率、用户负担、信任校准与可访问性。"
+      "en": "Reveal when clarification-first dialogue creates real value—and when it does not.",
+      "zh": "揭示澄清—优先对话何时创造真实价值，以及何时无效。"
     },
     "summary": {
       "en": "Clarification-first Dialogue studies a focused intervention for human-AI interfaces. The project turns the concept into a falsifiable comparison on User study logs + dialogue corpora, using General assistant model stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -10034,8 +10034,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "置信度—感知交互提示"
     },
     "tagline": {
-      "en": "Test whether confidence-aware ux cues can improve task completion, user effort, trust calibration, and accessibility in human-AI interfaces.",
-      "zh": "检验“置信度—感知交互提示”能否改善人机协作界面的任务完成率、用户负担、信任校准与可访问性。"
+      "en": "Build an evidence-backed case for—or against—confidence-aware ux cues.",
+      "zh": "用实验证据判断置信度—感知交互提示究竟是否值得采用。"
     },
     "summary": {
       "en": "Confidence-aware UX Cues studies a focused intervention for human-AI interfaces. The project turns the concept into a falsifiable comparison on User study logs + dialogue corpora, using General assistant model stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -10099,8 +10099,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "自适应解释深度"
     },
     "tagline": {
-      "en": "Test whether adaptive explanation depth can improve task completion, user effort, trust calibration, and accessibility in human-AI interfaces.",
-      "zh": "检验“自适应解释深度”能否改善人机协作界面的任务完成率、用户负担、信任校准与可访问性。"
+      "en": "Build an evidence-backed case for—or against—adaptive explanation depth.",
+      "zh": "用实验证据判断自适应解释深度究竟是否值得采用。"
     },
     "summary": {
       "en": "Adaptive Explanation Depth studies a focused intervention for human-AI interfaces. The project turns the concept into a falsifiable comparison on User study logs + dialogue corpora, using General assistant model stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -10164,8 +10164,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "协作编辑协议"
     },
     "tagline": {
-      "en": "Test whether collaborative editing protocols can improve task completion, user effort, trust calibration, and accessibility in human-AI interfaces.",
-      "zh": "检验“协作编辑协议”能否改善人机协作界面的任务完成率、用户负担、信任校准与可访问性。"
+      "en": "Define a practical collaborative editing protocols that remains enforceable under real-world pressure.",
+      "zh": "制定在真实压力下仍可执行的协作编辑协议方案。"
     },
     "summary": {
       "en": "Collaborative Editing Protocols studies a focused intervention for human-AI interfaces. The project turns the concept into a falsifiable comparison on User study logs + dialogue corpora, using General assistant model stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -10229,8 +10229,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "用户意图消歧"
     },
     "tagline": {
-      "en": "Test whether user intent disambiguation can improve task completion, user effort, trust calibration, and accessibility in human-AI interfaces.",
-      "zh": "检验“用户意图消歧”能否改善人机协作界面的任务完成率、用户负担、信任校准与可访问性。"
+      "en": "Find the operating conditions where user intent disambiguation remains dependable.",
+      "zh": "找出用户意图消歧能够保持可靠的运行条件。"
     },
     "summary": {
       "en": "User Intent Disambiguation studies a focused intervention for human-AI interfaces. The project turns the concept into a falsifiable comparison on User study logs + dialogue corpora, using General assistant model stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -10294,8 +10294,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "信任校准界面"
     },
     "tagline": {
-      "en": "Test whether trust calibration interface can improve task completion, user effort, trust calibration, and accessibility in human-AI interfaces.",
-      "zh": "检验“信任校准界面”能否改善人机协作界面的任务完成率、用户负担、信任校准与可访问性。"
+      "en": "Map the benefits, costs, and failure modes of trust calibration interface.",
+      "zh": "系统描绘信任校准界面的收益、成本与失败模式。"
     },
     "summary": {
       "en": "Trust Calibration Interface studies a focused intervention for human-AI interfaces. The project turns the concept into a falsifiable comparison on User study logs + dialogue corpora, using General assistant model stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -10359,8 +10359,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "错误恢复交互"
     },
     "tagline": {
-      "en": "Test whether error recovery interactions can improve task completion, user effort, trust calibration, and accessibility in human-AI interfaces.",
-      "zh": "检验“错误恢复交互”能否改善人机协作界面的任务完成率、用户负担、信任校准与可访问性。"
+      "en": "Help human-AI interfaces recover safely through error recovery interactions instead of starting over.",
+      "zh": "让人机协作界面借助错误恢复交互安全恢复，而不是从头再来。"
     },
     "summary": {
       "en": "Error Recovery Interactions studies a focused intervention for human-AI interfaces. The project turns the concept into a falsifiable comparison on User study logs + dialogue corpora, using General assistant model stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -10424,8 +10424,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "交互式规划看板"
     },
     "tagline": {
-      "en": "Test whether interactive planning board can improve task completion, user effort, trust calibration, and accessibility in human-AI interfaces.",
-      "zh": "检验“交互式规划看板”能否改善人机协作界面的任务完成率、用户负担、信任校准与可访问性。"
+      "en": "Reveal when interactive planning board creates real value—and when it does not.",
+      "zh": "揭示交互式规划看板何时创造真实价值，以及何时无效。"
     },
     "summary": {
       "en": "Interactive Planning Board studies a focused intervention for human-AI interfaces. The project turns the concept into a falsifiable comparison on User study logs + dialogue corpora, using General assistant model stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -10489,8 +10489,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "对话内存控制"
     },
     "tagline": {
-      "en": "Test whether conversation memory controls can improve task completion, user effort, trust calibration, and accessibility in human-AI interfaces.",
-      "zh": "检验“对话内存控制”能否改善人机协作界面的任务完成率、用户负担、信任校准与可访问性。"
+      "en": "Keep humans in command with measurable conversation memory controls.",
+      "zh": "通过可度量的对话内存控制确保人类始终掌握控制权。"
     },
     "summary": {
       "en": "Conversation Memory Controls studies a focused intervention for human-AI interfaces. The project turns the concept into a falsifiable comparison on User study logs + dialogue corpora, using General assistant model stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -10554,8 +10554,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "多语言交互质量"
     },
     "tagline": {
-      "en": "Test whether multilingual interaction quality can improve task completion, user effort, trust calibration, and accessibility in human-AI interfaces.",
-      "zh": "检验“多语言交互质量”能否改善人机协作界面的任务完成率、用户负担、信任校准与可访问性。"
+      "en": "Move multilingual interaction quality from a promising concept to a falsifiable experiment.",
+      "zh": "把多语言交互质量从有潜力的概念推进为可证伪实验。"
     },
     "summary": {
       "en": "Multilingual Interaction Quality studies a focused intervention for human-AI interfaces. The project turns the concept into a falsifiable comparison on User study logs + dialogue corpora, using General assistant model stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -10619,8 +10619,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "专家—与—新手模式切换"
     },
     "tagline": {
-      "en": "Test whether expert-vs-novice mode switching can improve task completion, user effort, trust calibration, and accessibility in human-AI interfaces.",
-      "zh": "检验“专家—与—新手模式切换”能否改善人机协作界面的任务完成率、用户负担、信任校准与可访问性。"
+      "en": "Map the benefits, costs, and failure modes of expert-vs-novice mode switching.",
+      "zh": "系统描绘专家—与—新手模式切换的收益、成本与失败模式。"
     },
     "summary": {
       "en": "Expert-vs-novice Mode Switching studies a focused intervention for human-AI interfaces. The project turns the concept into a falsifiable comparison on User study logs + dialogue corpora, using General assistant model stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -10684,8 +10684,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "反馈收集闭环"
     },
     "tagline": {
-      "en": "Test whether feedback collection loops can improve task completion, user effort, trust calibration, and accessibility in human-AI interfaces.",
-      "zh": "检验“反馈收集闭环”能否改善人机协作界面的任务完成率、用户负担、信任校准与可访问性。"
+      "en": "Improve collective decisions by redesigning feedback collection loops around evidence.",
+      "zh": "围绕证据重新设计反馈收集闭环，提升群体决策质量。"
     },
     "summary": {
       "en": "Feedback Collection Loops studies a focused intervention for human-AI interfaces. The project turns the concept into a falsifiable comparison on User study logs + dialogue corpora, using General assistant model stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -10749,8 +10749,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "决策—支持透明度"
     },
     "tagline": {
-      "en": "Test whether decision-support transparency can improve task completion, user effort, trust calibration, and accessibility in human-AI interfaces.",
-      "zh": "检验“决策—支持透明度”能否改善人机协作界面的任务完成率、用户负担、信任校准与可访问性。"
+      "en": "Make decision-support transparency useful for decisions rather than merely descriptive.",
+      "zh": "让决策—支持透明度真正服务于决策，而不只是事后描述。"
     },
     "summary": {
       "en": "Decision-support Transparency studies a focused intervention for human-AI interfaces. The project turns the concept into a falsifiable comparison on User study logs + dialogue corpora, using General assistant model stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -10814,8 +10814,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "交接—转—人工触发条件"
     },
     "tagline": {
-      "en": "Test whether handoff-to-human triggers can improve task completion, user effort, trust calibration, and accessibility in human-AI interfaces.",
-      "zh": "检验“交接—转—人工触发条件”能否改善人机协作界面的任务完成率、用户负担、信任校准与可访问性。"
+      "en": "Find the operating conditions where handoff-to-human triggers remains dependable.",
+      "zh": "找出交接—转—人工触发条件能够保持可靠的运行条件。"
     },
     "summary": {
       "en": "Handoff-to-human Triggers studies a focused intervention for human-AI interfaces. The project turns the concept into a falsifiable comparison on User study logs + dialogue corpora, using General assistant model stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -10879,8 +10879,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "用户负担最小化"
     },
     "tagline": {
-      "en": "Test whether user effort minimization can improve task completion, user effort, trust calibration, and accessibility in human-AI interfaces.",
-      "zh": "检验“用户负担最小化”能否改善人机协作界面的任务完成率、用户负担、信任校准与可访问性。"
+      "en": "Build an evidence-backed case for—or against—user effort minimization.",
+      "zh": "用实验证据判断用户负担最小化究竟是否值得采用。"
     },
     "summary": {
       "en": "User Effort Minimization studies a focused intervention for human-AI interfaces. The project turns the concept into a falsifiable comparison on User study logs + dialogue corpora, using General assistant model stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -10944,8 +10944,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "辅助式创意工作流"
     },
     "tagline": {
-      "en": "Test whether assistive creativity workflows can improve task completion, user effort, trust calibration, and accessibility in human-AI interfaces.",
-      "zh": "检验“辅助式创意工作流”能否改善人机协作界面的任务完成率、用户负担、信任校准与可访问性。"
+      "en": "Turn assistive creativity workflows into a workflow contributors can inspect and reproduce.",
+      "zh": "把辅助式创意工作流变成贡献者能够检查和复现的工作流。"
     },
     "summary": {
       "en": "Assistive Creativity Workflows studies a focused intervention for human-AI interfaces. The project turns the concept into a falsifiable comparison on User study logs + dialogue corpora, using General assistant model stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -11009,8 +11009,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "协同—助手干预时机"
     },
     "tagline": {
-      "en": "Test whether co-pilot intervention timing can improve task completion, user effort, trust calibration, and accessibility in human-AI interfaces.",
-      "zh": "检验“协同—助手干预时机”能否改善人机协作界面的任务完成率、用户负担、信任校准与可访问性。"
+      "en": "Move co-pilot intervention timing from a promising concept to a falsifiable experiment.",
+      "zh": "把协同—助手干预时机从有潜力的概念推进为可证伪实验。"
     },
     "summary": {
       "en": "Co-pilot Intervention Timing studies a focused intervention for human-AI interfaces. The project turns the concept into a falsifiable comparison on User study logs + dialogue corpora, using General assistant model stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -11074,8 +11074,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "合成数据质量评分"
     },
     "tagline": {
-      "en": "Test whether synthetic data quality scoring can improve data quality, coverage, leakage risk, and production cost in training-data pipelines.",
-      "zh": "检验“合成数据质量评分”能否改善训练数据流水线的数据质量、覆盖度、泄漏风险与生产成本。"
+      "en": "Turn synthetic data quality scoring into a metric teams can compare, audit, and improve.",
+      "zh": "把合成数据质量评分转化为可比较、可审计、可持续改进的指标。"
     },
     "summary": {
       "en": "Synthetic Data Quality Scoring studies a focused intervention for training-data pipelines. The project turns the concept into a falsifiable comparison on Synthetic + curated open corpora, using Data engine + teacher LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -11139,8 +11139,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "数据污染检测"
     },
     "tagline": {
-      "en": "Test whether data contamination detection can improve data quality, coverage, leakage risk, and production cost in training-data pipelines.",
-      "zh": "检验“数据污染检测”能否改善训练数据流水线的数据质量、覆盖度、泄漏风险与生产成本。"
+      "en": "Catch data contamination detection failures before they undermine training-data pipelines.",
+      "zh": "在数据污染检测相关故障影响训练数据流水线之前及时识别它们。"
     },
     "summary": {
       "en": "Data Contamination Detection studies a focused intervention for training-data pipelines. The project turns the concept into a falsifiable comparison on Synthetic + curated open corpora, using Data engine + teacher LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -11204,8 +11204,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "困难—样本挖掘"
     },
     "tagline": {
-      "en": "Test whether hard-example mining can improve data quality, coverage, leakage risk, and production cost in training-data pipelines.",
-      "zh": "检验“困难—样本挖掘”能否改善训练数据流水线的数据质量、覆盖度、泄漏风险与生产成本。"
+      "en": "Recover overlooked signal through transparent hard-example mining.",
+      "zh": "通过透明的困难—样本挖掘找回被忽略的有效信号。"
     },
     "summary": {
       "en": "Hard-example Mining studies a focused intervention for training-data pipelines. The project turns the concept into a falsifiable comparison on Synthetic + curated open corpora, using Data engine + teacher LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -11269,8 +11269,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "指令数据多样性"
     },
     "tagline": {
-      "en": "Test whether instruction data diversity can improve data quality, coverage, leakage risk, and production cost in training-data pipelines.",
-      "zh": "检验“指令数据多样性”能否改善训练数据流水线的数据质量、覆盖度、泄漏风险与生产成本。"
+      "en": "Reveal when instruction data diversity creates real value—and when it does not.",
+      "zh": "揭示指令数据多样性何时创造真实价值，以及何时无效。"
     },
     "summary": {
       "en": "Instruction Data Diversity studies a focused intervention for training-data pipelines. The project turns the concept into a falsifiable comparison on Synthetic + curated open corpora, using Data engine + teacher LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -11334,8 +11334,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "多语言数据均衡"
     },
     "tagline": {
-      "en": "Test whether multilingual data balancing can improve data quality, coverage, leakage risk, and production cost in training-data pipelines.",
-      "zh": "检验“多语言数据均衡”能否改善训练数据流水线的数据质量、覆盖度、泄漏风险与生产成本。"
+      "en": "Keep humans in command with measurable multilingual data balancing.",
+      "zh": "通过可度量的多语言数据均衡确保人类始终掌握控制权。"
     },
     "summary": {
       "en": "Multilingual Data Balancing studies a focused intervention for training-data pipelines. The project turns the concept into a falsifiable comparison on Synthetic + curated open corpora, using Data engine + teacher LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -11399,8 +11399,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "领域适配数据筛选"
     },
     "tagline": {
-      "en": "Test whether domain adaptation data curation can improve data quality, coverage, leakage risk, and production cost in training-data pipelines.",
-      "zh": "检验“领域适配数据筛选”能否改善训练数据流水线的数据质量、覆盖度、泄漏风险与生产成本。"
+      "en": "Move domain adaptation data curation from a promising concept to a falsifiable experiment.",
+      "zh": "把领域适配数据筛选从有潜力的概念推进为可证伪实验。"
     },
     "summary": {
       "en": "Domain Adaptation Data Curation studies a focused intervention for training-data pipelines. The project turns the concept into a falsifiable comparison on Synthetic + curated open corpora, using Data engine + teacher LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -11464,8 +11464,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "自动化标注可靠性"
     },
     "tagline": {
-      "en": "Test whether automated labeling reliability can improve data quality, coverage, leakage risk, and production cost in training-data pipelines.",
-      "zh": "检验“自动化标注可靠性”能否改善训练数据流水线的数据质量、覆盖度、泄漏风险与生产成本。"
+      "en": "Stress-test automated labeling reliability beyond clean benchmarks and ideal inputs.",
+      "zh": "让自动化标注可靠性接受超越理想输入和标准基准的压力测试。"
     },
     "summary": {
       "en": "Automated Labeling Reliability studies a focused intervention for training-data pipelines. The project turns the concept into a falsifiable comparison on Synthetic + curated open corpora, using Data engine + teacher LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -11529,8 +11529,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "教师—学生数据蒸馏"
     },
     "tagline": {
-      "en": "Test whether teacher-student data distillation can improve data quality, coverage, leakage risk, and production cost in training-data pipelines.",
-      "zh": "检验“教师—学生数据蒸馏”能否改善训练数据流水线的数据质量、覆盖度、泄漏风险与生产成本。"
+      "en": "Reveal when teacher-student data distillation creates real value—and when it does not.",
+      "zh": "揭示教师—学生数据蒸馏何时创造真实价值，以及何时无效。"
     },
     "summary": {
       "en": "Teacher-student Data Distillation studies a focused intervention for training-data pipelines. The project turns the concept into a falsifiable comparison on Synthetic + curated open corpora, using Data engine + teacher LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -11594,8 +11594,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "偏差—感知数据集构建"
     },
     "tagline": {
-      "en": "Test whether bias-aware dataset construction can improve data quality, coverage, leakage risk, and production cost in training-data pipelines.",
-      "zh": "检验“偏差—感知数据集构建”能否改善训练数据流水线的数据质量、覆盖度、泄漏风险与生产成本。"
+      "en": "Produce better research inputs through controlled bias-aware dataset construction, not blind scale.",
+      "zh": "以受控的偏差—感知数据集构建提升研究输入质量，而不是盲目追求规模。"
     },
     "summary": {
       "en": "Bias-aware Dataset Construction studies a focused intervention for training-data pipelines. The project turns the concept into a falsifiable comparison on Synthetic + curated open corpora, using Data engine + teacher LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -11659,8 +11659,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "隐私—保护综述"
     },
     "tagline": {
-      "en": "Test whether privacy-preserving synthesis can improve data quality, coverage, leakage risk, and production cost in training-data pipelines.",
-      "zh": "检验“隐私—保护综述”能否改善训练数据流水线的数据质量、覆盖度、泄漏风险与生产成本。"
+      "en": "Produce better research inputs through controlled privacy-preserving synthesis, not blind scale.",
+      "zh": "以受控的隐私—保护综述提升研究输入质量，而不是盲目追求规模。"
     },
     "summary": {
       "en": "Privacy-preserving Synthesis studies a focused intervention for training-data pipelines. The project turns the concept into a falsifiable comparison on Synthetic + curated open corpora, using Data engine + teacher LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -11724,8 +11724,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "场景模拟生成"
     },
     "tagline": {
-      "en": "Test whether scenario simulation generation can improve data quality, coverage, leakage risk, and production cost in training-data pipelines.",
-      "zh": "检验“场景模拟生成”能否改善训练数据流水线的数据质量、覆盖度、泄漏风险与生产成本。"
+      "en": "Produce better research inputs through controlled scenario simulation generation, not blind scale.",
+      "zh": "以受控的场景模拟生成提升研究输入质量，而不是盲目追求规模。"
     },
     "summary": {
       "en": "Scenario Simulation Generation studies a focused intervention for training-data pipelines. The project turns the concept into a falsifiable comparison on Synthetic + curated open corpora, using Data engine + teacher LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -11789,8 +11789,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "数据集治理工作流"
     },
     "tagline": {
-      "en": "Test whether dataset governance workflow can improve data quality, coverage, leakage risk, and production cost in training-data pipelines.",
-      "zh": "检验“数据集治理工作流”能否改善训练数据流水线的数据质量、覆盖度、泄漏风险与生产成本。"
+      "en": "Turn dataset governance workflow into a workflow contributors can inspect and reproduce.",
+      "zh": "把数据集治理工作流变成贡献者能够检查和复现的工作流。"
     },
     "summary": {
       "en": "Dataset Governance Workflow studies a focused intervention for training-data pipelines. The project turns the concept into a falsifiable comparison on Synthetic + curated open corpora, using Data engine + teacher LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -11854,8 +11854,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "数据新鲜度流水线"
     },
     "tagline": {
-      "en": "Test whether data freshness pipeline can improve data quality, coverage, leakage risk, and production cost in training-data pipelines.",
-      "zh": "检验“数据新鲜度流水线”能否改善训练数据流水线的数据质量、覆盖度、泄漏风险与生产成本。"
+      "en": "Turn data freshness pipeline into a workflow contributors can inspect and reproduce.",
+      "zh": "把数据新鲜度流水线变成贡献者能够检查和复现的工作流。"
     },
     "summary": {
       "en": "Data Freshness Pipeline studies a focused intervention for training-data pipelines. The project turns the concept into a falsifiable comparison on Synthetic + curated open corpora, using Data engine + teacher LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -11919,8 +11919,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "评测—对齐数据生成"
     },
     "tagline": {
-      "en": "Test whether eval-aligned data generation can improve data quality, coverage, leakage risk, and production cost in training-data pipelines.",
-      "zh": "检验“评测—对齐数据生成”能否改善训练数据流水线的数据质量、覆盖度、泄漏风险与生产成本。"
+      "en": "Produce better research inputs through controlled eval-aligned data generation, not blind scale.",
+      "zh": "以受控的评测—对齐数据生成提升研究输入质量，而不是盲目追求规模。"
     },
     "summary": {
       "en": "Eval-aligned Data Generation studies a focused intervention for training-data pipelines. The project turns the concept into a falsifiable comparison on Synthetic + curated open corpora, using Data engine + teacher LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -11984,8 +11984,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "数据重复控制"
     },
     "tagline": {
-      "en": "Test whether data duplication control can improve data quality, coverage, leakage risk, and production cost in training-data pipelines.",
-      "zh": "检验“数据重复控制”能否改善训练数据流水线的数据质量、覆盖度、泄漏风险与生产成本。"
+      "en": "Keep humans in command with measurable data duplication control.",
+      "zh": "通过可度量的数据重复控制确保人类始终掌握控制权。"
     },
     "summary": {
       "en": "Data Duplication Control studies a focused intervention for training-data pipelines. The project turns the concept into a falsifiable comparison on Synthetic + curated open corpora, using Data engine + teacher LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -12049,8 +12049,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "失败—导向数据增强"
     },
     "tagline": {
-      "en": "Test whether failure-focused data augmentation can improve data quality, coverage, leakage risk, and production cost in training-data pipelines.",
-      "zh": "检验“失败—导向数据增强”能否改善训练数据流水线的数据质量、覆盖度、泄漏风险与生产成本。"
+      "en": "Produce better research inputs through controlled failure-focused data augmentation, not blind scale.",
+      "zh": "以受控的失败—导向数据增强提升研究输入质量，而不是盲目追求规模。"
     },
     "summary": {
       "en": "Failure-focused Data Augmentation studies a focused intervention for training-data pipelines. The project turns the concept into a falsifiable comparison on Synthetic + curated open corpora, using Data engine + teacher LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -12114,8 +12114,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "课程式数据集调度"
     },
     "tagline": {
-      "en": "Test whether curriculum dataset scheduling can improve data quality, coverage, leakage risk, and production cost in training-data pipelines.",
-      "zh": "检验“课程式数据集调度”能否改善训练数据流水线的数据质量、覆盖度、泄漏风险与生产成本。"
+      "en": "Schedule limited resources around curriculum dataset scheduling without sacrificing quality.",
+      "zh": "围绕课程式数据集调度调度有限资源，同时守住质量底线。"
     },
     "summary": {
       "en": "Curriculum Dataset Scheduling studies a focused intervention for training-data pipelines. The project turns the concept into a falsifiable comparison on Synthetic + curated open corpora, using Data engine + teacher LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -12179,8 +12179,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "讨论质量指标"
     },
     "tagline": {
-      "en": "Test whether discussion quality metrics can improve participation, review quality, contributor retention, and moderation load in open-source research communities.",
-      "zh": "检验“讨论质量指标”能否改善开源研究社区的参与度、评审质量、贡献者留存与治理负担。"
+      "en": "Turn discussion quality metrics into a metric teams can compare, audit, and improve.",
+      "zh": "把讨论质量指标转化为可比较、可审计、可持续改进的指标。"
     },
     "summary": {
       "en": "Discussion Quality Metrics studies a focused intervention for open-source research communities. The project turns the concept into a falsifiable comparison on GitHub Discussions + PR histories, using Community analytics stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -12244,8 +12244,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "贡献排序公平性"
     },
     "tagline": {
-      "en": "Test whether contribution ranking fairness can improve participation, review quality, contributor retention, and moderation load in open-source research communities.",
-      "zh": "检验“贡献排序公平性”能否改善开源研究社区的参与度、评审质量、贡献者留存与治理负担。"
+      "en": "Find the operating conditions where contribution ranking fairness remains dependable.",
+      "zh": "找出贡献排序公平性能够保持可靠的运行条件。"
     },
     "summary": {
       "en": "Contribution Ranking Fairness studies a focused intervention for open-source research communities. The project turns the concept into a falsifiable comparison on GitHub Discussions + PR histories, using Community analytics stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -12309,8 +12309,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "反—从众评审设计"
     },
     "tagline": {
-      "en": "Test whether anti-herding review design can improve participation, review quality, contributor retention, and moderation load in open-source research communities.",
-      "zh": "检验“反—从众评审设计”能否改善开源研究社区的参与度、评审质量、贡献者留存与治理负担。"
+      "en": "Improve collective decisions by redesigning anti-herding review design around evidence.",
+      "zh": "围绕证据重新设计反—从众评审设计，提升群体决策质量。"
     },
     "summary": {
       "en": "Anti-herding Review Design studies a focused intervention for open-source research communities. The project turns the concept into a falsifiable comparison on GitHub Discussions + PR histories, using Community analytics stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -12374,8 +12374,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "维护者负载路由"
     },
     "tagline": {
-      "en": "Test whether maintainer workload routing can improve participation, review quality, contributor retention, and moderation load in open-source research communities.",
-      "zh": "检验“维护者负载路由”能否改善开源研究社区的参与度、评审质量、贡献者留存与治理负担。"
+      "en": "Send each workload down the right path with maintainer workload routing.",
+      "zh": "利用维护者负载路由为每项负载选择合适的处理路径。"
     },
     "summary": {
       "en": "Maintainer Workload Routing studies a focused intervention for open-source research communities. The project turns the concept into a falsifiable comparison on GitHub Discussions + PR histories, using Community analytics stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -12439,8 +12439,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "新贡献者引导提示"
     },
     "tagline": {
-      "en": "Test whether newcomer onboarding prompts can improve participation, review quality, contributor retention, and moderation load in open-source research communities.",
-      "zh": "检验“新贡献者引导提示”能否改善开源研究社区的参与度、评审质量、贡献者留存与治理负担。"
+      "en": "Move newcomer onboarding prompts from a promising concept to a falsifiable experiment.",
+      "zh": "把新贡献者引导提示从有潜力的概念推进为可证伪实验。"
     },
     "summary": {
       "en": "Newcomer Onboarding Prompts studies a focused intervention for open-source research communities. The project turns the concept into a falsifiable comparison on GitHub Discussions + PR histories, using Community analytics stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -12504,8 +12504,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "PR评审质量评分"
     },
     "tagline": {
-      "en": "Test whether pr review quality scoring can improve participation, review quality, contributor retention, and moderation load in open-source research communities.",
-      "zh": "检验“PR评审质量评分”能否改善开源研究社区的参与度、评审质量、贡献者留存与治理负担。"
+      "en": "Turn pr review quality scoring into a metric teams can compare, audit, and improve.",
+      "zh": "把PR评审质量评分转化为可比较、可审计、可持续改进的指标。"
     },
     "summary": {
       "en": "PR Review Quality Scoring studies a focused intervention for open-source research communities. The project turns the concept into a falsifiable comparison on GitHub Discussions + PR histories, using Community analytics stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -12569,8 +12569,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "社区声誉校准"
     },
     "tagline": {
-      "en": "Test whether community reputation calibration can improve participation, review quality, contributor retention, and moderation load in open-source research communities.",
-      "zh": "检验“社区声誉校准”能否改善开源研究社区的参与度、评审质量、贡献者留存与治理负担。"
+      "en": "Align confidence with reality through measurable community reputation calibration.",
+      "zh": "通过可度量的社区声誉校准，让系统置信度更贴近真实表现。"
     },
     "summary": {
       "en": "Community Reputation Calibration studies a focused intervention for open-source research communities. The project turns the concept into a falsifiable comparison on GitHub Discussions + PR histories, using Community analytics stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -12634,8 +12634,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "开源想法生命周期跟踪"
     },
     "tagline": {
-      "en": "Test whether open idea lifecycle tracking can improve participation, review quality, contributor retention, and moderation load in open-source research communities.",
-      "zh": "检验“开源想法生命周期跟踪”能否改善开源研究社区的参与度、评审质量、贡献者留存与治理负担。"
+      "en": "Make open idea lifecycle tracking visible early enough for teams to act.",
+      "zh": "让开源想法生命周期跟踪足够早地显现，使团队能够及时行动。"
     },
     "summary": {
       "en": "Open Idea Lifecycle Tracking studies a focused intervention for open-source research communities. The project turns the concept into a falsifiable comparison on GitHub Discussions + PR histories, using Community analytics stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -12699,8 +12699,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "证据—支持辩论规范"
     },
     "tagline": {
-      "en": "Test whether evidence-backed debate norms can improve participation, review quality, contributor retention, and moderation load in open-source research communities.",
-      "zh": "检验“证据—支持辩论规范”能否改善开源研究社区的参与度、评审质量、贡献者留存与治理负担。"
+      "en": "Improve collective decisions by redesigning evidence-backed debate norms around evidence.",
+      "zh": "围绕证据重新设计证据—支持辩论规范，提升群体决策质量。"
     },
     "summary": {
       "en": "Evidence-backed Debate Norms studies a focused intervention for open-source research communities. The project turns the concept into a falsifiable comparison on GitHub Discussions + PR histories, using Community analytics stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -12764,8 +12764,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "共识检测信号"
     },
     "tagline": {
-      "en": "Test whether consensus detection signals can improve participation, review quality, contributor retention, and moderation load in open-source research communities.",
-      "zh": "检验“共识检测信号”能否改善开源研究社区的参与度、评审质量、贡献者留存与治理负担。"
+      "en": "Catch consensus detection signals failures before they undermine open-source research communities.",
+      "zh": "在共识检测信号相关故障影响开源研究社区之前及时识别它们。"
     },
     "summary": {
       "en": "Consensus Detection Signals studies a focused intervention for open-source research communities. The project turns the concept into a falsifiable comparison on GitHub Discussions + PR histories, using Community analytics stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -12829,8 +12829,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "建设性反馈模板"
     },
     "tagline": {
-      "en": "Test whether constructive feedback templates can improve participation, review quality, contributor retention, and moderation load in open-source research communities.",
-      "zh": "检验“建设性反馈模板”能否改善开源研究社区的参与度、评审质量、贡献者留存与治理负担。"
+      "en": "Improve collective decisions by redesigning constructive feedback templates around evidence.",
+      "zh": "围绕证据重新设计建设性反馈模板，提升群体决策质量。"
     },
     "summary": {
       "en": "Constructive Feedback Templates studies a focused intervention for open-source research communities. The project turns the concept into a falsifiable comparison on GitHub Discussions + PR histories, using Community analytics stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -12894,8 +12894,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "跨—语言协作规则"
     },
     "tagline": {
-      "en": "Test whether cross-language collaboration rules can improve participation, review quality, contributor retention, and moderation load in open-source research communities.",
-      "zh": "检验“跨—语言协作规则”能否改善开源研究社区的参与度、评审质量、贡献者留存与治理负担。"
+      "en": "Define a practical cross-language collaboration rules that remains enforceable under real-world pressure.",
+      "zh": "制定在真实压力下仍可执行的跨—语言协作规则方案。"
     },
     "summary": {
       "en": "Cross-language Collaboration Rules studies a focused intervention for open-source research communities. The project turns the concept into a falsifiable comparison on GitHub Discussions + PR histories, using Community analytics stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -12959,8 +12959,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "社区治理手册"
     },
     "tagline": {
-      "en": "Test whether community moderation playbooks can improve participation, review quality, contributor retention, and moderation load in open-source research communities.",
-      "zh": "检验“社区治理手册”能否改善开源研究社区的参与度、评审质量、贡献者留存与治理负担。"
+      "en": "Reveal when community moderation playbooks creates real value—and when it does not.",
+      "zh": "揭示社区治理手册何时创造真实价值，以及何时无效。"
     },
     "summary": {
       "en": "Community Moderation Playbooks studies a focused intervention for open-source research communities. The project turns the concept into a falsifiable comparison on GitHub Discussions + PR histories, using Community analytics stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -13024,8 +13024,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "透明排序治理"
     },
     "tagline": {
-      "en": "Test whether transparent ranking governance can improve participation, review quality, contributor retention, and moderation load in open-source research communities.",
-      "zh": "检验“透明排序治理”能否改善开源研究社区的参与度、评审质量、贡献者留存与治理负担。"
+      "en": "Give teams enforceable rules and audit trails for transparent ranking governance.",
+      "zh": "为透明排序治理建立可执行规则与完整审计轨迹。"
     },
     "summary": {
       "en": "Transparent Ranking Governance studies a focused intervention for open-source research communities. The project turns the concept into a falsifiable comparison on GitHub Discussions + PR histories, using Community analytics stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -13089,8 +13089,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "重复想法检测"
     },
     "tagline": {
-      "en": "Test whether duplicate idea detection can improve participation, review quality, contributor retention, and moderation load in open-source research communities.",
-      "zh": "检验“重复想法检测”能否改善开源研究社区的参与度、评审质量、贡献者留存与治理负担。"
+      "en": "Catch duplicate idea detection failures before they undermine open-source research communities.",
+      "zh": "在重复想法检测相关故障影响开源研究社区之前及时识别它们。"
     },
     "summary": {
       "en": "Duplicate Idea Detection studies a focused intervention for open-source research communities. The project turns the concept into a falsifiable comparison on GitHub Discussions + PR histories, using Community analytics stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -13154,8 +13154,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "开源评审激励设计"
     },
     "tagline": {
-      "en": "Test whether open review incentive design can improve participation, review quality, contributor retention, and moderation load in open-source research communities.",
-      "zh": "检验“开源评审激励设计”能否改善开源研究社区的参与度、评审质量、贡献者留存与治理负担。"
+      "en": "Improve collective decisions by redesigning open review incentive design around evidence.",
+      "zh": "围绕证据重新设计开源评审激励设计，提升群体决策质量。"
     },
     "summary": {
       "en": "Open Review Incentive Design studies a focused intervention for open-source research communities. The project turns the concept into a falsifiable comparison on GitHub Discussions + PR histories, using Community analytics stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",
@@ -13219,8 +13219,8 @@ export const demoIdeas: DemoIdea[] = [
       "zh": "讨论—转—实验转化"
     },
     "tagline": {
-      "en": "Test whether discussion-to-experiment conversion can improve participation, review quality, contributor retention, and moderation load in open-source research communities.",
-      "zh": "检验“讨论—转—实验转化”能否改善开源研究社区的参与度、评审质量、贡献者留存与治理负担。"
+      "en": "Map the benefits, costs, and failure modes of discussion-to-experiment conversion.",
+      "zh": "系统描绘讨论—转—实验转化的收益、成本与失败模式。"
     },
     "summary": {
       "en": "Discussion-to-experiment Conversion studies a focused intervention for open-source research communities. The project turns the concept into a falsifiable comparison on GitHub Discussions + PR histories, using Community analytics stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.",

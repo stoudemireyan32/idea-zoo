@@ -32,10 +32,10 @@ Alignment Tax Measurement
 对齐代价测量
 
 ## Tagline EN
-Test whether alignment tax measurement can improve task utility, policy compliance, and training efficiency in aligned language models.
+Turn alignment tax measurement into a metric teams can compare, audit, and improve.
 
 ## Tagline ZH
-检验“对齐代价测量”能否改善对齐后的语言模型的任务效用、策略遵循度与训练效率。
+把对齐代价测量转化为可比较、可审计、可持续改进的指标。
 
 ## Summary EN
 Alignment Tax Measurement studies a focused intervention for aligned language models. The project turns the concept into a falsifiable comparison on UltraFeedback, HH-RLHF, Arena traces, using Llama-3.1 / Qwen instruct checkpoints as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

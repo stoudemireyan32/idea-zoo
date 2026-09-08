@@ -32,10 +32,10 @@ Execution Trace Replay Debugging
 执行轨迹回放调试
 
 ## Tagline EN
-Test whether execution trace replay debugging can improve task success, intervention rate, and execution cost in tool-using agents.
+Move execution trace replay debugging from a promising concept to a falsifiable experiment.
 
 ## Tagline ZH
-检验“执行轨迹回放调试”能否改善工具型智能体的任务成功率、人工介入率与执行成本。
+把执行轨迹回放调试从有潜力的概念推进为可证伪实验。
 
 ## Summary EN
 Execution Trace Replay Debugging studies a focused intervention for tool-using agents. The project turns the concept into a falsifiable comparison on ToolBench, APIBench, internal traces, using Planner LLM + tool adapters as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

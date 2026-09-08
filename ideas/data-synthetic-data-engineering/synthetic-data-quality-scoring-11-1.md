@@ -32,10 +32,10 @@ Synthetic Data Quality Scoring
 合成数据质量评分
 
 ## Tagline EN
-Test whether synthetic data quality scoring can improve data quality, coverage, leakage risk, and production cost in training-data pipelines.
+Turn synthetic data quality scoring into a metric teams can compare, audit, and improve.
 
 ## Tagline ZH
-检验“合成数据质量评分”能否改善训练数据流水线的数据质量、覆盖度、泄漏风险与生产成本。
+把合成数据质量评分转化为可比较、可审计、可持续改进的指标。
 
 ## Summary EN
 Synthetic Data Quality Scoring studies a focused intervention for training-data pipelines. The project turns the concept into a falsifiable comparison on Synthetic + curated open corpora, using Data engine + teacher LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

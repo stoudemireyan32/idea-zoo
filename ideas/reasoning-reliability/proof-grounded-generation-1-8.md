@@ -32,10 +32,10 @@ Proof-grounded Generation
 证明约束生成
 
 ## Tagline EN
-Test whether proof-grounded generation can improve answer accuracy, calibration error, and reasoning cost in reasoning systems.
+Produce better research inputs through controlled proof-grounded generation, not blind scale.
 
 ## Tagline ZH
-检验“证明约束生成”能否改善推理系统的答案准确率、校准误差与推理成本。
+以受控的证明约束生成提升研究输入质量，而不是盲目追求规模。
 
 ## Summary EN
 Proof-grounded Generation studies a focused intervention for reasoning systems. The project turns the concept into a falsifiable comparison on MATH-500, GPQA, ProofWriter, using Qwen3 / DeepSeek-R1 Distill as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

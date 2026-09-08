@@ -32,10 +32,10 @@ Data Freshness Pipeline
 数据新鲜度流水线
 
 ## Tagline EN
-Test whether data freshness pipeline can improve data quality, coverage, leakage risk, and production cost in training-data pipelines.
+Turn data freshness pipeline into a workflow contributors can inspect and reproduce.
 
 ## Tagline ZH
-检验“数据新鲜度流水线”能否改善训练数据流水线的数据质量、覆盖度、泄漏风险与生产成本。
+把数据新鲜度流水线变成贡献者能够检查和复现的工作流。
 
 ## Summary EN
 Data Freshness Pipeline studies a focused intervention for training-data pipelines. The project turns the concept into a falsifiable comparison on Synthetic + curated open corpora, using Data engine + teacher LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

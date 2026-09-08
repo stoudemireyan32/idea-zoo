@@ -32,10 +32,10 @@ Domain Adaptation For Enterprise RAG
 领域适配面向企业级RAG
 
 ## Tagline EN
-Test whether domain adaptation for enterprise rag can improve evidence recall, citation precision, and retrieval latency in retrieval pipelines.
+Find the operating conditions where domain adaptation for enterprise rag remains dependable.
 
 ## Tagline ZH
-检验“领域适配面向企业级RAG”能否改善检索与记忆流水线的证据召回率、引用准确率与检索时延。
+找出领域适配面向企业级RAG能够保持可靠的运行条件。
 
 ## Summary EN
 Domain Adaptation For Enterprise RAG studies a focused intervention for retrieval pipelines. The project turns the concept into a falsifiable comparison on NQ, HotpotQA, TimeQA, using BGE + reranker + GPT-style generator as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

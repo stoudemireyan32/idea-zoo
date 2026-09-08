@@ -32,10 +32,10 @@ Alignment Under Domain Shift
 对齐应对领域偏移
 
 ## Tagline EN
-Test whether alignment under domain shift can improve task utility, policy compliance, and training efficiency in aligned language models.
+Reveal when alignment under domain shift creates real value—and when it does not.
 
 ## Tagline ZH
-检验“对齐应对领域偏移”能否改善对齐后的语言模型的任务效用、策略遵循度与训练效率。
+揭示对齐应对领域偏移何时创造真实价值，以及何时无效。
 
 ## Summary EN
 Alignment Under Domain Shift studies a focused intervention for aligned language models. The project turns the concept into a falsifiable comparison on UltraFeedback, HH-RLHF, Arena traces, using Llama-3.1 / Qwen instruct checkpoints as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

@@ -32,10 +32,10 @@ Governance-ready Evaluation
 治理—就绪评测
 
 ## Tagline EN
-Test whether governance-ready evaluation can improve risk recall, false-positive rate, and auditability in AI governance controls.
+A reproducible test bed for measuring governance-ready evaluation across real operating conditions.
 
 ## Tagline ZH
-检验“治理—就绪评测”能否改善AI 治理控制机制的风险召回率、误报率与可审计性。
+建立可复现测试平台，在真实运行条件下衡量治理—就绪评测。
 
 ## Summary EN
 Governance-ready Evaluation studies a focused intervention for AI governance controls. The project turns the concept into a falsifiable comparison on Safety benchmarks + policy corpora, using Safety classifier + LLM judge as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

@@ -32,10 +32,10 @@ Energy-aware Serving Policies
 能耗—感知服务策略
 
 ## Tagline EN
-Test whether energy-aware serving policies can improve latency, throughput, memory use, and output quality in model-serving systems.
+Define a practical energy-aware serving policies that remains enforceable under real-world pressure.
 
 ## Tagline ZH
-检验“能耗—感知服务策略”能否改善模型服务系统的时延、吞吐量、内存占用与输出质量。
+制定在真实压力下仍可执行的能耗—感知服务策略方案。
 
 ## Summary EN
 Energy-aware Serving Policies studies a focused intervention for model-serving systems. The project turns the concept into a falsifiable comparison on Synthetic production traces, using vLLM mixed model pool as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

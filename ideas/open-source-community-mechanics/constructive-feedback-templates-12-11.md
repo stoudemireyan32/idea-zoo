@@ -32,10 +32,10 @@ Constructive Feedback Templates
 建设性反馈模板
 
 ## Tagline EN
-Test whether constructive feedback templates can improve participation, review quality, contributor retention, and moderation load in open-source research communities.
+Improve collective decisions by redesigning constructive feedback templates around evidence.
 
 ## Tagline ZH
-检验“建设性反馈模板”能否改善开源研究社区的参与度、评审质量、贡献者留存与治理负担。
+围绕证据重新设计建设性反馈模板，提升群体决策质量。
 
 ## Summary EN
 Constructive Feedback Templates studies a focused intervention for open-source research communities. The project turns the concept into a falsifiable comparison on GitHub Discussions + PR histories, using Community analytics stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

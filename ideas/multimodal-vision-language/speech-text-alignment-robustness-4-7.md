@@ -32,10 +32,10 @@ Speech-text Alignment Robustness
 语音—文本对齐鲁棒性
 
 ## Tagline EN
-Test whether speech-text alignment robustness can improve grounding accuracy, robustness, and inference cost in multimodal models.
+Stress-test speech-text alignment robustness beyond clean benchmarks and ideal inputs.
 
 ## Tagline ZH
-检验“语音—文本对齐鲁棒性”能否改善多模态模型的定位准确率、鲁棒性与推理成本。
+让语音—文本对齐鲁棒性接受超越理想输入和标准基准的压力测试。
 
 ## Summary EN
 Speech-text Alignment Robustness studies a focused intervention for multimodal models. The project turns the concept into a falsifiable comparison on MMBench, DocVQA, VideoQA, using Qwen-VL / LLaVA-NeXT as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

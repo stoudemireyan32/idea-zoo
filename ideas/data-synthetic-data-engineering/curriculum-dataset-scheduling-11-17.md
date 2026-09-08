@@ -32,10 +32,10 @@ Curriculum Dataset Scheduling
 课程式数据集调度
 
 ## Tagline EN
-Test whether curriculum dataset scheduling can improve data quality, coverage, leakage risk, and production cost in training-data pipelines.
+Schedule limited resources around curriculum dataset scheduling without sacrificing quality.
 
 ## Tagline ZH
-检验“课程式数据集调度”能否改善训练数据流水线的数据质量、覆盖度、泄漏风险与生产成本。
+围绕课程式数据集调度调度有限资源，同时守住质量底线。
 
 ## Summary EN
 Curriculum Dataset Scheduling studies a focused intervention for training-data pipelines. The project turns the concept into a falsifiable comparison on Synthetic + curated open corpora, using Data engine + teacher LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

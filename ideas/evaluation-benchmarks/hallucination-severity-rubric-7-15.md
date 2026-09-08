@@ -32,10 +32,10 @@ Hallucination Severity Rubric
 幻觉严重度量表
 
 ## Tagline EN
-Test whether hallucination severity rubric can improve validity, coverage, reproducibility, and evaluation cost in AI evaluation suites.
+Build an evidence-backed case for—or against—hallucination severity rubric.
 
 ## Tagline ZH
-检验“幻觉严重度量表”能否改善AI 评测体系的有效性、覆盖度、可复现性与评测成本。
+用实验证据判断幻觉严重度量表究竟是否值得采用。
 
 ## Summary EN
 Hallucination Severity Rubric studies a focused intervention for AI evaluation suites. The project turns the concept into a falsifiable comparison on LongBench, TruthfulQA, custom eval sets, using Evaluator ensemble as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

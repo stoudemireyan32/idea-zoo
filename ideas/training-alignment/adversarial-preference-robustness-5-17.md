@@ -32,10 +32,10 @@ Adversarial Preference Robustness
 对抗偏好鲁棒性
 
 ## Tagline EN
-Test whether adversarial preference robustness can improve task utility, policy compliance, and training efficiency in aligned language models.
+Stress-test adversarial preference robustness beyond clean benchmarks and ideal inputs.
 
 ## Tagline ZH
-检验“对抗偏好鲁棒性”能否改善对齐后的语言模型的任务效用、策略遵循度与训练效率。
+让对抗偏好鲁棒性接受超越理想输入和标准基准的压力测试。
 
 ## Summary EN
 Adversarial Preference Robustness studies a focused intervention for aligned language models. The project turns the concept into a falsifiable comparison on UltraFeedback, HH-RLHF, Arena traces, using Llama-3.1 / Qwen instruct checkpoints as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

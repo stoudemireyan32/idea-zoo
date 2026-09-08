@@ -32,10 +32,10 @@ Discussion-to-experiment Conversion
 讨论—转—实验转化
 
 ## Tagline EN
-Test whether discussion-to-experiment conversion can improve participation, review quality, contributor retention, and moderation load in open-source research communities.
+Map the benefits, costs, and failure modes of discussion-to-experiment conversion.
 
 ## Tagline ZH
-检验“讨论—转—实验转化”能否改善开源研究社区的参与度、评审质量、贡献者留存与治理负担。
+系统描绘讨论—转—实验转化的收益、成本与失败模式。
 
 ## Summary EN
 Discussion-to-experiment Conversion studies a focused intervention for open-source research communities. The project turns the concept into a falsifiable comparison on GitHub Discussions + PR histories, using Community analytics stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

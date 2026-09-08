@@ -32,10 +32,10 @@ Molecule Property Forecasting
 分子性质预测
 
 ## Tagline EN
-Test whether molecule property forecasting can improve hit rate, uncertainty calibration, and experiment cost in scientific discovery workflows.
+Make molecule property forecasting useful by attaching calibrated uncertainty to every prediction.
 
 ## Tagline ZH
-检验“分子性质预测”能否改善科学发现流程的命中率、不确定性校准与实验成本。
+为每次预测附带校准后的不确定性，让分子性质预测真正可用。
 
 ## Summary EN
 Molecule Property Forecasting studies a focused intervention for scientific discovery workflows. The project turns the concept into a falsifiable comparison on Papers, domain corpora, experiment logs, using SciBERT + planner LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

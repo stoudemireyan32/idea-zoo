@@ -32,10 +32,10 @@ Deliberation Depth Routing
 思考深度路由
 
 ## Tagline EN
-Test whether deliberation depth routing can improve answer accuracy, calibration error, and reasoning cost in reasoning systems.
+Send each workload down the right path with deliberation depth routing.
 
 ## Tagline ZH
-检验“思考深度路由”能否改善推理系统的答案准确率、校准误差与推理成本。
+利用思考深度路由为每项负载选择合适的处理路径。
 
 ## Summary EN
 Deliberation Depth Routing studies a focused intervention for reasoning systems. The project turns the concept into a falsifiable comparison on MATH-500, GPQA, ProofWriter, using Qwen3 / DeepSeek-R1 Distill as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

@@ -32,10 +32,10 @@ Red-team Reproducibility Kit
 红队—团队可复现性工具包
 
 ## Tagline EN
-Test whether red-team reproducibility kit can improve validity, coverage, reproducibility, and evaluation cost in AI evaluation suites.
+Find the operating conditions where red-team reproducibility kit remains dependable.
 
 ## Tagline ZH
-检验“红队—团队可复现性工具包”能否改善AI 评测体系的有效性、覆盖度、可复现性与评测成本。
+找出红队—团队可复现性工具包能够保持可靠的运行条件。
 
 ## Summary EN
 Red-team Reproducibility Kit studies a focused intervention for AI evaluation suites. The project turns the concept into a falsifiable comparison on LongBench, TruthfulQA, custom eval sets, using Evaluator ensemble as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

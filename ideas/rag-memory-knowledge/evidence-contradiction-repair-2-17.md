@@ -32,10 +32,10 @@ Evidence Contradiction Repair
 证据矛盾修复
 
 ## Tagline EN
-Test whether evidence contradiction repair can improve evidence recall, citation precision, and retrieval latency in retrieval pipelines.
+Help retrieval pipelines recover safely through evidence contradiction repair instead of starting over.
 
 ## Tagline ZH
-检验“证据矛盾修复”能否改善检索与记忆流水线的证据召回率、引用准确率与检索时延。
+让检索与记忆流水线借助证据矛盾修复安全恢复，而不是从头再来。
 
 ## Summary EN
 Evidence Contradiction Repair studies a focused intervention for retrieval pipelines. The project turns the concept into a falsifiable comparison on NQ, HotpotQA, TimeQA, using BGE + reranker + GPT-style generator as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

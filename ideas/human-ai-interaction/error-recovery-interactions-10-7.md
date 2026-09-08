@@ -32,10 +32,10 @@ Error Recovery Interactions
 错误恢复交互
 
 ## Tagline EN
-Test whether error recovery interactions can improve task completion, user effort, trust calibration, and accessibility in human-AI interfaces.
+Help human-AI interfaces recover safely through error recovery interactions instead of starting over.
 
 ## Tagline ZH
-检验“错误恢复交互”能否改善人机协作界面的任务完成率、用户负担、信任校准与可访问性。
+让人机协作界面借助错误恢复交互安全恢复，而不是从头再来。
 
 ## Summary EN
 Error Recovery Interactions studies a focused intervention for human-AI interfaces. The project turns the concept into a falsifiable comparison on User study logs + dialogue corpora, using General assistant model stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

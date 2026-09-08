@@ -32,10 +32,10 @@ Risk-sensitive Finetuning
 风险—敏感微调
 
 ## Tagline EN
-Test whether risk-sensitive finetuning can improve task utility, policy compliance, and training efficiency in aligned language models.
+Reveal when risk-sensitive finetuning creates real value—and when it does not.
 
 ## Tagline ZH
-检验“风险—敏感微调”能否改善对齐后的语言模型的任务效用、策略遵循度与训练效率。
+揭示风险—敏感微调何时创造真实价值，以及何时无效。
 
 ## Summary EN
 Risk-sensitive Finetuning studies a focused intervention for aligned language models. The project turns the concept into a falsifiable comparison on UltraFeedback, HH-RLHF, Arena traces, using Llama-3.1 / Qwen instruct checkpoints as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

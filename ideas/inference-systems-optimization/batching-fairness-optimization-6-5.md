@@ -32,10 +32,10 @@ Batching Fairness Optimization
 批处理公平性优化
 
 ## Tagline EN
-Test whether batching fairness optimization can improve latency, throughput, memory use, and output quality in model-serving systems.
+Find the practical quality–cost frontier for batching fairness optimization in model-serving systems.
 
 ## Tagline ZH
-检验“批处理公平性优化”能否改善模型服务系统的时延、吞吐量、内存占用与输出质量。
+寻找模型服务系统采用批处理公平性优化时切实可行的质量—成本边界。
 
 ## Summary EN
 Batching Fairness Optimization studies a focused intervention for model-serving systems. The project turns the concept into a falsifiable comparison on Synthetic production traces, using vLLM mixed model pool as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

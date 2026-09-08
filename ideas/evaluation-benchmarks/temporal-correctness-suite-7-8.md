@@ -32,10 +32,10 @@ Temporal Correctness Suite
 时序正确性套件
 
 ## Tagline EN
-Test whether temporal correctness suite can improve validity, coverage, reproducibility, and evaluation cost in AI evaluation suites.
+A reproducible test bed for measuring temporal correctness suite across real operating conditions.
 
 ## Tagline ZH
-检验“时序正确性套件”能否改善AI 评测体系的有效性、覆盖度、可复现性与评测成本。
+建立可复现测试平台，在真实运行条件下衡量时序正确性套件。
 
 ## Summary EN
 Temporal Correctness Suite studies a focused intervention for AI evaluation suites. The project turns the concept into a falsifiable comparison on LongBench, TruthfulQA, custom eval sets, using Evaluator ensemble as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

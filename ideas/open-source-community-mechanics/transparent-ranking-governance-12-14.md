@@ -32,10 +32,10 @@ Transparent Ranking Governance
 透明排序治理
 
 ## Tagline EN
-Test whether transparent ranking governance can improve participation, review quality, contributor retention, and moderation load in open-source research communities.
+Give teams enforceable rules and audit trails for transparent ranking governance.
 
 ## Tagline ZH
-检验“透明排序治理”能否改善开源研究社区的参与度、评审质量、贡献者留存与治理负担。
+为透明排序治理建立可执行规则与完整审计轨迹。
 
 ## Summary EN
 Transparent Ranking Governance studies a focused intervention for open-source research communities. The project turns the concept into a falsifiable comparison on GitHub Discussions + PR histories, using Community analytics stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

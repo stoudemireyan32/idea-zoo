@@ -32,10 +32,10 @@ Causal Trace Alignment
 因果轨迹对齐
 
 ## Tagline EN
-Test whether causal trace alignment can improve answer accuracy, calibration error, and reasoning cost in reasoning systems.
+Measure where causal trace alignment holds—and where it quietly breaks.
 
 ## Tagline ZH
-检验“因果轨迹对齐”能否改善推理系统的答案准确率、校准误差与推理成本。
+衡量因果轨迹对齐在何处成立，又在何处悄然失效。
 
 ## Summary EN
 Causal Trace Alignment studies a focused intervention for reasoning systems. The project turns the concept into a falsifiable comparison on MATH-500, GPQA, ProofWriter, using Qwen3 / DeepSeek-R1 Distill as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

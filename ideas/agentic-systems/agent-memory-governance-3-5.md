@@ -32,10 +32,10 @@ Agent Memory Governance
 智能体内存治理
 
 ## Tagline EN
-Test whether agent memory governance can improve task success, intervention rate, and execution cost in tool-using agents.
+Give teams enforceable rules and audit trails for agent memory governance.
 
 ## Tagline ZH
-检验“智能体内存治理”能否改善工具型智能体的任务成功率、人工介入率与执行成本。
+为智能体内存治理建立可执行规则与完整审计轨迹。
 
 ## Summary EN
 Agent Memory Governance studies a focused intervention for tool-using agents. The project turns the concept into a falsifiable comparison on ToolBench, APIBench, internal traces, using Planner LLM + tool adapters as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

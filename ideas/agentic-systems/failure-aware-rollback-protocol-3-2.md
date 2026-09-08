@@ -32,10 +32,10 @@ Failure-aware Rollback Protocol
 失败—感知回滚协议
 
 ## Tagline EN
-Test whether failure-aware rollback protocol can improve task success, intervention rate, and execution cost in tool-using agents.
+Define a practical failure-aware rollback protocol that remains enforceable under real-world pressure.
 
 ## Tagline ZH
-检验“失败—感知回滚协议”能否改善工具型智能体的任务成功率、人工介入率与执行成本。
+制定在真实压力下仍可执行的失败—感知回滚协议方案。
 
 ## Summary EN
 Failure-aware Rollback Protocol studies a focused intervention for tool-using agents. The project turns the concept into a falsifiable comparison on ToolBench, APIBench, internal traces, using Planner LLM + tool adapters as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

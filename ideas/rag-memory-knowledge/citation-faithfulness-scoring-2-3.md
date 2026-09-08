@@ -32,10 +32,10 @@ Citation Faithfulness Scoring
 引用忠实度评分
 
 ## Tagline EN
-Test whether citation faithfulness scoring can improve evidence recall, citation precision, and retrieval latency in retrieval pipelines.
+Turn citation faithfulness scoring into a metric teams can compare, audit, and improve.
 
 ## Tagline ZH
-检验“引用忠实度评分”能否改善检索与记忆流水线的证据召回率、引用准确率与检索时延。
+把引用忠实度评分转化为可比较、可审计、可持续改进的指标。
 
 ## Summary EN
 Citation Faithfulness Scoring studies a focused intervention for retrieval pipelines. The project turns the concept into a falsifiable comparison on NQ, HotpotQA, TimeQA, using BGE + reranker + GPT-style generator as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

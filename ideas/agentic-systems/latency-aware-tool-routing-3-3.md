@@ -32,10 +32,10 @@ Latency-aware Tool Routing
 时延—感知工具路由
 
 ## Tagline EN
-Test whether latency-aware tool routing can improve task success, intervention rate, and execution cost in tool-using agents.
+Send each workload down the right path with latency-aware tool routing.
 
 ## Tagline ZH
-检验“时延—感知工具路由”能否改善工具型智能体的任务成功率、人工介入率与执行成本。
+利用时延—感知工具路由为每项负载选择合适的处理路径。
 
 ## Summary EN
 Latency-aware Tool Routing studies a focused intervention for tool-using agents. The project turns the concept into a falsifiable comparison on ToolBench, APIBench, internal traces, using Planner LLM + tool adapters as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

@@ -32,10 +32,10 @@ Human Interrupt Alignment
 人工中断对齐
 
 ## Tagline EN
-Test whether human interrupt alignment can improve task success, intervention rate, and execution cost in tool-using agents.
+Measure where human interrupt alignment holds—and where it quietly breaks.
 
 ## Tagline ZH
-检验“人工中断对齐”能否改善工具型智能体的任务成功率、人工介入率与执行成本。
+衡量人工中断对齐在何处成立，又在何处悄然失效。
 
 ## Summary EN
 Human Interrupt Alignment studies a focused intervention for tool-using agents. The project turns the concept into a falsifiable comparison on ToolBench, APIBench, internal traces, using Planner LLM + tool adapters as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

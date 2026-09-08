@@ -32,10 +32,10 @@ Error-aware Self-correction
 错误感知自我修正
 
 ## Tagline EN
-Test whether error-aware self-correction can improve answer accuracy, calibration error, and reasoning cost in reasoning systems.
+Help reasoning systems recover safely through error-aware self-correction instead of starting over.
 
 ## Tagline ZH
-检验“错误感知自我修正”能否改善推理系统的答案准确率、校准误差与推理成本。
+让推理系统借助错误感知自我修正安全恢复，而不是从头再来。
 
 ## Summary EN
 Error-aware Self-correction studies a focused intervention for reasoning systems. The project turns the concept into a falsifiable comparison on MATH-500, GPQA, ProofWriter, using Qwen3 / DeepSeek-R1 Distill as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

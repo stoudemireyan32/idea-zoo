@@ -32,10 +32,10 @@ Cross-lingual Retrieval Consistency
 跨—语言检索一致性
 
 ## Tagline EN
-Test whether cross-lingual retrieval consistency can improve evidence recall, citation precision, and retrieval latency in retrieval pipelines.
+Surface stronger evidence with cross-lingual retrieval consistency while keeping provenance intact.
 
 ## Tagline ZH
-检验“跨—语言检索一致性”能否改善检索与记忆流水线的证据召回率、引用准确率与检索时延。
+利用跨—语言检索一致性找到更有力的证据，同时保留完整来源链。
 
 ## Summary EN
 Cross-lingual Retrieval Consistency studies a focused intervention for retrieval pipelines. The project turns the concept into a falsifiable comparison on NQ, HotpotQA, TimeQA, using BGE + reranker + GPT-style generator as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

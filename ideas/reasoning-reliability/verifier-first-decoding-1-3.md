@@ -32,10 +32,10 @@ Verifier-first Decoding
 验证器优先解码
 
 ## Tagline EN
-Test whether verifier-first decoding can improve answer accuracy, calibration error, and reasoning cost in reasoning systems.
+Find the operating conditions where verifier-first decoding remains dependable.
 
 ## Tagline ZH
-检验“验证器优先解码”能否改善推理系统的答案准确率、校准误差与推理成本。
+找出验证器优先解码能够保持可靠的运行条件。
 
 ## Summary EN
 Verifier-first Decoding studies a focused intervention for reasoning systems. The project turns the concept into a falsifiable comparison on MATH-500, GPQA, ProofWriter, using Qwen3 / DeepSeek-R1 Distill as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

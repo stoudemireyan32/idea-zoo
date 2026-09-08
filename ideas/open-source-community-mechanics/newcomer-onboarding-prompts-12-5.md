@@ -32,10 +32,10 @@ Newcomer Onboarding Prompts
 新贡献者引导提示
 
 ## Tagline EN
-Test whether newcomer onboarding prompts can improve participation, review quality, contributor retention, and moderation load in open-source research communities.
+Move newcomer onboarding prompts from a promising concept to a falsifiable experiment.
 
 ## Tagline ZH
-检验“新贡献者引导提示”能否改善开源研究社区的参与度、评审质量、贡献者留存与治理负担。
+把新贡献者引导提示从有潜力的概念推进为可证伪实验。
 
 ## Summary EN
 Newcomer Onboarding Prompts studies a focused intervention for open-source research communities. The project turns the concept into a falsifiable comparison on GitHub Discussions + PR histories, using Community analytics stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

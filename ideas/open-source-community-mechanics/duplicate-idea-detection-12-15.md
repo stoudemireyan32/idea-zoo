@@ -32,10 +32,10 @@ Duplicate Idea Detection
 重复想法检测
 
 ## Tagline EN
-Test whether duplicate idea detection can improve participation, review quality, contributor retention, and moderation load in open-source research communities.
+Catch duplicate idea detection failures before they undermine open-source research communities.
 
 ## Tagline ZH
-检验“重复想法检测”能否改善开源研究社区的参与度、评审质量、贡献者留存与治理负担。
+在重复想法检测相关故障影响开源研究社区之前及时识别它们。
 
 ## Summary EN
 Duplicate Idea Detection studies a focused intervention for open-source research communities. The project turns the concept into a falsifiable comparison on GitHub Discussions + PR histories, using Community analytics stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

@@ -32,10 +32,10 @@ Human Feedback Consistency
 人工反馈一致性
 
 ## Tagline EN
-Test whether human feedback consistency can improve task utility, policy compliance, and training efficiency in aligned language models.
+Stress-test human feedback consistency beyond clean benchmarks and ideal inputs.
 
 ## Tagline ZH
-检验“人工反馈一致性”能否改善对齐后的语言模型的任务效用、策略遵循度与训练效率。
+让人工反馈一致性接受超越理想输入和标准基准的压力测试。
 
 ## Summary EN
 Human Feedback Consistency studies a focused intervention for aligned language models. The project turns the concept into a falsifiable comparison on UltraFeedback, HH-RLHF, Arena traces, using Llama-3.1 / Qwen instruct checkpoints as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

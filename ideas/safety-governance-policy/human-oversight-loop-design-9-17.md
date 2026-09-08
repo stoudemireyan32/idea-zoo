@@ -32,10 +32,10 @@ Human Oversight Loop Design
 人工监督闭环设计
 
 ## Tagline EN
-Test whether human oversight loop design can improve risk recall, false-positive rate, and auditability in AI governance controls.
+Map the benefits, costs, and failure modes of human oversight loop design.
 
 ## Tagline ZH
-检验“人工监督闭环设计”能否改善AI 治理控制机制的风险召回率、误报率与可审计性。
+系统描绘人工监督闭环设计的收益、成本与失败模式。
 
 ## Summary EN
 Human Oversight Loop Design studies a focused intervention for AI governance controls. The project turns the concept into a falsifiable comparison on Safety benchmarks + policy corpora, using Safety classifier + LLM judge as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

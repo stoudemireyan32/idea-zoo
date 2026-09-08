@@ -32,10 +32,10 @@ Reaction Pathway Recommendation
 反应路径推荐
 
 ## Tagline EN
-Test whether reaction pathway recommendation can improve hit rate, uncertainty calibration, and experiment cost in scientific discovery workflows.
+Rank actionable candidates through evidence-aware reaction pathway recommendation.
 
 ## Tagline ZH
-检验“反应路径推荐”能否改善科学发现流程的命中率、不确定性校准与实验成本。
+通过证据感知的反应路径推荐对可行动候选项进行排序。
 
 ## Summary EN
 Reaction Pathway Recommendation studies a focused intervention for scientific discovery workflows. The project turns the concept into a falsifiable comparison on Papers, domain corpora, experiment logs, using SciBERT + planner LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

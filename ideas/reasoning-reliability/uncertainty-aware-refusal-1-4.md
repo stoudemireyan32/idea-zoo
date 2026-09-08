@@ -32,10 +32,10 @@ Uncertainty-aware Refusal
 不确定性感知拒答
 
 ## Tagline EN
-Test whether uncertainty-aware refusal can improve answer accuracy, calibration error, and reasoning cost in reasoning systems.
+Build an evidence-backed case for—or against—uncertainty-aware refusal.
 
 ## Tagline ZH
-检验“不确定性感知拒答”能否改善推理系统的答案准确率、校准误差与推理成本。
+用实验证据判断不确定性感知拒答究竟是否值得采用。
 
 ## Summary EN
 Uncertainty-aware Refusal studies a focused intervention for reasoning systems. The project turns the concept into a falsifiable comparison on MATH-500, GPQA, ProofWriter, using Qwen3 / DeepSeek-R1 Distill as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

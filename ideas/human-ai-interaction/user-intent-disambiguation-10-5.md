@@ -32,10 +32,10 @@ User Intent Disambiguation
 用户意图消歧
 
 ## Tagline EN
-Test whether user intent disambiguation can improve task completion, user effort, trust calibration, and accessibility in human-AI interfaces.
+Find the operating conditions where user intent disambiguation remains dependable.
 
 ## Tagline ZH
-检验“用户意图消歧”能否改善人机协作界面的任务完成率、用户负担、信任校准与可访问性。
+找出用户意图消歧能够保持可靠的运行条件。
 
 ## Summary EN
 User Intent Disambiguation studies a focused intervention for human-AI interfaces. The project turns the concept into a falsifiable comparison on User study logs + dialogue corpora, using General assistant model stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

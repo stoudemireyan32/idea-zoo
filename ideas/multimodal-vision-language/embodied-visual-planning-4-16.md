@@ -32,10 +32,10 @@ Embodied Visual Planning
 具身视觉规划
 
 ## Tagline EN
-Test whether embodied visual planning can improve grounding accuracy, robustness, and inference cost in multimodal models.
+Make embodied visual planning explicit, testable, and resilient to changing conditions.
 
 ## Tagline ZH
-检验“具身视觉规划”能否改善多模态模型的定位准确率、鲁棒性与推理成本。
+让具身视觉规划变得显式、可测试，并能适应条件变化。
 
 ## Summary EN
 Embodied Visual Planning studies a focused intervention for multimodal models. The project turns the concept into a falsifiable comparison on MMBench, DocVQA, VideoQA, using Qwen-VL / LLaVA-NeXT as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

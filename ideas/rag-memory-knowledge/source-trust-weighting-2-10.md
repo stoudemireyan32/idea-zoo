@@ -32,10 +32,10 @@ Source Trust Weighting
 来源信任加权
 
 ## Tagline EN
-Test whether source trust weighting can improve evidence recall, citation precision, and retrieval latency in retrieval pipelines.
+Move source trust weighting from a promising concept to a falsifiable experiment.
 
 ## Tagline ZH
-检验“来源信任加权”能否改善检索与记忆流水线的证据召回率、引用准确率与检索时延。
+把来源信任加权从有潜力的概念推进为可证伪实验。
 
 ## Summary EN
 Source Trust Weighting studies a focused intervention for retrieval pipelines. The project turns the concept into a falsifiable comparison on NQ, HotpotQA, TimeQA, using BGE + reranker + GPT-style generator as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

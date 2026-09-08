@@ -32,10 +32,10 @@ Task Decomposition Quality Metric
 任务分解质量指标
 
 ## Tagline EN
-Test whether task decomposition quality metric can improve task success, intervention rate, and execution cost in tool-using agents.
+Turn task decomposition quality metric into a metric teams can compare, audit, and improve.
 
 ## Tagline ZH
-检验“任务分解质量指标”能否改善工具型智能体的任务成功率、人工介入率与执行成本。
+把任务分解质量指标转化为可比较、可审计、可持续改进的指标。
 
 ## Summary EN
 Task Decomposition Quality Metric studies a focused intervention for tool-using agents. The project turns the concept into a falsifiable comparison on ToolBench, APIBench, internal traces, using Planner LLM + tool adapters as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

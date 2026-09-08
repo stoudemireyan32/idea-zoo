@@ -32,10 +32,10 @@ Tool Schema Drift Recovery
 工具模式漂移恢复
 
 ## Tagline EN
-Test whether tool schema drift recovery can improve task success, intervention rate, and execution cost in tool-using agents.
+Help tool-using agents recover safely through tool schema drift recovery instead of starting over.
 
 ## Tagline ZH
-检验“工具模式漂移恢复”能否改善工具型智能体的任务成功率、人工介入率与执行成本。
+让工具型智能体借助工具模式漂移恢复安全恢复，而不是从头再来。
 
 ## Summary EN
 Tool Schema Drift Recovery studies a focused intervention for tool-using agents. The project turns the concept into a falsifiable comparison on ToolBench, APIBench, internal traces, using Planner LLM + tool adapters as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

@@ -32,10 +32,10 @@ Adaptive Explanation Depth
 自适应解释深度
 
 ## Tagline EN
-Test whether adaptive explanation depth can improve task completion, user effort, trust calibration, and accessibility in human-AI interfaces.
+Build an evidence-backed case for—or against—adaptive explanation depth.
 
 ## Tagline ZH
-检验“自适应解释深度”能否改善人机协作界面的任务完成率、用户负担、信任校准与可访问性。
+用实验证据判断自适应解释深度究竟是否值得采用。
 
 ## Summary EN
 Adaptive Explanation Depth studies a focused intervention for human-AI interfaces. The project turns the concept into a falsifiable comparison on User study logs + dialogue corpora, using General assistant model stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

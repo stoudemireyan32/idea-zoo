@@ -32,10 +32,10 @@ Multi-image Consistency Checking
 多—图像一致性检查
 
 ## Tagline EN
-Test whether multi-image consistency checking can improve grounding accuracy, robustness, and inference cost in multimodal models.
+Expose hidden errors by making multi-image consistency checking systematic and reproducible.
 
 ## Tagline ZH
-检验“多—图像一致性检查”能否改善多模态模型的定位准确率、鲁棒性与推理成本。
+通过系统且可复现的多—图像一致性检查揭示隐藏错误。
 
 ## Summary EN
 Multi-image Consistency Checking studies a focused intervention for multimodal models. The project turns the concept into a falsifiable comparison on MMBench, DocVQA, VideoQA, using Qwen-VL / LLaVA-NeXT as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

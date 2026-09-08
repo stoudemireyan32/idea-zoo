@@ -32,10 +32,10 @@ Agent Reliability Benchmark
 智能体可靠性基准
 
 ## Tagline EN
-Test whether agent reliability benchmark can improve task success, intervention rate, and execution cost in tool-using agents.
+A reproducible test bed for measuring agent reliability benchmark across real operating conditions.
 
 ## Tagline ZH
-检验“智能体可靠性基准”能否改善工具型智能体的任务成功率、人工介入率与执行成本。
+建立可复现测试平台，在真实运行条件下衡量智能体可靠性基准。
 
 ## Summary EN
 Agent Reliability Benchmark studies a focused intervention for tool-using agents. The project turns the concept into a falsifiable comparison on ToolBench, APIBench, internal traces, using Planner LLM + tool adapters as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

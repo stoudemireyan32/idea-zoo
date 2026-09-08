@@ -32,10 +32,10 @@ Contribution Ranking Fairness
 贡献排序公平性
 
 ## Tagline EN
-Test whether contribution ranking fairness can improve participation, review quality, contributor retention, and moderation load in open-source research communities.
+Find the operating conditions where contribution ranking fairness remains dependable.
 
 ## Tagline ZH
-检验“贡献排序公平性”能否改善开源研究社区的参与度、评审质量、贡献者留存与治理负担。
+找出贡献排序公平性能够保持可靠的运行条件。
 
 ## Summary EN
 Contribution Ranking Fairness studies a focused intervention for open-source research communities. The project turns the concept into a falsifiable comparison on GitHub Discussions + PR histories, using Community analytics stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

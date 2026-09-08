@@ -32,10 +32,10 @@ Benchmark Leakage Detection
 基准泄漏检测
 
 ## Tagline EN
-Test whether benchmark leakage detection can improve validity, coverage, reproducibility, and evaluation cost in AI evaluation suites.
+Catch benchmark leakage detection failures before they undermine AI evaluation suites.
 
 ## Tagline ZH
-检验“基准泄漏检测”能否改善AI 评测体系的有效性、覆盖度、可复现性与评测成本。
+在基准泄漏检测相关故障影响AI 评测体系之前及时识别它们。
 
 ## Summary EN
 Benchmark Leakage Detection studies a focused intervention for AI evaluation suites. The project turns the concept into a falsifiable comparison on LongBench, TruthfulQA, custom eval sets, using Evaluator ensemble as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

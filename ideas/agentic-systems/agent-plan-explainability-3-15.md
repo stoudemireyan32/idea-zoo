@@ -32,10 +32,10 @@ Agent Plan Explainability
 智能体规划可解释性
 
 ## Tagline EN
-Test whether agent plan explainability can improve task success, intervention rate, and execution cost in tool-using agents.
+Make agent plan explainability useful for decisions rather than merely descriptive.
 
 ## Tagline ZH
-检验“智能体规划可解释性”能否改善工具型智能体的任务成功率、人工介入率与执行成本。
+让智能体规划可解释性真正服务于决策，而不只是事后描述。
 
 ## Summary EN
 Agent Plan Explainability studies a focused intervention for tool-using agents. The project turns the concept into a falsifiable comparison on ToolBench, APIBench, internal traces, using Planner LLM + tool adapters as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

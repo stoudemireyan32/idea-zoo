@@ -32,10 +32,10 @@ Robust Multi-hop Decomposition
 鲁棒多跳分解
 
 ## Tagline EN
-Test whether robust multi-hop decomposition can improve answer accuracy, calibration error, and reasoning cost in reasoning systems.
+Find the operating conditions where robust multi-hop decomposition remains dependable.
 
 ## Tagline ZH
-检验“鲁棒多跳分解”能否改善推理系统的答案准确率、校准误差与推理成本。
+找出鲁棒多跳分解能够保持可靠的运行条件。
 
 ## Summary EN
 Robust Multi-hop Decomposition studies a focused intervention for reasoning systems. The project turns the concept into a falsifiable comparison on MATH-500, GPQA, ProofWriter, using Qwen3 / DeepSeek-R1 Distill as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

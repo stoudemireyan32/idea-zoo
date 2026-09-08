@@ -32,10 +32,10 @@ Trust Calibration Interface
 信任校准界面
 
 ## Tagline EN
-Test whether trust calibration interface can improve task completion, user effort, trust calibration, and accessibility in human-AI interfaces.
+Map the benefits, costs, and failure modes of trust calibration interface.
 
 ## Tagline ZH
-检验“信任校准界面”能否改善人机协作界面的任务完成率、用户负担、信任校准与可访问性。
+系统描绘信任校准界面的收益、成本与失败模式。
 
 ## Summary EN
 Trust Calibration Interface studies a focused intervention for human-AI interfaces. The project turns the concept into a falsifiable comparison on User study logs + dialogue corpora, using General assistant model stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

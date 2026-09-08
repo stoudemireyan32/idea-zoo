@@ -32,10 +32,10 @@ Memory Decay Policy Learning
 内存衰减策略学习
 
 ## Tagline EN
-Test whether memory decay policy learning can improve evidence recall, citation precision, and retrieval latency in retrieval pipelines.
+Define a practical memory decay policy learning that remains enforceable under real-world pressure.
 
 ## Tagline ZH
-检验“内存衰减策略学习”能否改善检索与记忆流水线的证据召回率、引用准确率与检索时延。
+制定在真实压力下仍可执行的内存衰减策略学习方案。
 
 ## Summary EN
 Memory Decay Policy Learning studies a focused intervention for retrieval pipelines. The project turns the concept into a falsifiable comparison on NQ, HotpotQA, TimeQA, using BGE + reranker + GPT-style generator as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

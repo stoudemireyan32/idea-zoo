@@ -32,10 +32,10 @@ Uncertainty-aware Lab Design
 不确定性—感知实验室设计
 
 ## Tagline EN
-Test whether uncertainty-aware lab design can improve hit rate, uncertainty calibration, and experiment cost in scientific discovery workflows.
+Build an evidence-backed case for—or against—uncertainty-aware lab design.
 
 ## Tagline ZH
-检验“不确定性—感知实验室设计”能否改善科学发现流程的命中率、不确定性校准与实验成本。
+用实验证据判断不确定性—感知实验室设计究竟是否值得采用。
 
 ## Summary EN
 Uncertainty-aware Lab Design studies a focused intervention for scientific discovery workflows. The project turns the concept into a falsifiable comparison on Papers, domain corpora, experiment logs, using SciBERT + planner LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

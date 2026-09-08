@@ -32,10 +32,10 @@ Interactive Eval Harness
 交互式评测框架
 
 ## Tagline EN
-Test whether interactive eval harness can improve validity, coverage, reproducibility, and evaluation cost in AI evaluation suites.
+Find the operating conditions where interactive eval harness remains dependable.
 
 ## Tagline ZH
-检验“交互式评测框架”能否改善AI 评测体系的有效性、覆盖度、可复现性与评测成本。
+找出交互式评测框架能够保持可靠的运行条件。
 
 ## Summary EN
 Interactive Eval Harness studies a focused intervention for AI evaluation suites. The project turns the concept into a falsifiable comparison on LongBench, TruthfulQA, custom eval sets, using Evaluator ensemble as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

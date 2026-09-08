@@ -32,10 +32,10 @@ Clarification-first Dialogue
 澄清—优先对话
 
 ## Tagline EN
-Test whether clarification-first dialogue can improve task completion, user effort, trust calibration, and accessibility in human-AI interfaces.
+Reveal when clarification-first dialogue creates real value—and when it does not.
 
 ## Tagline ZH
-检验“澄清—优先对话”能否改善人机协作界面的任务完成率、用户负担、信任校准与可访问性。
+揭示澄清—优先对话何时创造真实价值，以及何时无效。
 
 ## Summary EN
 Clarification-first Dialogue studies a focused intervention for human-AI interfaces. The project turns the concept into a falsifiable comparison on User study logs + dialogue corpora, using General assistant model stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

@@ -32,10 +32,10 @@ Interactive Planning Board
 交互式规划看板
 
 ## Tagline EN
-Test whether interactive planning board can improve task completion, user effort, trust calibration, and accessibility in human-AI interfaces.
+Reveal when interactive planning board creates real value—and when it does not.
 
 ## Tagline ZH
-检验“交互式规划看板”能否改善人机协作界面的任务完成率、用户负担、信任校准与可访问性。
+揭示交互式规划看板何时创造真实价值，以及何时无效。
 
 ## Summary EN
 Interactive Planning Board studies a focused intervention for human-AI interfaces. The project turns the concept into a falsifiable comparison on User study logs + dialogue corpora, using General assistant model stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

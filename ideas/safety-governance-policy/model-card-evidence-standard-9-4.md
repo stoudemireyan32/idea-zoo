@@ -32,10 +32,10 @@ Model Card Evidence Standard
 模型卡片证据标准
 
 ## Tagline EN
-Test whether model card evidence standard can improve risk recall, false-positive rate, and auditability in AI governance controls.
+Define a practical model card evidence standard that remains enforceable under real-world pressure.
 
 ## Tagline ZH
-检验“模型卡片证据标准”能否改善AI 治理控制机制的风险召回率、误报率与可审计性。
+制定在真实压力下仍可执行的模型卡片证据标准方案。
 
 ## Summary EN
 Model Card Evidence Standard studies a focused intervention for AI governance controls. The project turns the concept into a falsifiable comparison on Safety benchmarks + policy corpora, using Safety classifier + LLM judge as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

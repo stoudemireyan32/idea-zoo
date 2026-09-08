@@ -32,10 +32,10 @@ Alignment Policy Drift Alerts
 对齐策略漂移预警
 
 ## Tagline EN
-Test whether alignment policy drift alerts can improve risk recall, false-positive rate, and auditability in AI governance controls.
+Catch alignment policy drift alerts failures before they undermine AI governance controls.
 
 ## Tagline ZH
-检验“对齐策略漂移预警”能否改善AI 治理控制机制的风险召回率、误报率与可审计性。
+在对齐策略漂移预警相关故障影响AI 治理控制机制之前及时识别它们。
 
 ## Summary EN
 Alignment Policy Drift Alerts studies a focused intervention for AI governance controls. The project turns the concept into a falsifiable comparison on Safety benchmarks + policy corpora, using Safety classifier + LLM judge as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

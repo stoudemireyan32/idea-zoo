@@ -32,10 +32,10 @@ Harm Severity Calibration
 危害严重度校准
 
 ## Tagline EN
-Test whether harm severity calibration can improve risk recall, false-positive rate, and auditability in AI governance controls.
+Align confidence with reality through measurable harm severity calibration.
 
 ## Tagline ZH
-检验“危害严重度校准”能否改善AI 治理控制机制的风险召回率、误报率与可审计性。
+通过可度量的危害严重度校准，让系统置信度更贴近真实表现。
 
 ## Summary EN
 Harm Severity Calibration studies a focused intervention for AI governance controls. The project turns the concept into a falsifiable comparison on Safety benchmarks + policy corpora, using Safety classifier + LLM judge as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

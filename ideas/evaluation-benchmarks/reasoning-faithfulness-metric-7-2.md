@@ -32,10 +32,10 @@ Reasoning Faithfulness Metric
 推理忠实度指标
 
 ## Tagline EN
-Test whether reasoning faithfulness metric can improve validity, coverage, reproducibility, and evaluation cost in AI evaluation suites.
+Turn reasoning faithfulness metric into a metric teams can compare, audit, and improve.
 
 ## Tagline ZH
-检验“推理忠实度指标”能否改善AI 评测体系的有效性、覆盖度、可复现性与评测成本。
+把推理忠实度指标转化为可比较、可审计、可持续改进的指标。
 
 ## Summary EN
 Reasoning Faithfulness Metric studies a focused intervention for AI evaluation suites. The project turns the concept into a falsifiable comparison on LongBench, TruthfulQA, custom eval sets, using Evaluator ensemble as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

@@ -32,10 +32,10 @@ Tool Planning Stability
 工具规划稳定性
 
 ## Tagline EN
-Test whether tool planning stability can improve task success, intervention rate, and execution cost in tool-using agents.
+Stress-test tool planning stability beyond clean benchmarks and ideal inputs.
 
 ## Tagline ZH
-检验“工具规划稳定性”能否改善工具型智能体的任务成功率、人工介入率与执行成本。
+让工具规划稳定性接受超越理想输入和标准基准的压力测试。
 
 ## Summary EN
 Tool Planning Stability studies a focused intervention for tool-using agents. The project turns the concept into a falsifiable comparison on ToolBench, APIBench, internal traces, using Planner LLM + tool adapters as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

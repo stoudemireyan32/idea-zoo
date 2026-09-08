@@ -32,10 +32,10 @@ Video Temporal Grounding
 视频时序定位
 
 ## Tagline EN
-Test whether video temporal grounding can improve grounding accuracy, robustness, and inference cost in multimodal models.
+Connect model claims to the exact evidence through video temporal grounding.
 
 ## Tagline ZH
-检验“视频时序定位”能否改善多模态模型的定位准确率、鲁棒性与推理成本。
+通过视频时序定位把模型结论与精确证据位置连接起来。
 
 ## Summary EN
 Video Temporal Grounding studies a focused intervention for multimodal models. The project turns the concept into a falsifiable comparison on MMBench, DocVQA, VideoQA, using Qwen-VL / LLaVA-NeXT as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

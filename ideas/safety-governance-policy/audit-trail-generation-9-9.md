@@ -32,10 +32,10 @@ Audit Trail Generation
 审计轨迹生成
 
 ## Tagline EN
-Test whether audit trail generation can improve risk recall, false-positive rate, and auditability in AI governance controls.
+Produce better research inputs through controlled audit trail generation, not blind scale.
 
 ## Tagline ZH
-检验“审计轨迹生成”能否改善AI 治理控制机制的风险召回率、误报率与可审计性。
+以受控的审计轨迹生成提升研究输入质量，而不是盲目追求规模。
 
 ## Summary EN
 Audit Trail Generation studies a focused intervention for AI governance controls. The project turns the concept into a falsifiable comparison on Safety benchmarks + policy corpora, using Safety classifier + LLM judge as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

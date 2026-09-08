@@ -32,10 +32,10 @@ Hard-example Mining
 困难—样本挖掘
 
 ## Tagline EN
-Test whether hard-example mining can improve data quality, coverage, leakage risk, and production cost in training-data pipelines.
+Recover overlooked signal through transparent hard-example mining.
 
 ## Tagline ZH
-检验“困难—样本挖掘”能否改善训练数据流水线的数据质量、覆盖度、泄漏风险与生产成本。
+通过透明的困难—样本挖掘找回被忽略的有效信号。
 
 ## Summary EN
 Hard-example Mining studies a focused intervention for training-data pipelines. The project turns the concept into a falsifiable comparison on Synthetic + curated open corpora, using Data engine + teacher LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

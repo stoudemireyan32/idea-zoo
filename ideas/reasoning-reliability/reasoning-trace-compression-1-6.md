@@ -32,10 +32,10 @@ Reasoning Trace Compression
 推理轨迹压缩
 
 ## Tagline EN
-Test whether reasoning trace compression can improve answer accuracy, calibration error, and reasoning cost in reasoning systems.
+Reduce the footprint of reasoning trace compression while preserving the information that matters.
 
 ## Tagline ZH
-检验“推理轨迹压缩”能否改善推理系统的答案准确率、校准误差与推理成本。
+压缩推理轨迹压缩的资源占用，同时保留真正影响结果的信息。
 
 ## Summary EN
 Reasoning Trace Compression studies a focused intervention for reasoning systems. The project turns the concept into a falsifiable comparison on MATH-500, GPQA, ProofWriter, using Qwen3 / DeepSeek-R1 Distill as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

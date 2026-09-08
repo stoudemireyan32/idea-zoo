@@ -32,10 +32,10 @@ Open Idea Lifecycle Tracking
 开源想法生命周期跟踪
 
 ## Tagline EN
-Test whether open idea lifecycle tracking can improve participation, review quality, contributor retention, and moderation load in open-source research communities.
+Make open idea lifecycle tracking visible early enough for teams to act.
 
 ## Tagline ZH
-检验“开源想法生命周期跟踪”能否改善开源研究社区的参与度、评审质量、贡献者留存与治理负担。
+让开源想法生命周期跟踪足够早地显现，使团队能够及时行动。
 
 ## Summary EN
 Open Idea Lifecycle Tracking studies a focused intervention for open-source research communities. The project turns the concept into a falsifiable comparison on GitHub Discussions + PR histories, using Community analytics stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

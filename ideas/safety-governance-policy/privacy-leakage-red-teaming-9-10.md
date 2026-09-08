@@ -32,10 +32,10 @@ Privacy Leakage Red-teaming
 隐私泄漏红队—测试
 
 ## Tagline EN
-Test whether privacy leakage red-teaming can improve risk recall, false-positive rate, and auditability in AI governance controls.
+Move privacy leakage red-teaming from a promising concept to a falsifiable experiment.
 
 ## Tagline ZH
-检验“隐私泄漏红队—测试”能否改善AI 治理控制机制的风险召回率、误报率与可审计性。
+把隐私泄漏红队—测试从有潜力的概念推进为可证伪实验。
 
 ## Summary EN
 Privacy Leakage Red-teaming studies a focused intervention for AI governance controls. The project turns the concept into a falsifiable comparison on Safety benchmarks + policy corpora, using Safety classifier + LLM judge as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

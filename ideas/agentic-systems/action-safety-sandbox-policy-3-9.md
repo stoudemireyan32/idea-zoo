@@ -32,10 +32,10 @@ Action Safety Sandbox Policy
 行动安全沙箱策略
 
 ## Tagline EN
-Test whether action safety sandbox policy can improve task success, intervention rate, and execution cost in tool-using agents.
+Define a practical action safety sandbox policy that remains enforceable under real-world pressure.
 
 ## Tagline ZH
-检验“行动安全沙箱策略”能否改善工具型智能体的任务成功率、人工介入率与执行成本。
+制定在真实压力下仍可执行的行动安全沙箱策略方案。
 
 ## Summary EN
 Action Safety Sandbox Policy studies a focused intervention for tool-using agents. The project turns the concept into a falsifiable comparison on ToolBench, APIBench, internal traces, using Planner LLM + tool adapters as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

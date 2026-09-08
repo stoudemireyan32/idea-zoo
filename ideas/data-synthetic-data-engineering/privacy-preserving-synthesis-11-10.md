@@ -32,10 +32,10 @@ Privacy-preserving Synthesis
 隐私—保护综述
 
 ## Tagline EN
-Test whether privacy-preserving synthesis can improve data quality, coverage, leakage risk, and production cost in training-data pipelines.
+Produce better research inputs through controlled privacy-preserving synthesis, not blind scale.
 
 ## Tagline ZH
-检验“隐私—保护综述”能否改善训练数据流水线的数据质量、覆盖度、泄漏风险与生产成本。
+以受控的隐私—保护综述提升研究输入质量，而不是盲目追求规模。
 
 ## Summary EN
 Privacy-preserving Synthesis studies a focused intervention for training-data pipelines. The project turns the concept into a falsifiable comparison on Synthetic + curated open corpora, using Data engine + teacher LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

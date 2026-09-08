@@ -32,10 +32,10 @@ Speculative Decoding Control
 推测式解码控制
 
 ## Tagline EN
-Test whether speculative decoding control can improve latency, throughput, memory use, and output quality in model-serving systems.
+Keep humans in command with measurable speculative decoding control.
 
 ## Tagline ZH
-检验“推测式解码控制”能否改善模型服务系统的时延、吞吐量、内存占用与输出质量。
+通过可度量的推测式解码控制确保人类始终掌握控制权。
 
 ## Summary EN
 Speculative Decoding Control studies a focused intervention for model-serving systems. The project turns the concept into a falsifiable comparison on Synthetic production traces, using vLLM mixed model pool as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

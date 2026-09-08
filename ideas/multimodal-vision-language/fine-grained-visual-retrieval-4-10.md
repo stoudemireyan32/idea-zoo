@@ -32,10 +32,10 @@ Fine-grained Visual Retrieval
 细粒度—视觉检索
 
 ## Tagline EN
-Test whether fine-grained visual retrieval can improve grounding accuracy, robustness, and inference cost in multimodal models.
+Surface stronger evidence with fine-grained visual retrieval while keeping provenance intact.
 
 ## Tagline ZH
-检验“细粒度—视觉检索”能否改善多模态模型的定位准确率、鲁棒性与推理成本。
+利用细粒度—视觉检索找到更有力的证据，同时保留完整来源链。
 
 ## Summary EN
 Fine-grained Visual Retrieval studies a focused intervention for multimodal models. The project turns the concept into a falsifiable comparison on MMBench, DocVQA, VideoQA, using Qwen-VL / LLaVA-NeXT as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

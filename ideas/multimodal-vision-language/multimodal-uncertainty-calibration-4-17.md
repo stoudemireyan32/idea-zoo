@@ -32,10 +32,10 @@ Multimodal Uncertainty Calibration
 多模态不确定性校准
 
 ## Tagline EN
-Test whether multimodal uncertainty calibration can improve grounding accuracy, robustness, and inference cost in multimodal models.
+Align confidence with reality through measurable multimodal uncertainty calibration.
 
 ## Tagline ZH
-检验“多模态不确定性校准”能否改善多模态模型的定位准确率、鲁棒性与推理成本。
+通过可度量的多模态不确定性校准，让系统置信度更贴近真实表现。
 
 ## Summary EN
 Multimodal Uncertainty Calibration studies a focused intervention for multimodal models. The project turns the concept into a falsifiable comparison on MMBench, DocVQA, VideoQA, using Qwen-VL / LLaVA-NeXT as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

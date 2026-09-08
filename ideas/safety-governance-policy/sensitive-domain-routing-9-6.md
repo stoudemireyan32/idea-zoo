@@ -32,10 +32,10 @@ Sensitive Domain Routing
 敏感领域路由
 
 ## Tagline EN
-Test whether sensitive domain routing can improve risk recall, false-positive rate, and auditability in AI governance controls.
+Send each workload down the right path with sensitive domain routing.
 
 ## Tagline ZH
-检验“敏感领域路由”能否改善AI 治理控制机制的风险召回率、误报率与可审计性。
+利用敏感领域路由为每项负载选择合适的处理路径。
 
 ## Summary EN
 Sensitive Domain Routing studies a focused intervention for AI governance controls. The project turns the concept into a falsifiable comparison on Safety benchmarks + policy corpora, using Safety classifier + LLM judge as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

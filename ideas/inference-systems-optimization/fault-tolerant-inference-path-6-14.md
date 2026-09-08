@@ -32,10 +32,10 @@ Fault-tolerant Inference Path
 故障—容错推理路径
 
 ## Tagline EN
-Test whether fault-tolerant inference path can improve latency, throughput, memory use, and output quality in model-serving systems.
+Reveal when fault-tolerant inference path creates real value—and when it does not.
 
 ## Tagline ZH
-检验“故障—容错推理路径”能否改善模型服务系统的时延、吞吐量、内存占用与输出质量。
+揭示故障—容错推理路径何时创造真实价值，以及何时无效。
 
 ## Summary EN
 Fault-tolerant Inference Path studies a focused intervention for model-serving systems. The project turns the concept into a falsifiable comparison on Synthetic production traces, using vLLM mixed model pool as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

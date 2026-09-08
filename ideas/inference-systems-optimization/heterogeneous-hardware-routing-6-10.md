@@ -32,10 +32,10 @@ Heterogeneous Hardware Routing
 异构硬件路由
 
 ## Tagline EN
-Test whether heterogeneous hardware routing can improve latency, throughput, memory use, and output quality in model-serving systems.
+Send each workload down the right path with heterogeneous hardware routing.
 
 ## Tagline ZH
-检验“异构硬件路由”能否改善模型服务系统的时延、吞吐量、内存占用与输出质量。
+利用异构硬件路由为每项负载选择合适的处理路径。
 
 ## Summary EN
 Heterogeneous Hardware Routing studies a focused intervention for model-serving systems. The project turns the concept into a falsifiable comparison on Synthetic production traces, using vLLM mixed model pool as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

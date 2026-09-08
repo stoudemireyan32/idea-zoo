@@ -32,10 +32,10 @@ Preference Drift Monitoring
 偏好漂移监测
 
 ## Tagline EN
-Test whether preference drift monitoring can improve task utility, policy compliance, and training efficiency in aligned language models.
+Make preference drift monitoring visible early enough for teams to act.
 
 ## Tagline ZH
-检验“偏好漂移监测”能否改善对齐后的语言模型的任务效用、策略遵循度与训练效率。
+让偏好漂移监测足够早地显现，使团队能够及时行动。
 
 ## Summary EN
 Preference Drift Monitoring studies a focused intervention for aligned language models. The project turns the concept into a falsifiable comparison on UltraFeedback, HH-RLHF, Arena traces, using Llama-3.1 / Qwen instruct checkpoints as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

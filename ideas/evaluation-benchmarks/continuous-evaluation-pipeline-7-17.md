@@ -32,10 +32,10 @@ Continuous Evaluation Pipeline
 持续评测流水线
 
 ## Tagline EN
-Test whether continuous evaluation pipeline can improve validity, coverage, reproducibility, and evaluation cost in AI evaluation suites.
+Turn continuous evaluation pipeline into a workflow contributors can inspect and reproduce.
 
 ## Tagline ZH
-检验“持续评测流水线”能否改善AI 评测体系的有效性、覆盖度、可复现性与评测成本。
+把持续评测流水线变成贡献者能够检查和复现的工作流。
 
 ## Summary EN
 Continuous Evaluation Pipeline studies a focused intervention for AI evaluation suites. The project turns the concept into a falsifiable comparison on LongBench, TruthfulQA, custom eval sets, using Evaluator ensemble as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

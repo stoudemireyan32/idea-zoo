@@ -32,10 +32,10 @@ Adaptive Reasoning Budget
 自适应推理预算
 
 ## Tagline EN
-Test whether adaptive reasoning budget can improve answer accuracy, calibration error, and reasoning cost in reasoning systems.
+Spend scarce resources where adaptive reasoning budget can deliver the largest verified gain.
 
 ## Tagline ZH
-检验“自适应推理预算”能否改善推理系统的答案准确率、校准误差与推理成本。
+把稀缺资源投入自适应推理预算最可能带来可验证收益的环节。
 
 ## Summary EN
 Adaptive Reasoning Budget studies a focused intervention for reasoning systems. The project turns the concept into a falsifiable comparison on MATH-500, GPQA, ProofWriter, using Qwen3 / DeepSeek-R1 Distill as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

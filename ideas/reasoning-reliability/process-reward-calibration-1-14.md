@@ -32,10 +32,10 @@ Process Reward Calibration
 过程奖励校准
 
 ## Tagline EN
-Test whether process reward calibration can improve answer accuracy, calibration error, and reasoning cost in reasoning systems.
+Align confidence with reality through measurable process reward calibration.
 
 ## Tagline ZH
-检验“过程奖励校准”能否改善推理系统的答案准确率、校准误差与推理成本。
+通过可度量的过程奖励校准，让系统置信度更贴近真实表现。
 
 ## Summary EN
 Process Reward Calibration studies a focused intervention for reasoning systems. The project turns the concept into a falsifiable comparison on MATH-500, GPQA, ProofWriter, using Qwen3 / DeepSeek-R1 Distill as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

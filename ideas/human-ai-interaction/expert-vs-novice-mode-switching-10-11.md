@@ -32,10 +32,10 @@ Expert-vs-novice Mode Switching
 专家—与—新手模式切换
 
 ## Tagline EN
-Test whether expert-vs-novice mode switching can improve task completion, user effort, trust calibration, and accessibility in human-AI interfaces.
+Map the benefits, costs, and failure modes of expert-vs-novice mode switching.
 
 ## Tagline ZH
-检验“专家—与—新手模式切换”能否改善人机协作界面的任务完成率、用户负担、信任校准与可访问性。
+系统描绘专家—与—新手模式切换的收益、成本与失败模式。
 
 ## Summary EN
 Expert-vs-novice Mode Switching studies a focused intervention for human-AI interfaces. The project turns the concept into a falsifiable comparison on User study logs + dialogue corpora, using General assistant model stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

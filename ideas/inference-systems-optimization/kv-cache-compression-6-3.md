@@ -32,10 +32,10 @@ KV-cache Compression
 键值—缓存压缩
 
 ## Tagline EN
-Test whether kv-cache compression can improve latency, throughput, memory use, and output quality in model-serving systems.
+Reduce the footprint of kv-cache compression while preserving the information that matters.
 
 ## Tagline ZH
-检验“键值—缓存压缩”能否改善模型服务系统的时延、吞吐量、内存占用与输出质量。
+压缩键值—缓存压缩的资源占用，同时保留真正影响结果的信息。
 
 ## Summary EN
 KV-cache Compression studies a focused intervention for model-serving systems. The project turns the concept into a falsifiable comparison on Synthetic production traces, using vLLM mixed model pool as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

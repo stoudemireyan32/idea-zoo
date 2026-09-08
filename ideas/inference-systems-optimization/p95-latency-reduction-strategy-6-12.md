@@ -32,10 +32,10 @@ P95 Latency Reduction Strategy
 P95时延降低策略
 
 ## Tagline EN
-Test whether p95 latency reduction strategy can improve latency, throughput, memory use, and output quality in model-serving systems.
+Map the benefits, costs, and failure modes of p95 latency reduction strategy.
 
 ## Tagline ZH
-检验“P95时延降低策略”能否改善模型服务系统的时延、吞吐量、内存占用与输出质量。
+系统描绘P95时延降低策略的收益、成本与失败模式。
 
 ## Summary EN
 P95 Latency Reduction Strategy studies a focused intervention for model-serving systems. The project turns the concept into a falsifiable comparison on Synthetic production traces, using vLLM mixed model pool as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

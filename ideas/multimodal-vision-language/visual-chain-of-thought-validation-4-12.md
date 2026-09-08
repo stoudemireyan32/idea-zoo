@@ -32,10 +32,10 @@ Visual Chain-of-thought Validation
 视觉链—思维验证
 
 ## Tagline EN
-Test whether visual chain-of-thought validation can improve grounding accuracy, robustness, and inference cost in multimodal models.
+Expose hidden errors by making visual chain-of-thought validation systematic and reproducible.
 
 ## Tagline ZH
-检验“视觉链—思维验证”能否改善多模态模型的定位准确率、鲁棒性与推理成本。
+通过系统且可复现的视觉链—思维验证揭示隐藏错误。
 
 ## Summary EN
 Visual Chain-of-thought Validation studies a focused intervention for multimodal models. The project turns the concept into a falsifiable comparison on MMBench, DocVQA, VideoQA, using Qwen-VL / LLaVA-NeXT as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

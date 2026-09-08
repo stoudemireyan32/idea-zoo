@@ -32,10 +32,10 @@ Grounded Answer Calibration
 约束答案校准
 
 ## Tagline EN
-Test whether grounded answer calibration can improve evidence recall, citation precision, and retrieval latency in retrieval pipelines.
+Align confidence with reality through measurable grounded answer calibration.
 
 ## Tagline ZH
-检验“约束答案校准”能否改善检索与记忆流水线的证据召回率、引用准确率与检索时延。
+通过可度量的约束答案校准，让系统置信度更贴近真实表现。
 
 ## Summary EN
 Grounded Answer Calibration studies a focused intervention for retrieval pipelines. The project turns the concept into a falsifiable comparison on NQ, HotpotQA, TimeQA, using BGE + reranker + GPT-style generator as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

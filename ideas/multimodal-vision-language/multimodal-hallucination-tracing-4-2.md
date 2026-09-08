@@ -32,10 +32,10 @@ Multimodal Hallucination Tracing
 多模态幻觉追踪
 
 ## Tagline EN
-Test whether multimodal hallucination tracing can improve grounding accuracy, robustness, and inference cost in multimodal models.
+Move multimodal hallucination tracing from a promising concept to a falsifiable experiment.
 
 ## Tagline ZH
-检验“多模态幻觉追踪”能否改善多模态模型的定位准确率、鲁棒性与推理成本。
+把多模态幻觉追踪从有潜力的概念推进为可证伪实验。
 
 ## Summary EN
 Multimodal Hallucination Tracing studies a focused intervention for multimodal models. The project turns the concept into a falsifiable comparison on MMBench, DocVQA, VideoQA, using Qwen-VL / LLaVA-NeXT as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

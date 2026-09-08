@@ -32,10 +32,10 @@ Automated Labeling Reliability
 自动化标注可靠性
 
 ## Tagline EN
-Test whether automated labeling reliability can improve data quality, coverage, leakage risk, and production cost in training-data pipelines.
+Stress-test automated labeling reliability beyond clean benchmarks and ideal inputs.
 
 ## Tagline ZH
-检验“自动化标注可靠性”能否改善训练数据流水线的数据质量、覆盖度、泄漏风险与生产成本。
+让自动化标注可靠性接受超越理想输入和标准基准的压力测试。
 
 ## Summary EN
 Automated Labeling Reliability studies a focused intervention for training-data pipelines. The project turns the concept into a falsifiable comparison on Synthetic + curated open corpora, using Data engine + teacher LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

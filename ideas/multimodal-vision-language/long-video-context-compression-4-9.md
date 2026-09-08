@@ -32,10 +32,10 @@ Long Video Context Compression
 长视频上下文压缩
 
 ## Tagline EN
-Test whether long video context compression can improve grounding accuracy, robustness, and inference cost in multimodal models.
+Reduce the footprint of long video context compression while preserving the information that matters.
 
 ## Tagline ZH
-检验“长视频上下文压缩”能否改善多模态模型的定位准确率、鲁棒性与推理成本。
+压缩长视频上下文压缩的资源占用，同时保留真正影响结果的信息。
 
 ## Summary EN
 Long Video Context Compression studies a focused intervention for multimodal models. The project turns the concept into a falsifiable comparison on MMBench, DocVQA, VideoQA, using Qwen-VL / LLaVA-NeXT as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

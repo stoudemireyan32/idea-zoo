@@ -32,10 +32,10 @@ Assistive Creativity Workflows
 辅助式创意工作流
 
 ## Tagline EN
-Test whether assistive creativity workflows can improve task completion, user effort, trust calibration, and accessibility in human-AI interfaces.
+Turn assistive creativity workflows into a workflow contributors can inspect and reproduce.
 
 ## Tagline ZH
-检验“辅助式创意工作流”能否改善人机协作界面的任务完成率、用户负担、信任校准与可访问性。
+把辅助式创意工作流变成贡献者能够检查和复现的工作流。
 
 ## Summary EN
 Assistive Creativity Workflows studies a focused intervention for human-AI interfaces. The project turns the concept into a falsifiable comparison on User study logs + dialogue corpora, using General assistant model stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

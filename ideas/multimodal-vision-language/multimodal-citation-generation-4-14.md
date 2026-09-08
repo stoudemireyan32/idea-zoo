@@ -32,10 +32,10 @@ Multimodal Citation Generation
 多模态引用生成
 
 ## Tagline EN
-Test whether multimodal citation generation can improve grounding accuracy, robustness, and inference cost in multimodal models.
+Produce better research inputs through controlled multimodal citation generation, not blind scale.
 
 ## Tagline ZH
-检验“多模态引用生成”能否改善多模态模型的定位准确率、鲁棒性与推理成本。
+以受控的多模态引用生成提升研究输入质量，而不是盲目追求规模。
 
 ## Summary EN
 Multimodal Citation Generation studies a focused intervention for multimodal models. The project turns the concept into a falsifiable comparison on MMBench, DocVQA, VideoQA, using Qwen-VL / LLaVA-NeXT as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

@@ -32,10 +32,10 @@ Science Workflow Copilots
 科学工作流助手
 
 ## Tagline EN
-Test whether science workflow copilots can improve hit rate, uncertainty calibration, and experiment cost in scientific discovery workflows.
+Turn science workflow copilots into a workflow contributors can inspect and reproduce.
 
 ## Tagline ZH
-检验“科学工作流助手”能否改善科学发现流程的命中率、不确定性校准与实验成本。
+把科学工作流助手变成贡献者能够检查和复现的工作流。
 
 ## Summary EN
 Science Workflow Copilots studies a focused intervention for scientific discovery workflows. The project turns the concept into a falsifiable comparison on Papers, domain corpora, experiment logs, using SciBERT + planner LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

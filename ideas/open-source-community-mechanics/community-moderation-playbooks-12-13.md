@@ -32,10 +32,10 @@ Community Moderation Playbooks
 社区治理手册
 
 ## Tagline EN
-Test whether community moderation playbooks can improve participation, review quality, contributor retention, and moderation load in open-source research communities.
+Reveal when community moderation playbooks creates real value—and when it does not.
 
 ## Tagline ZH
-检验“社区治理手册”能否改善开源研究社区的参与度、评审质量、贡献者留存与治理负担。
+揭示社区治理手册何时创造真实价值，以及何时无效。
 
 ## Summary EN
 Community Moderation Playbooks studies a focused intervention for open-source research communities. The project turns the concept into a falsifiable comparison on GitHub Discussions + PR histories, using Community analytics stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

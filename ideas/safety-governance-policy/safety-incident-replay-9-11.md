@@ -32,10 +32,10 @@ Safety Incident Replay
 安全事件回放
 
 ## Tagline EN
-Test whether safety incident replay can improve risk recall, false-positive rate, and auditability in AI governance controls.
+Find the operating conditions where safety incident replay remains dependable.
 
 ## Tagline ZH
-检验“安全事件回放”能否改善AI 治理控制机制的风险召回率、误报率与可审计性。
+找出安全事件回放能够保持可靠的运行条件。
 
 ## Summary EN
 Safety Incident Replay studies a focused intervention for AI governance controls. The project turns the concept into a falsifiable comparison on Safety benchmarks + policy corpora, using Safety classifier + LLM judge as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

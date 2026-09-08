@@ -32,10 +32,10 @@ Feedback Collection Loops
 反馈收集闭环
 
 ## Tagline EN
-Test whether feedback collection loops can improve task completion, user effort, trust calibration, and accessibility in human-AI interfaces.
+Improve collective decisions by redesigning feedback collection loops around evidence.
 
 ## Tagline ZH
-检验“反馈收集闭环”能否改善人机协作界面的任务完成率、用户负担、信任校准与可访问性。
+围绕证据重新设计反馈收集闭环，提升群体决策质量。
 
 ## Summary EN
 Feedback Collection Loops studies a focused intervention for human-AI interfaces. The project turns the concept into a falsifiable comparison on User study logs + dialogue corpora, using General assistant model stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

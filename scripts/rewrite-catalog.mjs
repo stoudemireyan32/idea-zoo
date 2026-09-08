@@ -91,6 +91,49 @@ const translateTitle = (title) => {
   }).join('').replaceAll('——', '—')
 }
 
+const taglineRules = [
+  { pattern: /detection|detecting|alerts?$/i, en: (t, c) => `Catch ${t} failures before they undermine ${c.object}.`, zh: (t, c) => `在${t}相关故障影响${c.objectZh}之前及时识别它们。` },
+  { pattern: /benchmark|suite|scorecard|evaluation$/i, en: (t, c) => `A reproducible test bed for measuring ${t} across real operating conditions.`, zh: (t, c) => `建立可复现测试平台，在真实运行条件下衡量${t}。` },
+  { pattern: /metric|metrics|scoring|measurement$/i, en: (t, c) => `Turn ${t} into a metric teams can compare, audit, and improve.`, zh: (t) => `把${t}转化为可比较、可审计、可持续改进的指标。` },
+  { pattern: /calibration$/i, en: (t) => `Align confidence with reality through measurable ${t}.`, zh: (t) => `通过可度量的${t}，让系统置信度更贴近真实表现。` },
+  { pattern: /routing$/i, en: (t, c) => `Send each workload down the right path with ${t}.`, zh: (t) => `利用${t}为每项负载选择合适的处理路径。` },
+  { pattern: /scheduling$/i, en: (t) => `Schedule limited resources around ${t} without sacrificing quality.`, zh: (t) => `围绕${t}调度有限资源，同时守住质量底线。` },
+  { pattern: /planning$/i, en: (t) => `Make ${t} explicit, testable, and resilient to changing conditions.`, zh: (t) => `让${t}变得显式、可测试，并能适应条件变化。` },
+  { pattern: /optimization$/i, en: (t, c) => `Find the practical quality–cost frontier for ${t} in ${c.object}.`, zh: (t, c) => `寻找${c.objectZh}采用${t}时切实可行的质量—成本边界。` },
+  { pattern: /compression$/i, en: (t) => `Reduce the footprint of ${t} while preserving the information that matters.`, zh: (t) => `压缩${t}的资源占用，同时保留真正影响结果的信息。` },
+  { pattern: /governance$/i, en: (t) => `Give teams enforceable rules and audit trails for ${t}.`, zh: (t) => `为${t}建立可执行规则与完整审计轨迹。` },
+  { pattern: /protocol|policy|policies|standard|rules|guardrails$/i, en: (t) => `Define a practical ${t} that remains enforceable under real-world pressure.`, zh: (t) => `制定在真实压力下仍可执行的${t}方案。` },
+  { pattern: /monitoring|tracking|observability|dashboarding$/i, en: (t) => `Make ${t} visible early enough for teams to act.`, zh: (t) => `让${t}足够早地显现，使团队能够及时行动。` },
+  { pattern: /verification|validation|auditing|checking$/i, en: (t) => `Expose hidden errors by making ${t} systematic and reproducible.`, zh: (t) => `通过系统且可复现的${t}揭示隐藏错误。` },
+  { pattern: /recovery|rollback|repair|self-correction$/i, en: (t, c) => `Help ${c.object} recover safely through ${t} instead of starting over.`, zh: (t, c) => `让${c.objectZh}借助${t}安全恢复，而不是从头再来。` },
+  { pattern: /allocation|budget$/i, en: (t) => `Spend scarce resources where ${t} can deliver the largest verified gain.`, zh: (t) => `把稀缺资源投入${t}最可能带来可验证收益的环节。` },
+  { pattern: /generation|synthesis|construction|augmentation$/i, en: (t) => `Produce better research inputs through controlled ${t}, not blind scale.`, zh: (t) => `以受控的${t}提升研究输入质量，而不是盲目追求规模。` },
+  { pattern: /retrieval|reranking|linking$/i, en: (t) => `Surface stronger evidence with ${t} while keeping provenance intact.`, zh: (t) => `利用${t}找到更有力的证据，同时保留完整来源链。` },
+  { pattern: /forecasting|prediction$/i, en: (t) => `Make ${t} useful by attaching calibrated uncertainty to every prediction.`, zh: (t) => `为每次预测附带校准后的不确定性，让${t}真正可用。` },
+  { pattern: /recommendation$/i, en: (t) => `Rank actionable candidates through evidence-aware ${t}.`, zh: (t) => `通过证据感知的${t}对可行动候选项进行排序。` },
+  { pattern: /mining$/i, en: (t) => `Recover overlooked signal through transparent ${t}.`, zh: (t) => `通过透明的${t}找回被忽略的有效信号。` },
+  { pattern: /localization|grounding$/i, en: (t) => `Connect model claims to the exact evidence through ${t}.`, zh: (t) => `通过${t}把模型结论与精确证据位置连接起来。` },
+  { pattern: /alignment$/i, en: (t) => `Measure where ${t} holds—and where it quietly breaks.`, zh: (t) => `衡量${t}在何处成立，又在何处悄然失效。` },
+  { pattern: /consistency|stability|robustness|reliability$/i, en: (t) => `Stress-test ${t} beyond clean benchmarks and ideal inputs.`, zh: (t) => `让${t}接受超越理想输入和标准基准的压力测试。` },
+  { pattern: /explainability|transparency$/i, en: (t) => `Make ${t} useful for decisions rather than merely descriptive.`, zh: (t) => `让${t}真正服务于决策，而不只是事后描述。` },
+  { pattern: /collaboration|review|debate|feedback/i, en: (t) => `Improve collective decisions by redesigning ${t} around evidence.`, zh: (t) => `围绕证据重新设计${t}，提升群体决策质量。` },
+  { pattern: /workflow|workflows|pipeline|lifecycle/i, en: (t) => `Turn ${t} into a workflow contributors can inspect and reproduce.`, zh: (t) => `把${t}变成贡献者能够检查和复现的工作流。` },
+  { pattern: /control|controls|balancing$/i, en: (t) => `Keep humans in command with measurable ${t}.`, zh: (t) => `通过可度量的${t}确保人类始终掌握控制权。` },
+]
+
+const makeTagline = (title, titleZh, copy, index) => {
+  const rule = taglineRules.find(({ pattern }) => pattern.test(title))
+  if (rule) return { en: rule.en(title.toLowerCase(), copy), zh: rule.zh(titleZh, copy) }
+  const fallbacks = [
+    { en: `Reveal when ${title.toLowerCase()} creates real value—and when it does not.`, zh: `揭示${titleZh}何时创造真实价值，以及何时无效。` },
+    { en: `Move ${title.toLowerCase()} from a promising concept to a falsifiable experiment.`, zh: `把${titleZh}从有潜力的概念推进为可证伪实验。` },
+    { en: `Map the benefits, costs, and failure modes of ${title.toLowerCase()}.`, zh: `系统描绘${titleZh}的收益、成本与失败模式。` },
+    { en: `Build an evidence-backed case for—or against—${title.toLowerCase()}.`, zh: `用实验证据判断${titleZh}究竟是否值得采用。` },
+    { en: `Find the operating conditions where ${title.toLowerCase()} remains dependable.`, zh: `找出${titleZh}能够保持可靠的运行条件。` },
+  ]
+  return fallbacks[index % fallbacks.length]
+}
+
 const readSections = (body) => Object.fromEntries(
   [...body.matchAll(/^##\s+(.+)\n([\s\S]*?)(?=\n##\s+|$)/gm)].map((match) => [match[1].trim(), match[2].trim()]),
 )
@@ -104,7 +147,7 @@ const files = fs.readdirSync(root, { recursive: true })
   .filter((name) => name.endsWith('.md') && name !== 'TEMPLATE.md')
   .map((name) => path.join(root, name))
 
-for (const file of files) {
+for (const [index, file] of files.entries()) {
   const raw = fs.readFileSync(file, 'utf8')
   const [, frontmatter, body] = raw.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/)
   const sections = readSections(body)
@@ -115,12 +158,13 @@ for (const file of files) {
   const dataset = getMeta(frontmatter, 'dataset')
   const copy = categoryCopy[category]
   const topic = title.toLowerCase()
+  const tagline = makeTagline(title, titleZh, copy, index)
 
   const next = {
     'Title EN': title,
     'Title ZH': titleZh,
-    'Tagline EN': `Test whether ${topic} can improve ${copy.metric} in ${copy.object}.`,
-    'Tagline ZH': `检验“${titleZh}”能否改善${copy.objectZh}的${copy.metricZh}。`,
+    'Tagline EN': tagline.en,
+    'Tagline ZH': tagline.zh,
     'Summary EN': `${title} studies a focused intervention for ${copy.object}. The project turns the concept into a falsifiable comparison on ${dataset}, using ${model} as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.`,
     'Summary ZH': `“${titleZh}”研究一种面向${copy.objectZh}的具体干预方法。项目以 ${model} 为首个实现对象，在 ${dataset} 上把这一概念转化为可证伪的对照实验。研究不仅判断方法是否有效，还要明确收益在什么条件下足以抵偿新增复杂度。`,
     'Challenge EN': `${copy.object.charAt(0).toUpperCase() + copy.object.slice(1)} are commonly evaluated with aggregate scores that hide where ${topic} helps or fails. A convincing study must separate genuine capability gains from prompt sensitivity, data leakage, and extra compute. It must also define failure cases before running the experiment rather than explaining them after the fact.`,

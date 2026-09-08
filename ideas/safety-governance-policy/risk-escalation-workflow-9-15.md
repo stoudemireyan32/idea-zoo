@@ -32,10 +32,10 @@ Risk Escalation Workflow
 风险升级工作流
 
 ## Tagline EN
-Test whether risk escalation workflow can improve risk recall, false-positive rate, and auditability in AI governance controls.
+Turn risk escalation workflow into a workflow contributors can inspect and reproduce.
 
 ## Tagline ZH
-检验“风险升级工作流”能否改善AI 治理控制机制的风险召回率、误报率与可审计性。
+把风险升级工作流变成贡献者能够检查和复现的工作流。
 
 ## Summary EN
 Risk Escalation Workflow studies a focused intervention for AI governance controls. The project turns the concept into a falsifiable comparison on Safety benchmarks + policy corpora, using Safety classifier + LLM judge as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

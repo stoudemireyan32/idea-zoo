@@ -32,10 +32,10 @@ Teacher-student Data Distillation
 教师—学生数据蒸馏
 
 ## Tagline EN
-Test whether teacher-student data distillation can improve data quality, coverage, leakage risk, and production cost in training-data pipelines.
+Reveal when teacher-student data distillation creates real value—and when it does not.
 
 ## Tagline ZH
-检验“教师—学生数据蒸馏”能否改善训练数据流水线的数据质量、覆盖度、泄漏风险与生产成本。
+揭示教师—学生数据蒸馏何时创造真实价值，以及何时无效。
 
 ## Summary EN
 Teacher-student Data Distillation studies a focused intervention for training-data pipelines. The project turns the concept into a falsifiable comparison on Synthetic + curated open corpora, using Data engine + teacher LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

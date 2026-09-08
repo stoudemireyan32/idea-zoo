@@ -32,10 +32,10 @@ Jurisdiction-aware Moderation
 司法辖区—感知治理
 
 ## Tagline EN
-Test whether jurisdiction-aware moderation can improve risk recall, false-positive rate, and auditability in AI governance controls.
+Build an evidence-backed case for—or against—jurisdiction-aware moderation.
 
 ## Tagline ZH
-检验“司法辖区—感知治理”能否改善AI 治理控制机制的风险召回率、误报率与可审计性。
+用实验证据判断司法辖区—感知治理究竟是否值得采用。
 
 ## Summary EN
 Jurisdiction-aware Moderation studies a focused intervention for AI governance controls. The project turns the concept into a falsifiable comparison on Safety benchmarks + policy corpora, using Safety classifier + LLM judge as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

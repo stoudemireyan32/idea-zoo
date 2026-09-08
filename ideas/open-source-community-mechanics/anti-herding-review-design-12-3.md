@@ -32,10 +32,10 @@ Anti-herding Review Design
 反—从众评审设计
 
 ## Tagline EN
-Test whether anti-herding review design can improve participation, review quality, contributor retention, and moderation load in open-source research communities.
+Improve collective decisions by redesigning anti-herding review design around evidence.
 
 ## Tagline ZH
-检验“反—从众评审设计”能否改善开源研究社区的参与度、评审质量、贡献者留存与治理负担。
+围绕证据重新设计反—从众评审设计，提升群体决策质量。
 
 ## Summary EN
 Anti-herding Review Design studies a focused intervention for open-source research communities. The project turns the concept into a falsifiable comparison on GitHub Discussions + PR histories, using Community analytics stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

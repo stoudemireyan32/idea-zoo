@@ -32,10 +32,10 @@ Hypothesis Novelty Scoring
 假设新颖性评分
 
 ## Tagline EN
-Test whether hypothesis novelty scoring can improve hit rate, uncertainty calibration, and experiment cost in scientific discovery workflows.
+Turn hypothesis novelty scoring into a metric teams can compare, audit, and improve.
 
 ## Tagline ZH
-检验“假设新颖性评分”能否改善科学发现流程的命中率、不确定性校准与实验成本。
+把假设新颖性评分转化为可比较、可审计、可持续改进的指标。
 
 ## Summary EN
 Hypothesis Novelty Scoring studies a focused intervention for scientific discovery workflows. The project turns the concept into a falsifiable comparison on Papers, domain corpora, experiment logs, using SciBERT + planner LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

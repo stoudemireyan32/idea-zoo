@@ -32,10 +32,10 @@ Temporal Freshness Benchmark
 时序新鲜度基准
 
 ## Tagline EN
-Test whether temporal freshness benchmark can improve evidence recall, citation precision, and retrieval latency in retrieval pipelines.
+A reproducible test bed for measuring temporal freshness benchmark across real operating conditions.
 
 ## Tagline ZH
-检验“时序新鲜度基准”能否改善检索与记忆流水线的证据召回率、引用准确率与检索时延。
+建立可复现测试平台，在真实运行条件下衡量时序新鲜度基准。
 
 ## Summary EN
 Temporal Freshness Benchmark studies a focused intervention for retrieval pipelines. The project turns the concept into a falsifiable comparison on NQ, HotpotQA, TimeQA, using BGE + reranker + GPT-style generator as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

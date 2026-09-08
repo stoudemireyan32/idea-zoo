@@ -32,10 +32,10 @@ Co-pilot Intervention Timing
 协同—助手干预时机
 
 ## Tagline EN
-Test whether co-pilot intervention timing can improve task completion, user effort, trust calibration, and accessibility in human-AI interfaces.
+Move co-pilot intervention timing from a promising concept to a falsifiable experiment.
 
 ## Tagline ZH
-检验“协同—助手干预时机”能否改善人机协作界面的任务完成率、用户负担、信任校准与可访问性。
+把协同—助手干预时机从有潜力的概念推进为可证伪实验。
 
 ## Summary EN
 Co-pilot Intervention Timing studies a focused intervention for human-AI interfaces. The project turns the concept into a falsifiable comparison on User study logs + dialogue corpora, using General assistant model stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

@@ -32,10 +32,10 @@ Discussion Quality Metrics
 讨论质量指标
 
 ## Tagline EN
-Test whether discussion quality metrics can improve participation, review quality, contributor retention, and moderation load in open-source research communities.
+Turn discussion quality metrics into a metric teams can compare, audit, and improve.
 
 ## Tagline ZH
-检验“讨论质量指标”能否改善开源研究社区的参与度、评审质量、贡献者留存与治理负担。
+把讨论质量指标转化为可比较、可审计、可持续改进的指标。
 
 ## Summary EN
 Discussion Quality Metrics studies a focused intervention for open-source research communities. The project turns the concept into a falsifiable comparison on GitHub Discussions + PR histories, using Community analytics stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

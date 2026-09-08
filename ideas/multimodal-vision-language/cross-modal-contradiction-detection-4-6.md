@@ -32,10 +32,10 @@ Cross-modal Contradiction Detection
 跨—模态矛盾检测
 
 ## Tagline EN
-Test whether cross-modal contradiction detection can improve grounding accuracy, robustness, and inference cost in multimodal models.
+Catch cross-modal contradiction detection failures before they undermine multimodal models.
 
 ## Tagline ZH
-检验“跨—模态矛盾检测”能否改善多模态模型的定位准确率、鲁棒性与推理成本。
+在跨—模态矛盾检测相关故障影响多模态模型之前及时识别它们。
 
 ## Summary EN
 Cross-modal Contradiction Detection studies a focused intervention for multimodal models. The project turns the concept into a falsifiable comparison on MMBench, DocVQA, VideoQA, using Qwen-VL / LLaVA-NeXT as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

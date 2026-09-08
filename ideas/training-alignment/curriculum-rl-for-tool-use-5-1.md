@@ -32,10 +32,10 @@ Curriculum RL For Tool Use
 课程式强化学习面向工具使用
 
 ## Tagline EN
-Test whether curriculum rl for tool use can improve task utility, policy compliance, and training efficiency in aligned language models.
+Map the benefits, costs, and failure modes of curriculum rl for tool use.
 
 ## Tagline ZH
-检验“课程式强化学习面向工具使用”能否改善对齐后的语言模型的任务效用、策略遵循度与训练效率。
+系统描绘课程式强化学习面向工具使用的收益、成本与失败模式。
 
 ## Summary EN
 Curriculum RL For Tool Use studies a focused intervention for aligned language models. The project turns the concept into a falsifiable comparison on UltraFeedback, HH-RLHF, Arena traces, using Llama-3.1 / Qwen instruct checkpoints as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

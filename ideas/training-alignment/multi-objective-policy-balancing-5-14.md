@@ -32,10 +32,10 @@ Multi-objective Policy Balancing
 多—目标策略均衡
 
 ## Tagline EN
-Test whether multi-objective policy balancing can improve task utility, policy compliance, and training efficiency in aligned language models.
+Define a practical multi-objective policy balancing that remains enforceable under real-world pressure.
 
 ## Tagline ZH
-检验“多—目标策略均衡”能否改善对齐后的语言模型的任务效用、策略遵循度与训练效率。
+制定在真实压力下仍可执行的多—目标策略均衡方案。
 
 ## Summary EN
 Multi-objective Policy Balancing studies a focused intervention for aligned language models. The project turns the concept into a falsifiable comparison on UltraFeedback, HH-RLHF, Arena traces, using Llama-3.1 / Qwen instruct checkpoints as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

@@ -32,10 +32,10 @@ Session Memory Compression
 会话内存压缩
 
 ## Tagline EN
-Test whether session memory compression can improve evidence recall, citation precision, and retrieval latency in retrieval pipelines.
+Reduce the footprint of session memory compression while preserving the information that matters.
 
 ## Tagline ZH
-检验“会话内存压缩”能否改善检索与记忆流水线的证据召回率、引用准确率与检索时延。
+压缩会话内存压缩的资源占用，同时保留真正影响结果的信息。
 
 ## Summary EN
 Session Memory Compression studies a focused intervention for retrieval pipelines. The project turns the concept into a falsifiable comparison on NQ, HotpotQA, TimeQA, using BGE + reranker + GPT-style generator as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

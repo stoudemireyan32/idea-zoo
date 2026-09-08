@@ -32,10 +32,10 @@ Community Reputation Calibration
 社区声誉校准
 
 ## Tagline EN
-Test whether community reputation calibration can improve participation, review quality, contributor retention, and moderation load in open-source research communities.
+Align confidence with reality through measurable community reputation calibration.
 
 ## Tagline ZH
-检验“社区声誉校准”能否改善开源研究社区的参与度、评审质量、贡献者留存与治理负担。
+通过可度量的社区声誉校准，让系统置信度更贴近真实表现。
 
 ## Summary EN
 Community Reputation Calibration studies a focused intervention for open-source research communities. The project turns the concept into a falsifiable comparison on GitHub Discussions + PR histories, using Community analytics stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

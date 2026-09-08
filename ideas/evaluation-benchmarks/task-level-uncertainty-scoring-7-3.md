@@ -32,10 +32,10 @@ Task-level Uncertainty Scoring
 任务—级别不确定性评分
 
 ## Tagline EN
-Test whether task-level uncertainty scoring can improve validity, coverage, reproducibility, and evaluation cost in AI evaluation suites.
+Turn task-level uncertainty scoring into a metric teams can compare, audit, and improve.
 
 ## Tagline ZH
-检验“任务—级别不确定性评分”能否改善AI 评测体系的有效性、覆盖度、可复现性与评测成本。
+把任务—级别不确定性评分转化为可比较、可审计、可持续改进的指标。
 
 ## Summary EN
 Task-level Uncertainty Scoring studies a focused intervention for AI evaluation suites. The project turns the concept into a falsifiable comparison on LongBench, TruthfulQA, custom eval sets, using Evaluator ensemble as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

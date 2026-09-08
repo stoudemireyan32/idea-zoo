@@ -32,10 +32,10 @@ Self-critique Consistency
 自我批判一致性
 
 ## Tagline EN
-Test whether self-critique consistency can improve answer accuracy, calibration error, and reasoning cost in reasoning systems.
+Stress-test self-critique consistency beyond clean benchmarks and ideal inputs.
 
 ## Tagline ZH
-检验“自我批判一致性”能否改善推理系统的答案准确率、校准误差与推理成本。
+让自我批判一致性接受超越理想输入和标准基准的压力测试。
 
 ## Summary EN
 Self-critique Consistency studies a focused intervention for reasoning systems. The project turns the concept into a falsifiable comparison on MATH-500, GPQA, ProofWriter, using Qwen3 / DeepSeek-R1 Distill as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

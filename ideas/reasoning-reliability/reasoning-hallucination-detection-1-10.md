@@ -32,10 +32,10 @@ Reasoning Hallucination Detection
 推理幻觉检测
 
 ## Tagline EN
-Test whether reasoning hallucination detection can improve answer accuracy, calibration error, and reasoning cost in reasoning systems.
+Catch reasoning hallucination detection failures before they undermine reasoning systems.
 
 ## Tagline ZH
-检验“推理幻觉检测”能否改善推理系统的答案准确率、校准误差与推理成本。
+在推理幻觉检测相关故障影响推理系统之前及时识别它们。
 
 ## Summary EN
 Reasoning Hallucination Detection studies a focused intervention for reasoning systems. The project turns the concept into a falsifiable comparison on MATH-500, GPQA, ProofWriter, using Qwen3 / DeepSeek-R1 Distill as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

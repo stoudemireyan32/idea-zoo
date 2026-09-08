@@ -32,10 +32,10 @@ Protein Experiment Planning
 蛋白质实验规划
 
 ## Tagline EN
-Test whether protein experiment planning can improve hit rate, uncertainty calibration, and experiment cost in scientific discovery workflows.
+Make protein experiment planning explicit, testable, and resilient to changing conditions.
 
 ## Tagline ZH
-检验“蛋白质实验规划”能否改善科学发现流程的命中率、不确定性校准与实验成本。
+让蛋白质实验规划变得显式、可测试，并能适应条件变化。
 
 ## Summary EN
 Protein Experiment Planning studies a focused intervention for scientific discovery workflows. The project turns the concept into a falsifiable comparison on Papers, domain corpora, experiment logs, using SciBERT + planner LLM as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.

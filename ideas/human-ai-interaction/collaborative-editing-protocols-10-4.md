@@ -32,10 +32,10 @@ Collaborative Editing Protocols
 协作编辑协议
 
 ## Tagline EN
-Test whether collaborative editing protocols can improve task completion, user effort, trust calibration, and accessibility in human-AI interfaces.
+Define a practical collaborative editing protocols that remains enforceable under real-world pressure.
 
 ## Tagline ZH
-检验“协作编辑协议”能否改善人机协作界面的任务完成率、用户负担、信任校准与可访问性。
+制定在真实压力下仍可执行的协作编辑协议方案。
 
 ## Summary EN
 Collaborative Editing Protocols studies a focused intervention for human-AI interfaces. The project turns the concept into a falsifiable comparison on User study logs + dialogue corpora, using General assistant model stack as the initial implementation target. Its value lies in showing not only whether the intervention works, but also when its gains justify the added complexity.
