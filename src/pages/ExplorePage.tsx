@@ -4,6 +4,7 @@ import { IdeaCard } from '../components/IdeaCard'
 import { demoIdeas, researchAreas } from '../data/ideas'
 import { translations } from '../i18n'
 import { filterAndSortIdeas, type ExploreFilters } from '../lib/idea-utils'
+import { localeLabel } from '../lib/locale-labels'
 import type { Locale } from '../types'
 
 type ExplorePageProps = {
@@ -86,7 +87,7 @@ export const ExplorePage = ({ locale }: ExplorePageProps) => {
               <option value="all">{t.filters.all}</option>
               {researchAreas.map((area) => (
                 <option key={area} value={area}>
-                  {area}
+                  {localeLabel(area, locale)}
                 </option>
               ))}
             </select>
@@ -101,7 +102,7 @@ export const ExplorePage = ({ locale }: ExplorePageProps) => {
               <option value="all">{t.filters.all}</option>
               {difficultyOptions.map((item) => (
                 <option key={item} value={item}>
-                  {item}
+                  {localeLabel(item, locale)}
                 </option>
               ))}
             </select>
@@ -116,7 +117,7 @@ export const ExplorePage = ({ locale }: ExplorePageProps) => {
               <option value="all">{t.filters.all}</option>
               {statusOptions.map((item) => (
                 <option key={item} value={item}>
-                  {item}
+                  {localeLabel(item, locale)}
                 </option>
               ))}
             </select>
@@ -131,7 +132,7 @@ export const ExplorePage = ({ locale }: ExplorePageProps) => {
               <option value="all">{t.filters.all}</option>
               {computeOptions.map((item) => (
                 <option key={item} value={item}>
-                  {item}
+                  {localeLabel(item, locale)}
                 </option>
               ))}
             </select>
@@ -146,7 +147,7 @@ export const ExplorePage = ({ locale }: ExplorePageProps) => {
               <option value="all">{t.filters.all}</option>
               {sourceOptions.map((item) => (
                 <option key={item} value={item}>
-                  {item}
+                  {localeLabel(item, locale)}
                 </option>
               ))}
             </select>

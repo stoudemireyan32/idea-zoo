@@ -12,7 +12,7 @@ Status date: 2026-09-08
 ## Product Capabilities
 - [x] Premium research-oriented visual direction
 - [x] English / 中文 language switch
-- [x] 10 demo ideas seeded in frontend
+- [x] 204 bilingual ideas sourced from markdown
 - [x] Random idea entry points
 - [x] Search across title/topic/method/model/dataset/keywords
 - [x] Filter by area / difficulty / status / compute / source
@@ -38,7 +38,8 @@ Status date: 2026-09-08
 - [x] `npm run build` passes
 - [x] GitHub Pages deploy workflow configured
 - [ ] Cross-device manual QA signoff (desktop/tablet/mobile)
-- [ ] Final copyediting pass for all 10 ideas
+- [x] Automated bilingual completeness and duplicate-content audit
+- [ ] Domain-expert review of research claims and quality scores
 
 ## Final Signoff Notes
 - This checklist is the release gate for MVP V0.1.

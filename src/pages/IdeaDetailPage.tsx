@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { demoIdeas } from '../data/ideas'
 import { translations } from '../i18n'
+import { localeLabel } from '../lib/locale-labels'
 import {
   communityGateway,
   type IdeaCommunitySnapshot,
@@ -71,9 +72,9 @@ export const IdeaDetailPage = ({ locale }: IdeaDetailPageProps) => {
           ← {t.idea.backToExplore}
         </Link>
         <div className="detail-tags">
-          <span className="pill">{idea.area}</span>
-          <span className="pill muted">{idea.status}</span>
-          <span className="pill muted">{idea.compute}</span>
+          <span className="pill">{localeLabel(idea.area, locale)}</span>
+          <span className="pill muted">{localeLabel(idea.status, locale)}</span>
+          <span className="pill muted">{localeLabel(idea.compute, locale)}</span>
         </div>
         <h1 className="page-title">{idea.title[locale]}</h1>
         <p className="page-subtitle">{idea.tagline[locale]}</p>
@@ -127,7 +128,7 @@ export const IdeaDetailPage = ({ locale }: IdeaDetailPageProps) => {
 
           <h2>🧪 {t.idea.verification}</h2>
           <p>
-            <strong>{idea.verificationVerdict}</strong>
+            <strong>{localeLabel(idea.verificationVerdict, locale)}</strong>
             <br />
             {idea.verificationNote[locale]}
           </p>
@@ -183,13 +184,15 @@ export const IdeaDetailPage = ({ locale }: IdeaDetailPageProps) => {
                 >
                   <span>{t.idea.discussOnGitHub}</span>
                   <strong>
-                    💬 {discussionStatus === 'live' ? 'Open Discussion' : 'Create Discussion'}
+                    💬 {discussionStatus === 'live'
+                      ? (locale === 'zh' ? '打开讨论' : 'Open Discussion')
+                      : (locale === 'zh' ? '创建讨论' : 'Create Discussion')}
                   </strong>
                 </a>
               ) : (
                 <div className="community-item community-disabled" title="本地 mock 未配置真实讨论链接">
                   <span>{t.idea.discussOnGitHub}</span>
-                  <strong>💬 Unavailable in local mock</strong>
+                  <strong>💬 {locale === 'zh' ? '本地模拟模式不可用' : 'Unavailable in local mock'}</strong>
                 </div>
               )}
             </div>
