@@ -61,6 +61,7 @@ export const IdeaDetailPage = ({ locale }: IdeaDetailPageProps) => {
     Math.max(0, Math.round((idea.upvotes + idea.downvotes) / 7))
   const viewerVote = community?.viewerVote ?? null
   const discussionUrl = community?.discussion.url ?? null
+  const discussionStatus = community?.discussion.status ?? 'draft'
   const hasDiscussion = Boolean(discussionUrl)
 
   return (
@@ -106,6 +107,29 @@ export const IdeaDetailPage = ({ locale }: IdeaDetailPageProps) => {
             <strong>🧪 {t.idea.dataset}:</strong> {idea.dataset}
             <br />
             <strong>🏷️ {t.idea.keywords}:</strong> {idea.keywords.join(', ')}
+          </p>
+
+          <h2>📊 {t.idea.qualityScores}</h2>
+          <p>
+            <strong>{t.idea.implementability}:</strong> {idea.qualityScores.implementability}/10
+            <br />
+            <strong>{t.idea.operability}:</strong> {idea.qualityScores.operability}/10
+            <br />
+            <strong>{t.idea.innovation}:</strong> {idea.qualityScores.innovation}/10
+            <br />
+            <strong>{t.idea.similarityRisk}:</strong> {idea.qualityScores.similarityRisk}/10
+            <br />
+            <strong>{t.idea.verificationConfidence}:</strong>{' '}
+            {idea.qualityScores.verificationConfidence}/10
+            <br />
+            <strong>{t.idea.potentialImpact}:</strong> {idea.qualityScores.potentialImpact}/10
+          </p>
+
+          <h2>🧪 {t.idea.verification}</h2>
+          <p>
+            <strong>{idea.verificationVerdict}</strong>
+            <br />
+            {idea.verificationNote[locale]}
           </p>
         </article>
 
@@ -158,7 +182,9 @@ export const IdeaDetailPage = ({ locale }: IdeaDetailPageProps) => {
                   rel="noreferrer"
                 >
                   <span>{t.idea.discussOnGitHub}</span>
-                  <strong>💬 Open Thread</strong>
+                  <strong>
+                    💬 {discussionStatus === 'live' ? 'Open Discussion' : 'Create Discussion'}
+                  </strong>
                 </a>
               ) : (
                 <div className="community-item community-disabled" title="本地 mock 未配置真实讨论链接">

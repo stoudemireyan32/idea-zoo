@@ -575,8 +575,21 @@ select {
   background: rgba(13, 17, 28, 0.9);
   color: var(--text);
   border-radius: 14px;
-  padding: 0.72rem 0.82rem;
+  padding: 0.72rem 0.9rem;
   font: inherit;
+}
+
+select {
+  width: 100%;
+  min-width: 0;
+  min-height: 46px;
+  appearance: none;
+  background-image: linear-gradient(45deg, transparent 50%, var(--muted) 50%),
+    linear-gradient(135deg, var(--muted) 50%, transparent 50%);
+  background-position: calc(100% - 18px) calc(50% - 3px), calc(100% - 12px) calc(50% - 3px);
+  background-size: 6px 6px, 6px 6px;
+  background-repeat: no-repeat;
+  padding-right: 2rem;
 }
 
 .search-input {
@@ -586,7 +599,7 @@ select {
 .filter-grid {
   display: grid;
   gap: 0.75rem;
-  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+  grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
 .filter-grid label {
@@ -594,6 +607,7 @@ select {
   gap: 0.45rem;
   color: var(--muted);
   font-size: 0.82rem;
+  min-width: 0;
 }
 
 .explore-tools {
@@ -839,6 +853,10 @@ select {
     grid-template-columns: 1fr;
   }
 
+  .filter-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
   .hero-copy {
     padding: 1.5rem;
   }
@@ -873,6 +891,10 @@ select {
 
   .result-count {
     margin-left: 0;
+  }
+
+  .filter-grid {
+    grid-template-columns: 1fr;
   }
 
   .community-grid {

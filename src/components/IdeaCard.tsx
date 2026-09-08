@@ -24,6 +24,11 @@ export const IdeaCard = ({ idea, locale }: IdeaCardProps) => {
         <span>👎 {idea.downvotes}</span>
         <span>⚡ {idea.score}</span>
       </div>
+      <div className="idea-metrics">
+        <span>✨ {idea.qualityScores.innovation}/10</span>
+        <span>🛠️ {idea.qualityScores.operability}/10</span>
+        <span>🧪 {idea.qualityScores.verificationConfidence}/10</span>
+      </div>
       <div className="idea-flags">
         <span className="flag">🤖 {t.idea.aiGenerated}</span>
         {idea.humanReviewed && <span className="flag">✓ {t.idea.humanReviewed}</span>}

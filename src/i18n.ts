@@ -64,6 +64,14 @@ export type I18nShape = {
     expectedOutcome: string
     whyNow: string
     executionContext: string
+    qualityScores: string
+    verification: string
+    implementability: string
+    operability: string
+    innovation: string
+    similarityRisk: string
+    verificationConfidence: string
+    potentialImpact: string
     model: string
     dataset: string
     keywords: string
@@ -116,14 +124,14 @@ export const translations: Record<Locale, I18nShape> = {
       secondary: '🎲 Random Idea',
     },
     stats: {
-      ideas: '10 Demo Ideas',
-      areas: '4 Research Tracks',
+      ideas: 'Curated Ideas',
+      areas: 'Research Categories',
       open: 'Open to Everyone',
     },
     sections: {
       featured: 'Featured Ideas',
       trending: 'Trending Now',
-      areas: 'Research Tracks',
+      areas: 'Research Categories',
       how: 'How It Works',
     },
     howSteps: [
@@ -134,7 +142,7 @@ export const translations: Record<Locale, I18nShape> = {
     explore: {
       title: 'Explore Research Ideas',
       subtitle:
-        'Search, filter, and sort ideas by area, difficulty, and research practicality.',
+        'Search, filter, and sort ideas by category, difficulty, and research practicality.',
       searchPlaceholder: 'Search title, method, model, dataset, or keywords…',
       noResult: 'No ideas match the current filters.',
       clearFilter: 'Clear Filters',
@@ -142,7 +150,7 @@ export const translations: Record<Locale, I18nShape> = {
       random: 'Random Idea',
     },
     filters: {
-      area: 'Research Track',
+      area: 'Category',
       difficulty: 'Difficulty',
       status: 'Status',
       compute: 'Compute',
@@ -167,6 +175,14 @@ export const translations: Record<Locale, I18nShape> = {
       expectedOutcome: 'Expected Outcome',
       whyNow: 'Why Now',
       executionContext: 'Execution Context',
+      qualityScores: 'Quality Scores',
+      verification: 'Verification',
+      implementability: 'Implementability',
+      operability: 'Operability',
+      innovation: 'Innovation',
+      similarityRisk: 'Similarity Risk',
+      verificationConfidence: 'Verification Confidence',
+      potentialImpact: 'Potential Impact',
       model: 'Suggested Model',
       dataset: 'Suggested Dataset',
       keywords: 'Keywords',
@@ -178,7 +194,7 @@ export const translations: Record<Locale, I18nShape> = {
       upvote: 'Upvote',
       downvote: 'Downvote',
       voteHint:
-        'Click the upvote/downvote stat card to vote. One vote per idea per local viewer (mutually exclusive, switchable). In local mock mode, discussion jump is disabled unless real discussion mapping is configured.',
+        'Click the upvote/downvote stat card to vote. One vote per idea per local viewer (mutually exclusive, switchable). The discussion card opens a real GitHub Discussion thread if it exists, or opens a prefilled create-discussion page.',
       aiGenerated: 'AI-generated',
       humanReviewed: 'Human reviewed',
     },
@@ -227,14 +243,14 @@ export const translations: Record<Locale, I18nShape> = {
       secondary: '🎲 随机 Idea',
     },
     stats: {
-      ideas: '10 个 Demo Ideas',
-      areas: '4 个研究 Track',
+      ideas: '精选 Ideas',
+      areas: '研究类别',
       open: '对所有人开放',
     },
     sections: {
       featured: '精选 Ideas',
       trending: '趋势热点',
-      areas: '研究 Track',
+      areas: '研究类别',
       how: '使用流程',
     },
     howSteps: ['发现值得投入的研究方向。', '公开讨论假设、风险与新颖性。', '构建实验并贡献改进。'],
@@ -248,7 +264,7 @@ export const translations: Record<Locale, I18nShape> = {
       random: '随机一个',
     },
     filters: {
-      area: '研究 Track',
+      area: '类别',
       difficulty: '难度',
       status: '状态',
       compute: '算力需求',
@@ -273,6 +289,14 @@ export const translations: Record<Locale, I18nShape> = {
       expectedOutcome: '预期结果',
       whyNow: '为什么现在做',
       executionContext: '执行上下文',
+      qualityScores: '质量评分',
+      verification: '验证结论',
+      implementability: '实现难度可控性',
+      operability: '可操作性',
+      innovation: '创新性',
+      similarityRisk: '雷同风险',
+      verificationConfidence: '验证可信度',
+      potentialImpact: '潜在影响力',
       model: '建议模型',
       dataset: '建议数据集',
       keywords: '关键词',
@@ -283,7 +307,7 @@ export const translations: Record<Locale, I18nShape> = {
       discussOnGitHub: '去 GitHub 讨论',
       upvote: '赞同',
       downvote: '反对',
-      voteHint: '请直接点击上方“赞同数/反对数”卡片进行投票。当前版本每个本地用户对每条 Idea 只能保留一票（赞同/反对互斥但可切换）。在本地 mock 模式下，若未配置真实讨论映射，讨论跳转会禁用。',
+      voteHint: '请直接点击上方“赞同数/反对数”卡片进行投票。当前版本每个本地用户对每条 Idea 只能保留一票（赞同/反对互斥但可切换）。讨论卡片会优先跳转到真实 GitHub Discussion；若该 Idea 尚未建帖，会跳转到预填充的新建讨论页面。',
       aiGenerated: 'AI 生成',
       humanReviewed: '人工审核',
     },

@@ -27,6 +27,7 @@ export type GitHubDiscussionRef = {
   repo: string
   number: number | null
   url: string | null
+  status: 'live' | 'draft'
   title: string
   categorySlug: string
   commentsCount: number
@@ -77,7 +78,7 @@ const voteStorageKey = 'idea-zoo:viewer-votes'
 const clientIdStorageKey = 'idea-zoo:client-id'
 
 const discussionNumberByIdeaId = new Map<string, number>(
-  demoIdeas.map((idea, index) => [idea.id, index + 1]),
+  [],
 )
 
 const canUseStorage = () => typeof window !== 'undefined' && !!window.localStorage
@@ -188,6 +189,7 @@ const mapDiscussionRecord = (
   repo,
   number: record.number,
   url: record.html_url || null,
+  status: 'live',
   title: record.title,
   categorySlug: record.category?.slug ?? 'ideas',
   commentsCount: record.comments ?? 0,
@@ -200,22 +202,38 @@ const makeFallbackDiscussion = (): GitHubDiscussionRef => ({
   repo: discussionRepo,
   number: null,
   url: null,
+  status: 'draft',
   title: 'Discussion unavailable in local mock',
   categorySlug: 'ideas',
   commentsCount: 0,
   updatedAt: new Date().toISOString(),
 })
 
+const buildDraftDiscussionUrl = (ideaId: string, ideaTitle: string): string => {
+  const title = encodeURIComponent(`[Idea Zoo] ${ideaTitle}`)
+  const body = encodeURIComponent(
+    `### Idea ID\n${ideaId}\n\n### Context\nAuto-generated discussion entry from Idea Zoo MVP.\n\n### Notes\nPlease discuss feasibility, novelty, and verification plan.`,
+  )
+
+  return `https://github.com/${discussionOwner}/${discussionRepo}/discussions/new?category=ideas&title=${title}&body=${body}`
+}
+
 const buildInitialSnapshotMap = () => {
   const map = new Map<string, IdeaCommunitySnapshot>()
 
   demoIdeas.forEach((idea, index) => {
-    const comments = Math.max(3, Math.round((idea.upvotes + idea.downvotes) / 7))
+    const liveDiscussionNumber = discussionNumberByIdeaId.get(idea.id) ?? null
+    const comments = liveDiscussionNumber
+      ? Math.max(3, Math.round((idea.upvotes + idea.downvotes) / 7))
+      : 0
+    const discussionUrl = liveDiscussionNumber
+      ? `https://github.com/${discussionOwner}/${discussionRepo}/discussions/${liveDiscussionNumber}`
+      : buildDraftDiscussionUrl(idea.id, idea.title.en)
 
     const discussionRecord: GitHubDiscussionApiRecord = {
-      number: index + 1,
+      number: liveDiscussionNumber ?? index + 1,
       title: idea.title.en,
-      html_url: '',
+      html_url: discussionUrl,
       category: { slug: 'ideas' },
       comments,
       updated_at: `${idea.createdAt}T09:00:00Z`,
@@ -225,9 +243,17 @@ const buildInitialSnapshotMap = () => {
       },
     }
 
+    const discussion = mapDiscussionRecord(
+      discussionRecord,
+      discussionOwner,
+      discussionRepo,
+    )
+
+    discussion.status = liveDiscussionNumber ? 'live' : 'draft'
+
     map.set(idea.id, {
       ideaId: idea.id,
-      discussion: mapDiscussionRecord(discussionRecord, discussionOwner, discussionRepo),
+      discussion,
       votes: toVoteStats(idea.upvotes, idea.downvotes, 'mock'),
       viewerVote: getViewerVote(idea.id),
     })

@@ -45,7 +45,7 @@ export const HomePage = ({ locale }: HomePageProps) => {
 
       <section className="stats-grid" aria-label="Idea Zoo stats">
         <div>
-          <p className="stats-value">10+</p>
+          <p className="stats-value">{demoIdeas.length}+</p>
           <p>{t.stats.ideas}</p>
         </div>
         <div>
