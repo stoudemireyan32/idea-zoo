@@ -42,8 +42,7 @@ const usePageTitle = (locale: Locale) => {
 
 const AppShell = () => {
   const initialLocale = useMemo<Locale>(() => {
-    const language = navigator.language.toLowerCase()
-    return language.startsWith('zh') ? 'zh' : 'en'
+    return 'en'
   }, [])
 
   const [locale, setLocale] = useState<Locale>(initialLocale)
