@@ -1,16 +1,10 @@
 export type Locale = 'en' | 'zh'
 
 export type ResearchArea =
-  | 'Reasoning'
-  | 'LLM'
-  | 'Multimodal / VLM'
-  | 'Agents'
-  | 'Video'
-  | 'Generative AI'
-  | 'Training / RL'
-  | 'Inference / Systems'
-  | 'Evaluation'
-  | 'AI for Science'
+  | 'Track A · LLM Reasoning & Reliability'
+  | 'Track B · RAG, Memory & Knowledge'
+  | 'Track C · Multimodal & Agentic Workflow'
+  | 'Track D · Open Community & Evaluation'
 
 export type IdeaDifficulty = 'Beginner' | 'Intermediate' | 'Advanced'
 export type IdeaStatus = 'Open' | 'Debate' | 'Claimed' | 'In Progress'

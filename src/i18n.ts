@@ -58,11 +58,12 @@ export type I18nShape = {
   }
   idea: {
     backToExplore: string
+    summary: string
     challenge: string
     method: string
     expectedOutcome: string
     whyNow: string
-    metadata: string
+    executionContext: string
     model: string
     dataset: string
     keywords: string
@@ -116,13 +117,13 @@ export const translations: Record<Locale, I18nShape> = {
     },
     stats: {
       ideas: '10 Demo Ideas',
-      areas: '10 Research Areas',
+      areas: '4 Research Tracks',
       open: 'Open to Everyone',
     },
     sections: {
       featured: 'Featured Ideas',
       trending: 'Trending Now',
-      areas: 'Research Areas',
+      areas: 'Research Tracks',
       how: 'How It Works',
     },
     howSteps: [
@@ -141,7 +142,7 @@ export const translations: Record<Locale, I18nShape> = {
       random: 'Random Idea',
     },
     filters: {
-      area: 'Research Area',
+      area: 'Research Track',
       difficulty: 'Difficulty',
       status: 'Status',
       compute: 'Compute',
@@ -160,11 +161,12 @@ export const translations: Record<Locale, I18nShape> = {
     },
     idea: {
       backToExplore: 'Back to Explore',
+      summary: 'Research Summary',
       challenge: 'Research Challenge',
       method: 'Proposed Method',
       expectedOutcome: 'Expected Outcome',
       whyNow: 'Why Now',
-      metadata: 'Idea Metadata',
+      executionContext: 'Execution Context',
       model: 'Suggested Model',
       dataset: 'Suggested Dataset',
       keywords: 'Keywords',
@@ -226,13 +228,13 @@ export const translations: Record<Locale, I18nShape> = {
     },
     stats: {
       ideas: '10 个 Demo Ideas',
-      areas: '10 个研究方向',
+      areas: '4 个研究 Track',
       open: '对所有人开放',
     },
     sections: {
       featured: '精选 Ideas',
       trending: '趋势热点',
-      areas: '研究方向',
+      areas: '研究 Track',
       how: '使用流程',
     },
     howSteps: ['发现值得投入的研究方向。', '公开讨论假设、风险与新颖性。', '构建实验并贡献改进。'],
@@ -246,7 +248,7 @@ export const translations: Record<Locale, I18nShape> = {
       random: '随机一个',
     },
     filters: {
-      area: '研究方向',
+      area: '研究 Track',
       difficulty: '难度',
       status: '状态',
       compute: '算力需求',
@@ -265,11 +267,12 @@ export const translations: Record<Locale, I18nShape> = {
     },
     idea: {
       backToExplore: '返回探索页',
+      summary: '研究摘要',
       challenge: '研究挑战',
       method: '建议方法',
       expectedOutcome: '预期结果',
       whyNow: '为什么现在做',
-      metadata: 'Idea 元信息',
+      executionContext: '执行上下文',
       model: '建议模型',
       dataset: '建议数据集',
       keywords: '关键词',

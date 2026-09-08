@@ -84,6 +84,9 @@ export const IdeaDetailPage = ({ locale }: IdeaDetailPageProps) => {
 
       <section className="section-block detail-layout">
         <article className="detail-main">
+          <h2>🧠 {t.idea.summary}</h2>
+          <p>{idea.summary[locale]}</p>
+
           <h2>🧩 {t.idea.challenge}</h2>
           <p>{idea.challenge[locale]}</p>
 
@@ -95,25 +98,18 @@ export const IdeaDetailPage = ({ locale }: IdeaDetailPageProps) => {
 
           <h2>⏱️ {t.idea.whyNow}</h2>
           <p>{idea.whyNow[locale]}</p>
+
+          <h2>🗂️ {t.idea.executionContext}</h2>
+          <p>
+            <strong>🧠 {t.idea.model}:</strong> {idea.model}
+            <br />
+            <strong>🧪 {t.idea.dataset}:</strong> {idea.dataset}
+            <br />
+            <strong>🏷️ {t.idea.keywords}:</strong> {idea.keywords.join(', ')}
+          </p>
         </article>
 
         <aside className="detail-side">
-          <h3>🗂️ {t.idea.metadata}</h3>
-          <ul>
-            <li>
-              <strong>🧠 {t.idea.model}</strong>
-              <span>{idea.model}</span>
-            </li>
-            <li>
-              <strong>🧪 {t.idea.dataset}</strong>
-              <span>{idea.dataset}</span>
-            </li>
-            <li>
-              <strong>🏷️ {t.idea.keywords}</strong>
-              <span>{idea.keywords.join(', ')}</span>
-            </li>
-          </ul>
-
           <div className="vote-box">
             <h3>🗳️ {t.idea.voting}</h3>
             <div className="community-grid">

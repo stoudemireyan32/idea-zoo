@@ -49,7 +49,7 @@ export const HomePage = ({ locale }: HomePageProps) => {
           <p>{t.stats.ideas}</p>
         </div>
         <div>
-          <p className="stats-value">10</p>
+          <p className="stats-value">{researchAreas.length}</p>
           <p>{t.stats.areas}</p>
         </div>
         <div>
